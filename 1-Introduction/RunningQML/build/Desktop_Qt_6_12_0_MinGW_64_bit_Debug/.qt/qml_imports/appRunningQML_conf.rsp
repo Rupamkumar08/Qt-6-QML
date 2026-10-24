@@ -1,0 +1,14 @@
+-rootPath
+D:/QML/1-Introduction/RunningQML
+-cmake-output
+-output-file
+D:/QML/1-Introduction/RunningQML/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/qml_imports/appRunningQML_conf.cmake
+-importPath
+D:/QML/1-Introduction/RunningQML/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug
+-importPath
+D:/QML/1-Introduction/RunningQML/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/RunningQML
+-importPath
+C:/Qt/6.12.0/mingw_64/qml
+-qrcFiles
+D:/QML/1-Introduction/RunningQML/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qmake_RunningQML.qrc
+D:/QML/1-Introduction/RunningQML/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/appRunningQML_raw_qml_0.qrc

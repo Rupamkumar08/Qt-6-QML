@@ -1,0 +1,6 @@
+module RunningQML
+typeinfo appRunningQML.qmltypes
+prefer :/qt/qml/RunningQML/
+Main 254.0 Main.qml
+depends QtQuick
+

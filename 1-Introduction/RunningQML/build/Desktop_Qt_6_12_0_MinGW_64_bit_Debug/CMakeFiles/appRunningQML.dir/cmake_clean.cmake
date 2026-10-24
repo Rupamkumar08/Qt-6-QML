@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appRunningQML_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_RunningQML.cpp"
+  ".rcc/qmlcache/appRunningQML_Main_qml.cpp"
+  ".rcc/qmlcache/appRunningQML_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appRunningQML_qmlcache_loader.cpp"
+  "CMakeFiles/appRunningQML.dir/appRunningQML_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appRunningQML.dir/appRunningQML_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appRunningQML.dir/apprunningqml_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appRunningQML.dir/apprunningqml_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appRunningQML.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appRunningQML_raw_qml_0.cpp.obj"
+  "CMakeFiles/appRunningQML.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appRunningQML_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appRunningQML.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_RunningQML.cpp.obj"
+  "CMakeFiles/appRunningQML.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_RunningQML.cpp.obj.d"
+  "CMakeFiles/appRunningQML.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appRunningQML_Main_qml.cpp.obj"
+  "CMakeFiles/appRunningQML.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appRunningQML_Main_qml.cpp.obj.d"
+  "CMakeFiles/appRunningQML.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appRunningQML_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appRunningQML.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appRunningQML_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appRunningQML.dir/main.cpp.obj"
+  "CMakeFiles/appRunningQML.dir/main.cpp.obj.d"
+  "CMakeFiles/appRunningQML_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appRunningQML_autogen.dir/ParseCache.txt"
+  "appRunningQML_autogen"
+  "RunningQML/appRunningQML.qmltypes"
+  "appRunningQML.exe"
+  "appRunningQML.exe.manifest"
+  "appRunningQML.pdb"
+  "appRunningQML_autogen/mocs_compilation.cpp"
+  "appRunningQML_autogen/timestamp"
+  "apprunningqml_qmltyperegistrations.cpp"
+  "libappRunningQML.dll.a"
+  "meta_types/appRunningQML_json_file_list.txt"
+  "meta_types/appRunningQML_json_file_list.txt.timestamp"
+  "meta_types/qt6apprunningqml_metatypes.json"
+  "meta_types/qt6apprunningqml_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appRunningQML.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
