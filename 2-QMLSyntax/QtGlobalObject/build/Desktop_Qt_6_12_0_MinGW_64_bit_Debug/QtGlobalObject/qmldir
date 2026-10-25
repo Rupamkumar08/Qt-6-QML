@@ -1,0 +1,6 @@
+module QtGlobalObject
+typeinfo appQtGlobalObject.qmltypes
+prefer :/qt/qml/QtGlobalObject/
+Main 254.0 Main.qml
+depends QtQuick
+

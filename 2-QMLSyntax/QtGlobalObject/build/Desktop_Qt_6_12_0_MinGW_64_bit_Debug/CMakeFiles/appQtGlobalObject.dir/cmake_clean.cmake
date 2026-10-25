@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appQtGlobalObject_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_QtGlobalObject.cpp"
+  ".rcc/qmlcache/appQtGlobalObject_Main_qml.cpp"
+  ".rcc/qmlcache/appQtGlobalObject_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appQtGlobalObject_qmlcache_loader.cpp"
+  "CMakeFiles/appQtGlobalObject.dir/appQtGlobalObject_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appQtGlobalObject.dir/appQtGlobalObject_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appQtGlobalObject.dir/appqtglobalobject_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appQtGlobalObject.dir/appqtglobalobject_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appQtGlobalObject.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appQtGlobalObject_raw_qml_0.cpp.obj"
+  "CMakeFiles/appQtGlobalObject.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appQtGlobalObject_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appQtGlobalObject.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_QtGlobalObject.cpp.obj"
+  "CMakeFiles/appQtGlobalObject.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_QtGlobalObject.cpp.obj.d"
+  "CMakeFiles/appQtGlobalObject.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appQtGlobalObject_Main_qml.cpp.obj"
+  "CMakeFiles/appQtGlobalObject.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appQtGlobalObject_Main_qml.cpp.obj.d"
+  "CMakeFiles/appQtGlobalObject.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appQtGlobalObject_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appQtGlobalObject.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appQtGlobalObject_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appQtGlobalObject.dir/main.cpp.obj"
+  "CMakeFiles/appQtGlobalObject.dir/main.cpp.obj.d"
+  "CMakeFiles/appQtGlobalObject_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appQtGlobalObject_autogen.dir/ParseCache.txt"
+  "appQtGlobalObject_autogen"
+  "QtGlobalObject/appQtGlobalObject.qmltypes"
+  "appQtGlobalObject.exe"
+  "appQtGlobalObject.exe.manifest"
+  "appQtGlobalObject.pdb"
+  "appQtGlobalObject_autogen/mocs_compilation.cpp"
+  "appQtGlobalObject_autogen/timestamp"
+  "appqtglobalobject_qmltyperegistrations.cpp"
+  "libappQtGlobalObject.dll.a"
+  "meta_types/appQtGlobalObject_json_file_list.txt"
+  "meta_types/appQtGlobalObject_json_file_list.txt.timestamp"
+  "meta_types/qt6appqtglobalobject_metatypes.json"
+  "meta_types/qt6appqtglobalobject_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appQtGlobalObject.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

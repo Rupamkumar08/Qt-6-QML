@@ -41,6 +41,7 @@ Window {
             onClicked: {
                 // redRectId.height = 100 // Replace the binding with a static value (Binding is broken)
                 // redRectId.height = redRectId.width * 2.5 // Breaks the binding again
+                // Updates the binding
                 redRectId.height = Qt.binding(function(){
                                     return redRectId.width * 2.5
                                 })
