@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/DataTypes/">
+    <file alias="Main.qml">D:/QML/2-QMLSyntax/DataTypes/Main.qml</file>
+  </qresource>
+</RCC>
+

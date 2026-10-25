@@ -1,0 +1,6 @@
+module DataTypes
+typeinfo appDataTypes.qmltypes
+prefer :/qt/qml/DataTypes/
+Main 254.0 Main.qml
+depends QtQuick
+

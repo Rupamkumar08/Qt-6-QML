@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appDataTypes_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_DataTypes.cpp"
+  ".rcc/qmlcache/appDataTypes_Main_qml.cpp"
+  ".rcc/qmlcache/appDataTypes_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appDataTypes_qmlcache_loader.cpp"
+  "CMakeFiles/appDataTypes.dir/appDataTypes_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appDataTypes.dir/appDataTypes_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appDataTypes.dir/appdatatypes_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appDataTypes.dir/appdatatypes_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appDataTypes.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appDataTypes_raw_qml_0.cpp.obj"
+  "CMakeFiles/appDataTypes.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appDataTypes_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appDataTypes.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_DataTypes.cpp.obj"
+  "CMakeFiles/appDataTypes.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_DataTypes.cpp.obj.d"
+  "CMakeFiles/appDataTypes.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appDataTypes_Main_qml.cpp.obj"
+  "CMakeFiles/appDataTypes.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appDataTypes_Main_qml.cpp.obj.d"
+  "CMakeFiles/appDataTypes.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appDataTypes_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appDataTypes.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appDataTypes_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appDataTypes.dir/main.cpp.obj"
+  "CMakeFiles/appDataTypes.dir/main.cpp.obj.d"
+  "CMakeFiles/appDataTypes_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appDataTypes_autogen.dir/ParseCache.txt"
+  "appDataTypes_autogen"
+  "DataTypes/appDataTypes.qmltypes"
+  "appDataTypes.exe"
+  "appDataTypes.exe.manifest"
+  "appDataTypes.pdb"
+  "appDataTypes_autogen/mocs_compilation.cpp"
+  "appDataTypes_autogen/timestamp"
+  "appdatatypes_qmltyperegistrations.cpp"
+  "libappDataTypes.dll.a"
+  "meta_types/appDataTypes_json_file_list.txt"
+  "meta_types/appDataTypes_json_file_list.txt.timestamp"
+  "meta_types/qt6appdatatypes_metatypes.json"
+  "meta_types/qt6appdatatypes_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appDataTypes.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
