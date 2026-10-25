@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/BasicQMLSytnax">
+    <file alias="qmldir">D:/QML/2-QMLSyntax/BasicQMLSytnax/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/BasicQMLSytnax/qmldir</file>
+  </qresource>
+</RCC>
+

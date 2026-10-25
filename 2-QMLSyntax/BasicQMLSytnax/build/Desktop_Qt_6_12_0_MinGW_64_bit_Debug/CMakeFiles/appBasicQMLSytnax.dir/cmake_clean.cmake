@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appBasicQMLSytnax_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_BasicQMLSytnax.cpp"
+  ".rcc/qmlcache/appBasicQMLSytnax_Main_qml.cpp"
+  ".rcc/qmlcache/appBasicQMLSytnax_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appBasicQMLSytnax_qmlcache_loader.cpp"
+  "BasicQMLSytnax/appBasicQMLSytnax.qmltypes"
+  "CMakeFiles/appBasicQMLSytnax.dir/appBasicQMLSytnax_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appBasicQMLSytnax.dir/appBasicQMLSytnax_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appBasicQMLSytnax.dir/appbasicqmlsytnax_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appBasicQMLSytnax.dir/appbasicqmlsytnax_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appBasicQMLSytnax.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appBasicQMLSytnax_raw_qml_0.cpp.obj"
+  "CMakeFiles/appBasicQMLSytnax.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appBasicQMLSytnax_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appBasicQMLSytnax.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_BasicQMLSytnax.cpp.obj"
+  "CMakeFiles/appBasicQMLSytnax.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_BasicQMLSytnax.cpp.obj.d"
+  "CMakeFiles/appBasicQMLSytnax.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appBasicQMLSytnax_Main_qml.cpp.obj"
+  "CMakeFiles/appBasicQMLSytnax.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appBasicQMLSytnax_Main_qml.cpp.obj.d"
+  "CMakeFiles/appBasicQMLSytnax.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appBasicQMLSytnax_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appBasicQMLSytnax.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appBasicQMLSytnax_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appBasicQMLSytnax.dir/main.cpp.obj"
+  "CMakeFiles/appBasicQMLSytnax.dir/main.cpp.obj.d"
+  "CMakeFiles/appBasicQMLSytnax_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appBasicQMLSytnax_autogen.dir/ParseCache.txt"
+  "appBasicQMLSytnax_autogen"
+  "appBasicQMLSytnax.exe"
+  "appBasicQMLSytnax.exe.manifest"
+  "appBasicQMLSytnax.pdb"
+  "appBasicQMLSytnax_autogen/mocs_compilation.cpp"
+  "appBasicQMLSytnax_autogen/timestamp"
+  "appbasicqmlsytnax_qmltyperegistrations.cpp"
+  "libappBasicQMLSytnax.dll.a"
+  "meta_types/appBasicQMLSytnax_json_file_list.txt"
+  "meta_types/appBasicQMLSytnax_json_file_list.txt.timestamp"
+  "meta_types/qt6appbasicqmlsytnax_metatypes.json"
+  "meta_types/qt6appbasicqmlsytnax_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appBasicQMLSytnax.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

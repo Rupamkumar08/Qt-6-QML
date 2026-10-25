@@ -1,0 +1,103 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 14,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 42,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 41,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 59,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 58,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 76,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 75,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 94,
+                            "message": "Cannot access value for name textToShow"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 93,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 99,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 98,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "D:/QML/2-QMLSyntax/BasicQMLSytnax/Main.qml"
+                }
+            ],
+            "moduleId": "BasicQMLSytnax(appBasicQMLSytnax)"
+        }
+    ]
+}

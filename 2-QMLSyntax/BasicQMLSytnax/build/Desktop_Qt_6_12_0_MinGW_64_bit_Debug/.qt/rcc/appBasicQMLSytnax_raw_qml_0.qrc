@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/BasicQMLSytnax/">
+    <file alias="Main.qml">D:/QML/2-QMLSyntax/BasicQMLSytnax/Main.qml</file>
+  </qresource>
+</RCC>
+
