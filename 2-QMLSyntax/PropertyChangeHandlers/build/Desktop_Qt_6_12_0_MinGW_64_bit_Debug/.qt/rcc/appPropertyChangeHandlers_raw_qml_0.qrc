@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/PropertyChangeHandlers/">
+    <file alias="Main.qml">D:/QML/2-QMLSyntax/PropertyChangeHandlers/Main.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,2 @@
+CMakeFiles/appPropertyChangeHandlers.dir/appPropertyChangeHandlers_autogen/mocs_compilation.cpp.obj: \
+ D:\QML\2-QMLSyntax\PropertyChangeHandlers\build\Desktop_Qt_6_12_0_MinGW_64_bit_Debug\appPropertyChangeHandlers_autogen\mocs_compilation.cpp

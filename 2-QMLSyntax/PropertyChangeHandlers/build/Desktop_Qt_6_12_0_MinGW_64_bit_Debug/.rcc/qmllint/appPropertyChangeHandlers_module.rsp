@@ -1,0 +1,14 @@
+-I
+D:/QML/2-QMLSyntax/PropertyChangeHandlers/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug
+-I
+D:/QML/2-QMLSyntax/PropertyChangeHandlers/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/PropertyChangeHandlers
+-I
+D:/QML/2-QMLSyntax/PropertyChangeHandlers/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug
+-I
+C:/Qt/6.12.0/mingw_64/qml
+--resource
+D:/QML/2-QMLSyntax/PropertyChangeHandlers/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qmake_PropertyChangeHandlers.qrc
+--resource
+D:/QML/2-QMLSyntax/PropertyChangeHandlers/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/appPropertyChangeHandlers_raw_qml_0.qrc
+--module
+PropertyChangeHandlers
