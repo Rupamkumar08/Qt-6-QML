@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appPropertyBindings_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_PropertyBindings.cpp"
+  ".rcc/qmlcache/appPropertyBindings_Main_qml.cpp"
+  ".rcc/qmlcache/appPropertyBindings_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appPropertyBindings_qmlcache_loader.cpp"
+  "CMakeFiles/appPropertyBindings.dir/appPropertyBindings_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appPropertyBindings.dir/appPropertyBindings_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appPropertyBindings.dir/apppropertybindings_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appPropertyBindings.dir/apppropertybindings_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appPropertyBindings.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appPropertyBindings_raw_qml_0.cpp.obj"
+  "CMakeFiles/appPropertyBindings.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appPropertyBindings_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appPropertyBindings.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_PropertyBindings.cpp.obj"
+  "CMakeFiles/appPropertyBindings.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_PropertyBindings.cpp.obj.d"
+  "CMakeFiles/appPropertyBindings.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appPropertyBindings_Main_qml.cpp.obj"
+  "CMakeFiles/appPropertyBindings.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appPropertyBindings_Main_qml.cpp.obj.d"
+  "CMakeFiles/appPropertyBindings.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appPropertyBindings_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appPropertyBindings.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appPropertyBindings_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appPropertyBindings.dir/main.cpp.obj"
+  "CMakeFiles/appPropertyBindings.dir/main.cpp.obj.d"
+  "CMakeFiles/appPropertyBindings_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appPropertyBindings_autogen.dir/ParseCache.txt"
+  "appPropertyBindings_autogen"
+  "PropertyBindings/appPropertyBindings.qmltypes"
+  "appPropertyBindings.exe"
+  "appPropertyBindings.exe.manifest"
+  "appPropertyBindings.pdb"
+  "appPropertyBindings_autogen/mocs_compilation.cpp"
+  "appPropertyBindings_autogen/timestamp"
+  "apppropertybindings_qmltyperegistrations.cpp"
+  "libappPropertyBindings.dll.a"
+  "meta_types/appPropertyBindings_json_file_list.txt"
+  "meta_types/appPropertyBindings_json_file_list.txt.timestamp"
+  "meta_types/qt6apppropertybindings_metatypes.json"
+  "meta_types/qt6apppropertybindings_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appPropertyBindings.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
