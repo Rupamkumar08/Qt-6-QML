@@ -21,8 +21,8 @@ Window {
             width: 100
             height: 100
             //Loading the image from the working directory
-            // source: "file:LearnQt.png"
-            source: "LearnQt.png"
+            source: "file:LearnQt.png"
+
         }
 
         Image

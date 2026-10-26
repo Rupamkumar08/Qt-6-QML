@@ -1,0 +1,15 @@
+-rootPath
+D:/QML/3-BasicElements/qt_add_resource
+-cmake-output
+-output-file
+D:/QML/3-BasicElements/qt_add_resource/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/qml_imports/appqt_add_resource_conf.cmake
+-importPath
+D:/QML/3-BasicElements/qt_add_resource/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug
+-importPath
+D:/QML/3-BasicElements/qt_add_resource/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/qt_add_resource
+-importPath
+C:/Qt/6.12.0/mingw_64/qml
+-qrcFiles
+D:/QML/3-BasicElements/qt_add_resource/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qmake_qt_add_resource.qrc
+D:/QML/3-BasicElements/qt_add_resource/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/appqt_add_resource_raw_qml_0.qrc
+D:/QML/3-BasicElements/qt_add_resource/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/appqt_add_resource_raw_res_0.qrc

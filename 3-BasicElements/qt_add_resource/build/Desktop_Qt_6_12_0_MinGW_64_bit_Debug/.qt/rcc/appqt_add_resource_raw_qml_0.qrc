@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt_add_resource/">
+    <file alias="Main.qml">D:/QML/3-BasicElements/qt_add_resource/Main.qml</file>
+  </qresource>
+</RCC>
+

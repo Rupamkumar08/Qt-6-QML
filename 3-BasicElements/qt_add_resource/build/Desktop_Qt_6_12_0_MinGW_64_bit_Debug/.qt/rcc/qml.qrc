@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="images/LearnQt.png">D:/QML/3-BasicElements/qt_add_resource/images/LearnQt.png</file>
+  </qresource>
+</RCC>
+

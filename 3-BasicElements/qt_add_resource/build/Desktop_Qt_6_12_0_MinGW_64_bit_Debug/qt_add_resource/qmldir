@@ -1,0 +1,6 @@
+module qt_add_resource
+typeinfo appqt_add_resource.qmltypes
+prefer :/qt_add_resource/
+Main 1.0 Main.qml
+depends QtQuick
+
