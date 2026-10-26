@@ -1,0 +1,6 @@
+module Image
+typeinfo appImage.qmltypes
+prefer :/qt/qml/Image/
+Main 254.0 Main.qml
+depends QtQuick
+

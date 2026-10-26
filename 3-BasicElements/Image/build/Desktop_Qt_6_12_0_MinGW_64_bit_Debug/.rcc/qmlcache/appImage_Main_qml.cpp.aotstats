@@ -1,0 +1,15 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                    ],
+                    "filePath": "D:/QML/3-BasicElements/Image/Main.qml"
+                }
+            ],
+            "moduleId": "Image(appImage)"
+        }
+    ]
+}
