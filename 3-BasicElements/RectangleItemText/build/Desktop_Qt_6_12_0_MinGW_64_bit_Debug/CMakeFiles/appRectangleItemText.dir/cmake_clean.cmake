@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appRectangleItemText_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_RectangleItemText.cpp"
+  ".rcc/qmlcache/appRectangleItemText_Main_qml.cpp"
+  ".rcc/qmlcache/appRectangleItemText_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appRectangleItemText_qmlcache_loader.cpp"
+  "CMakeFiles/appRectangleItemText.dir/appRectangleItemText_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appRectangleItemText.dir/appRectangleItemText_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appRectangleItemText.dir/apprectangleitemtext_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appRectangleItemText.dir/apprectangleitemtext_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appRectangleItemText.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appRectangleItemText_raw_qml_0.cpp.obj"
+  "CMakeFiles/appRectangleItemText.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appRectangleItemText_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appRectangleItemText.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_RectangleItemText.cpp.obj"
+  "CMakeFiles/appRectangleItemText.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_RectangleItemText.cpp.obj.d"
+  "CMakeFiles/appRectangleItemText.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appRectangleItemText_Main_qml.cpp.obj"
+  "CMakeFiles/appRectangleItemText.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appRectangleItemText_Main_qml.cpp.obj.d"
+  "CMakeFiles/appRectangleItemText.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appRectangleItemText_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appRectangleItemText.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appRectangleItemText_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appRectangleItemText.dir/main.cpp.obj"
+  "CMakeFiles/appRectangleItemText.dir/main.cpp.obj.d"
+  "CMakeFiles/appRectangleItemText_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appRectangleItemText_autogen.dir/ParseCache.txt"
+  "appRectangleItemText_autogen"
+  "RectangleItemText/appRectangleItemText.qmltypes"
+  "appRectangleItemText.exe"
+  "appRectangleItemText.exe.manifest"
+  "appRectangleItemText.pdb"
+  "appRectangleItemText_autogen/mocs_compilation.cpp"
+  "appRectangleItemText_autogen/timestamp"
+  "apprectangleitemtext_qmltyperegistrations.cpp"
+  "libappRectangleItemText.dll.a"
+  "meta_types/appRectangleItemText_json_file_list.txt"
+  "meta_types/appRectangleItemText_json_file_list.txt.timestamp"
+  "meta_types/qt6apprectangleitemtext_metatypes.json"
+  "meta_types/qt6apprectangleitemtext_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appRectangleItemText.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

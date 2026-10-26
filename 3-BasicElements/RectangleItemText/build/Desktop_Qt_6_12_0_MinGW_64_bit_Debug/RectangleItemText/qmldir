@@ -1,0 +1,6 @@
+module RectangleItemText
+typeinfo appRectangleItemText.qmltypes
+prefer :/qt/qml/RectangleItemText/
+Main 254.0 Main.qml
+depends QtQuick
+

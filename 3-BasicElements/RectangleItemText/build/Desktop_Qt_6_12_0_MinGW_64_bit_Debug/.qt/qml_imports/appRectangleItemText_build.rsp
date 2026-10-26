@@ -1,0 +1,14 @@
+-rootPath
+D:/QML/3-BasicElements/RectangleItemText
+-cmake-output
+-output-file
+D:/QML/3-BasicElements/RectangleItemText/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/qml_imports/appRectangleItemText_build.cmake
+-importPath
+D:/QML/3-BasicElements/RectangleItemText/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug
+-importPath
+D:/QML/3-BasicElements/RectangleItemText/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/RectangleItemText
+-importPath
+C:/Qt/6.12.0/mingw_64/qml
+-qrcFiles
+D:/QML/3-BasicElements/RectangleItemText/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qmake_RectangleItemText.qrc
+D:/QML/3-BasicElements/RectangleItemText/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/appRectangleItemText_raw_qml_0.qrc

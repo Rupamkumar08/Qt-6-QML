@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/RectangleItemText">
+    <file alias="qmldir">D:/QML/3-BasicElements/RectangleItemText/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/RectangleItemText/qmldir</file>
+  </qresource>
+</RCC>
+
