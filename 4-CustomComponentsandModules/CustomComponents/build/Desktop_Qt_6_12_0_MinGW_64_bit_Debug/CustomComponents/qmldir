@@ -1,0 +1,7 @@
+module CustomComponents
+typeinfo appCustomComponents.qmltypes
+prefer :/qt/qml/CustomComponents/
+Main 254.0 Main.qml
+MButton 254.0 MButton.qml
+depends QtQuick
+

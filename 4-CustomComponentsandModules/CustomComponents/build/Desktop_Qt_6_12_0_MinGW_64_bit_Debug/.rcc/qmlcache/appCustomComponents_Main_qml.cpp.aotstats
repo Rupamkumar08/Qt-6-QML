@@ -1,0 +1,31 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 30,
+                            "durationMicroseconds": 0,
+                            "functionName": "onButtonClicked",
+                            "line": 37,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 30,
+                            "durationMicroseconds": 0,
+                            "functionName": "onButtonClicked",
+                            "line": 45,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "D:/QML/4-CustomComponentsandModules/CustomComponents/Main.qml"
+                }
+            ],
+            "moduleId": "CustomComponents(appCustomComponents)"
+        }
+    ]
+}

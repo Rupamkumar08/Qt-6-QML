@@ -1,0 +1,6 @@
+--resource
+D:/QML/4-CustomComponentsandModules/CustomComponents/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qmake_CustomComponents.qrc
+--resource
+D:/QML/4-CustomComponentsandModules/CustomComponents/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/appCustomComponents_raw_qml_0.qrc
+/qt/qml/CustomComponents/Main.qml
+/qt/qml/CustomComponents/MButton.qml

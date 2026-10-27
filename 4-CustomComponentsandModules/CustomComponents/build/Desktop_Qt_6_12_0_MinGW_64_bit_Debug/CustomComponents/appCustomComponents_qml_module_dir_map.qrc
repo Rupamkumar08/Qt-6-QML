@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/CustomComponents">D:/QML/4-CustomComponentsandModules/CustomComponents/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CustomComponents</file>
+
+  </qresource>
+</RCC>

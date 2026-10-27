@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/CustomComponents/">
+    <file alias="Main.qml">D:/QML/4-CustomComponentsandModules/CustomComponents/Main.qml</file>
+    <file alias="MButton.qml">D:/QML/4-CustomComponentsandModules/CustomComponents/MButton.qml</file>
+  </qresource>
+</RCC>
+
