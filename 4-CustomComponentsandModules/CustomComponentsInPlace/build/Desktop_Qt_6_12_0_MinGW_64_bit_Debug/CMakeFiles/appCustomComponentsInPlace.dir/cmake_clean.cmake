@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appCustomComponentsInPlace_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_CustomComponentsInPlace.cpp"
+  ".rcc/qmlcache/appCustomComponentsInPlace_Main_qml.cpp"
+  ".rcc/qmlcache/appCustomComponentsInPlace_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appCustomComponentsInPlace_qmlcache_loader.cpp"
+  "CMakeFiles/appCustomComponentsInPlace.dir/26f2acbe261b9c32c87e94a8ea60d88b/.rcc/qmlcache/appCustomComponentsInPlace_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appCustomComponentsInPlace.dir/26f2acbe261b9c32c87e94a8ea60d88b/.rcc/qmlcache/appCustomComponentsInPlace_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appCustomComponentsInPlace.dir/appCustomComponentsInPlace_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appCustomComponentsInPlace.dir/appCustomComponentsInPlace_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appCustomComponentsInPlace.dir/appcustomcomponentsinplace_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appCustomComponentsInPlace.dir/appcustomcomponentsinplace_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appCustomComponentsInPlace.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appCustomComponentsInPlace_raw_qml_0.cpp.obj"
+  "CMakeFiles/appCustomComponentsInPlace.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appCustomComponentsInPlace_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appCustomComponentsInPlace.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_CustomComponentsInPlace.cpp.obj"
+  "CMakeFiles/appCustomComponentsInPlace.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_CustomComponentsInPlace.cpp.obj.d"
+  "CMakeFiles/appCustomComponentsInPlace.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appCustomComponentsInPlace_Main_qml.cpp.obj"
+  "CMakeFiles/appCustomComponentsInPlace.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appCustomComponentsInPlace_Main_qml.cpp.obj.d"
+  "CMakeFiles/appCustomComponentsInPlace.dir/main.cpp.obj"
+  "CMakeFiles/appCustomComponentsInPlace.dir/main.cpp.obj.d"
+  "CustomComponentsInPlace/appCustomComponentsInPlace.qmltypes"
+  "CMakeFiles/appCustomComponentsInPlace_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appCustomComponentsInPlace_autogen.dir/ParseCache.txt"
+  "appCustomComponentsInPlace_autogen"
+  "appCustomComponentsInPlace.exe"
+  "appCustomComponentsInPlace.exe.manifest"
+  "appCustomComponentsInPlace.pdb"
+  "appCustomComponentsInPlace_autogen/mocs_compilation.cpp"
+  "appCustomComponentsInPlace_autogen/timestamp"
+  "appcustomcomponentsinplace_qmltyperegistrations.cpp"
+  "libappCustomComponentsInPlace.dll.a"
+  "meta_types/appCustomComponentsInPlace_json_file_list.txt"
+  "meta_types/appCustomComponentsInPlace_json_file_list.txt.timestamp"
+  "meta_types/qt6appcustomcomponentsinplace_metatypes.json"
+  "meta_types/qt6appcustomcomponentsinplace_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appCustomComponentsInPlace.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

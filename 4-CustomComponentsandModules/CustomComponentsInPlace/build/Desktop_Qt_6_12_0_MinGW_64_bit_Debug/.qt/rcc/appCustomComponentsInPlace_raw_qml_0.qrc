@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/CustomComponentsInPlace/">
+    <file alias="Main.qml">D:/QML/4-CustomComponentsandModules/CustomComponentsInPlace/Main.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,2 @@
+CMakeFiles/appCustomComponentsInPlace.dir/appCustomComponentsInPlace_autogen/mocs_compilation.cpp.obj: \
+ D:\QML\4-CustomComponentsandModules\CustomComponentsInPlace\build\Desktop_Qt_6_12_0_MinGW_64_bit_Debug\appCustomComponentsInPlace_autogen\mocs_compilation.cpp

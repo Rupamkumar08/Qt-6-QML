@@ -1,0 +1,6 @@
+module CustomComponentsInPlace
+typeinfo appCustomComponentsInPlace.qmltypes
+prefer :/qt/qml/CustomComponentsInPlace/
+Main 254.0 Main.qml
+depends QtQuick
+
