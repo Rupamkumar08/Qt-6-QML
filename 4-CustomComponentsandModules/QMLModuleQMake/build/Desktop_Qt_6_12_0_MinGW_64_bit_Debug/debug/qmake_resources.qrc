@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/QMLModuleQMake">
+<file alias="main.qml">D:/QML/4-CustomComponentsandModules/QMLModuleQMake/main.qml</file>
+</qresource>
+</RCC>
