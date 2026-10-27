@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/GreatButtons">
+    <file alias="qmldir">D:/QML/4-CustomComponentsandModules/QMLModules/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/custom_buttons/qmldir</file>
+  </qresource>
+</RCC>
+

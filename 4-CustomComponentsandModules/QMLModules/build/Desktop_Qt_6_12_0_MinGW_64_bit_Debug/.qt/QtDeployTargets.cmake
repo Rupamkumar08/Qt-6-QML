@@ -1,0 +1,8 @@
+set(__QT_DEPLOY_TARGETS "GreatButtonsLib;GreatButtonsLibplugin;appQMLModules")
+set(__QT_DEPLOY_TARGET_GreatButtonsLib_FILE D:/QML/4-CustomComponentsandModules/QMLModules/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/custom_buttons/libGreatButtonsLib.a)
+set(__QT_DEPLOY_TARGET_GreatButtonsLib_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_GreatButtonsLibplugin_FILE D:/QML/4-CustomComponentsandModules/QMLModules/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/custom_buttons/libGreatButtonsLibplugin.a)
+set(__QT_DEPLOY_TARGET_GreatButtonsLibplugin_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_appQMLModules_FILE D:/QML/4-CustomComponentsandModules/QMLModules/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/appQMLModules.exe)
+set(__QT_DEPLOY_TARGET_appQMLModules_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_appQMLModules_RUNTIME_DLLS C:/Qt/6.12.0/mingw_64/bin/Qt6Quick.dll;C:/Qt/6.12.0/mingw_64/bin/Qt6OpenGL.dll;C:/Qt/6.12.0/mingw_64/bin/Qt6Gui.dll;C:/Qt/6.12.0/mingw_64/bin/Qt6QmlMeta.dll;C:/Qt/6.12.0/mingw_64/bin/Qt6QmlModels.dll;C:/Qt/6.12.0/mingw_64/bin/Qt6QmlWorkerScript.dll;C:/Qt/6.12.0/mingw_64/bin/Qt6Qml.dll;C:/Qt/6.12.0/mingw_64/bin/Qt6Network.dll;C:/Qt/6.12.0/mingw_64/bin/Qt6Core.dll)

@@ -1,0 +1,62 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"custom_buttons/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "GreatButtonsLibplugin_autogen_timestamp_deps::@75516f60985f69d4837b",
+	"isGeneratorProvided" : true,
+	"name" : "GreatButtonsLibplugin_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "custom_buttons",
+		"source" : "custom_buttons"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/custom_buttons/CMakeFiles/GreatButtonsLibplugin_autogen_timestamp_deps",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/custom_buttons/CMakeFiles/GreatButtonsLibplugin_autogen_timestamp_deps.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

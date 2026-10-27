@@ -1,0 +1,22 @@
+custom_buttons/CMakeFiles/GreatButtonsLib_resources_2.dir/.qt/rcc/qrc_GreatButtonsLib_raw_qml_0_init.cpp.obj: \
+ D:\QML\4-CustomComponentsandModules\QMLModules\build\Desktop_Qt_6_12_0_MinGW_64_bit_Debug\custom_buttons\.qt\rcc\qrc_GreatButtonsLib_raw_qml_0_init.cpp \
+ C:/Qt/6.12.0/mingw_64/include/QtCore/qtsymbolmacros.h \
+ C:/Qt/6.12.0/mingw_64/include/QtCore/qcompilerdetection.h \
+ C:/Qt/6.12.0/mingw_64/include/QtCore/qprocessordetection.h \
+ C:/Qt/6.12.0/mingw_64/include/QtCore/qsystemdetection.h \
+ C:/Qt/6.12.0/mingw_64/include/QtCore/qtconfiginclude.h \
+ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/version \
+ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
+ C:/Qt/6.12.0/mingw_64/include/QtCore/qconfig.h \
+ C:/Qt/6.12.0/mingw_64/include/QtCore/qtcore-config.h \
+ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/utility \
+ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_relops.h \
+ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
+ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
+ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h \
+ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
+ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
+ C:/Qt/6.12.0/mingw_64/include/QtCore/qtpreprocessorsupport.h

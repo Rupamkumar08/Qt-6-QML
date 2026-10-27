@@ -1,0 +1,12 @@
+module GreatButtons
+linktarget GreatButtonsLibplugin
+optional plugin GreatButtonsLibplugin
+classname GreatButtonsPlugin
+typeinfo GreatButtonsLib.qmltypes
+prefer :/GreatButtons/
+GrayButton 254.0 GrayButton.qml
+RedButton 254.0 RedButton.qml
+GreenButton 254.0 GreenButton.qml
+YellowButton 254.0 YellowButton.qml
+depends QtQuick
+

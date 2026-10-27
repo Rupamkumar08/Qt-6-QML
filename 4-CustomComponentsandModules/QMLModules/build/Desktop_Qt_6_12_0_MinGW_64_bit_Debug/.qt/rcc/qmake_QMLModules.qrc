@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/QMLModules">
+    <file alias="qmldir">D:/QML/4-CustomComponentsandModules/QMLModules/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/QMLModules/qmldir</file>
+  </qresource>
+</RCC>
+

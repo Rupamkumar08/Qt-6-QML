@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/GreatButtons/">
+    <file alias="GrayButton.qml">D:/QML/4-CustomComponentsandModules/QMLModules/custom_buttons/GrayButton.qml</file>
+    <file alias="RedButton.qml">D:/QML/4-CustomComponentsandModules/QMLModules/custom_buttons/RedButton.qml</file>
+    <file alias="GreenButton.qml">D:/QML/4-CustomComponentsandModules/QMLModules/custom_buttons/GreenButton.qml</file>
+    <file alias="YellowButton.qml">D:/QML/4-CustomComponentsandModules/QMLModules/custom_buttons/YellowButton.qml</file>
+  </qresource>
+</RCC>
+

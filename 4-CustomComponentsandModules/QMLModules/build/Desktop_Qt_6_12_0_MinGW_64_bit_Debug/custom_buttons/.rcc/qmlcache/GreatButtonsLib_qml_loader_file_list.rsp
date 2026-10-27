@@ -1,0 +1,8 @@
+--resource
+D:/QML/4-CustomComponentsandModules/QMLModules/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/custom_buttons/.qt/rcc/qmake_GreatButtons.qrc
+--resource
+D:/QML/4-CustomComponentsandModules/QMLModules/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/custom_buttons/.qt/rcc/GreatButtonsLib_raw_qml_0.qrc
+/GreatButtons/GrayButton.qml
+/GreatButtons/RedButton.qml
+/GreatButtons/GreenButton.qml
+/GreatButtons/YellowButton.qml

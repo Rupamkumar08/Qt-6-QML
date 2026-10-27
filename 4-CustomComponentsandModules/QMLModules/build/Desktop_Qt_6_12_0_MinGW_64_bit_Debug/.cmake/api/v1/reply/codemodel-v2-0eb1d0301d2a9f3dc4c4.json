@@ -1,0 +1,422 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b197b55e257a401d560e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38
+					]
+				},
+				{
+					"build" : "custom_buttons",
+					"jsonFile" : "directory-custom_buttons-Debug-02de426288f861d527a8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "custom_buttons",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "QMLModules",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "GreatButtonsLib::@75516f60985f69d4837b",
+					"jsonFile" : "target-GreatButtonsLib-Debug-cf8a41e90d387f087617.json",
+					"name" : "GreatButtonsLib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "GreatButtonsLib_autogen::@75516f60985f69d4837b",
+					"jsonFile" : "target-GreatButtonsLib_autogen-Debug-e8925cf460cb472f0dfe.json",
+					"name" : "GreatButtonsLib_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "GreatButtonsLib_autogen_timestamp_deps::@75516f60985f69d4837b",
+					"jsonFile" : "target-GreatButtonsLib_autogen_timestamp_deps-Debug-941e2b4649beff14d39e.json",
+					"name" : "GreatButtonsLib_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "GreatButtonsLib_copy_qml::@75516f60985f69d4837b",
+					"jsonFile" : "target-GreatButtonsLib_copy_qml-Debug-cb80cbd4c88a51b9c2b2.json",
+					"name" : "GreatButtonsLib_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "GreatButtonsLib_copy_res::@75516f60985f69d4837b",
+					"jsonFile" : "target-GreatButtonsLib_copy_res-Debug-02ac252aed7cc472921b.json",
+					"name" : "GreatButtonsLib_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "GreatButtonsLib_qmllint::@75516f60985f69d4837b",
+					"jsonFile" : "target-GreatButtonsLib_qmllint-Debug-9895898011b48b316da4.json",
+					"name" : "GreatButtonsLib_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "GreatButtonsLib_qmllint_json::@75516f60985f69d4837b",
+					"jsonFile" : "target-GreatButtonsLib_qmllint_json-Debug-a3f8987413504e5dd986.json",
+					"name" : "GreatButtonsLib_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "GreatButtonsLib_qmllint_module::@75516f60985f69d4837b",
+					"jsonFile" : "target-GreatButtonsLib_qmllint_module-Debug-4659ee6b0d0c48dc1d7c.json",
+					"name" : "GreatButtonsLib_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "GreatButtonsLib_qmltyperegistration::@75516f60985f69d4837b",
+					"jsonFile" : "target-GreatButtonsLib_qmltyperegistration-Debug-39e95245581246d9ce5e.json",
+					"name" : "GreatButtonsLib_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "GreatButtonsLib_resources_1::@75516f60985f69d4837b",
+					"jsonFile" : "target-GreatButtonsLib_resources_1-Debug-d9416e5271824bcf1ada.json",
+					"name" : "GreatButtonsLib_resources_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "GreatButtonsLib_resources_2::@75516f60985f69d4837b",
+					"jsonFile" : "target-GreatButtonsLib_resources_2-Debug-2473585c0ac041bbc252.json",
+					"name" : "GreatButtonsLib_resources_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "GreatButtonsLibplugin::@75516f60985f69d4837b",
+					"jsonFile" : "target-GreatButtonsLibplugin-Debug-c30b919dc36d487aca70.json",
+					"name" : "GreatButtonsLibplugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "GreatButtonsLibplugin_autogen::@75516f60985f69d4837b",
+					"jsonFile" : "target-GreatButtonsLibplugin_autogen-Debug-8222075a3c26e270e7f2.json",
+					"name" : "GreatButtonsLibplugin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "GreatButtonsLibplugin_autogen_timestamp_deps::@75516f60985f69d4837b",
+					"jsonFile" : "target-GreatButtonsLibplugin_autogen_timestamp_deps-Debug-699cd5c28189bacee921.json",
+					"name" : "GreatButtonsLibplugin_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "GreatButtonsLibplugin_init::@75516f60985f69d4837b",
+					"jsonFile" : "target-GreatButtonsLibplugin_init-Debug-2b7647e45aa6fcf1683a.json",
+					"name" : "GreatButtonsLibplugin_init",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "GreatButtonsLibplugin_init_autogen::@75516f60985f69d4837b",
+					"jsonFile" : "target-GreatButtonsLibplugin_init_autogen-Debug-5d621aa5eb9edd766635.json",
+					"name" : "GreatButtonsLibplugin_init_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "GreatButtonsLibplugin_init_autogen_timestamp_deps::@75516f60985f69d4837b",
+					"jsonFile" : "target-GreatButtonsLibplugin_init_autogen_timestamp_deps-Debug-acf2c7726e7b952abd7d.json",
+					"name" : "GreatButtonsLibplugin_init_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-40817b69d38d1de80677.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-eea3ccfb09d4f0cd0a0c.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-39fe5b085c1b3688320c.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-bd992ec240633bec34a1.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-2110aa2ac4374c90af0a.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQMLModules::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQMLModules-Debug-3ef92f835df9ff08d641.json",
+					"name" : "appQMLModules",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQMLModules_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQMLModules_autogen-Debug-742ffb8b35d8d9c96c93.json",
+					"name" : "appQMLModules_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQMLModules_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQMLModules_autogen_timestamp_deps-Debug-ebb16b5f9313f41a925e.json",
+					"name" : "appQMLModules_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQMLModules_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQMLModules_copy_qml-Debug-d4d14f18a3061ee9ea18.json",
+					"name" : "appQMLModules_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQMLModules_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQMLModules_copy_res-Debug-eea2911f2cb9e31c4cee.json",
+					"name" : "appQMLModules_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQMLModules_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQMLModules_qmlimportscan-Debug-b4f2aa985102d185cbd1.json",
+					"name" : "appQMLModules_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQMLModules_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQMLModules_qmllint-Debug-049bda2a656f91c51553.json",
+					"name" : "appQMLModules_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQMLModules_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQMLModules_qmllint_json-Debug-8376d0432d9d6c0ac2ae.json",
+					"name" : "appQMLModules_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQMLModules_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQMLModules_qmllint_module-Debug-5ca130c2d9afd4f055e1.json",
+					"name" : "appQMLModules_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQMLModules_qmlpreview::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQMLModules_qmlpreview-Debug-4bba5eb95888355af1ff.json",
+					"name" : "appQMLModules_qmlpreview",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQMLModules_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQMLModules_qmltyperegistration-Debug-940a512e248a39e47a2d.json",
+					"name" : "appQMLModules_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "clean_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-clean_qml_context_properties-Debug-d9c7218ce05fc6b92dfc.json",
+					"name" : "clean_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dump_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dump_qml_context_properties-Debug-3ee0b644658b3147f499.json",
+					"name" : "dump_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_finalqtconf_appQMLModules::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_finalqtconf_appQMLModules-Debug-668b5bd5145f97b3994b.json",
+					"name" : "generate_finalqtconf_appQMLModules",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_qmlls_build_ini_file-Debug-480bba932d553502c9eb.json",
+					"name" : "generate_qmlls_build_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_GreatButtonsLib_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_GreatButtonsLib_aotstats_target-Debug-7ca6f6ad3566a6ea0b4a.json",
+					"name" : "module_GreatButtonsLib_aotstats_target",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appQMLModules_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appQMLModules_aotstats_target-Debug-c83dafee0ed6a890b78b.json",
+					"name" : "module_appQMLModules_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QML/4-CustomComponentsandModules/QMLModules/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug",
+		"source" : "D:/QML/4-CustomComponentsandModules/QMLModules"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

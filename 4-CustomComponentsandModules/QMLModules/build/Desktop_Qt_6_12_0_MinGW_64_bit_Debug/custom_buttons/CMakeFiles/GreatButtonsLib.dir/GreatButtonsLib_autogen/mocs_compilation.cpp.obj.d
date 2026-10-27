@@ -1,0 +1,2 @@
+custom_buttons/CMakeFiles/GreatButtonsLib.dir/GreatButtonsLib_autogen/mocs_compilation.cpp.obj: \
+ D:\QML\4-CustomComponentsandModules\QMLModules\build\Desktop_Qt_6_12_0_MinGW_64_bit_Debug\custom_buttons\GreatButtonsLib_autogen\mocs_compilation.cpp

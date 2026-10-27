@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appQMLModules_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_QMLModules.cpp"
+  ".rcc/qmlcache/appQMLModules_Main_qml.cpp"
+  ".rcc/qmlcache/appQMLModules_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appQMLModules_qmlcache_loader.cpp"
+  "CMakeFiles/appQMLModules.dir/appQMLModules_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appQMLModules.dir/appQMLModules_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appQMLModules.dir/appqmlmodules_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appQMLModules.dir/appqmlmodules_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appQMLModules.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appQMLModules_raw_qml_0.cpp.obj"
+  "CMakeFiles/appQMLModules.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appQMLModules_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appQMLModules.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_QMLModules.cpp.obj"
+  "CMakeFiles/appQMLModules.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_QMLModules.cpp.obj.d"
+  "CMakeFiles/appQMLModules.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appQMLModules_Main_qml.cpp.obj"
+  "CMakeFiles/appQMLModules.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appQMLModules_Main_qml.cpp.obj.d"
+  "CMakeFiles/appQMLModules.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appQMLModules_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appQMLModules.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appQMLModules_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appQMLModules.dir/main.cpp.obj"
+  "CMakeFiles/appQMLModules.dir/main.cpp.obj.d"
+  "CMakeFiles/appQMLModules_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appQMLModules_autogen.dir/ParseCache.txt"
+  "appQMLModules_autogen"
+  "QMLModules/appQMLModules.qmltypes"
+  "appQMLModules.exe"
+  "appQMLModules.exe.manifest"
+  "appQMLModules.pdb"
+  "appQMLModules_autogen/mocs_compilation.cpp"
+  "appQMLModules_autogen/timestamp"
+  "appqmlmodules_qmltyperegistrations.cpp"
+  "libappQMLModules.dll.a"
+  "meta_types/appQMLModules_json_file_list.txt"
+  "meta_types/appQMLModules_json_file_list.txt.timestamp"
+  "meta_types/qt6appqmlmodules_metatypes.json"
+  "meta_types/qt6appqmlmodules_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appQMLModules.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
