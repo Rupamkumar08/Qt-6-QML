@@ -1,0 +1,6 @@
+module SignalHandlers
+typeinfo appSignalHandlers.qmltypes
+prefer :/qt/qml/SignalHandlers/
+Main 254.0 Main.qml
+depends QtQuick
+

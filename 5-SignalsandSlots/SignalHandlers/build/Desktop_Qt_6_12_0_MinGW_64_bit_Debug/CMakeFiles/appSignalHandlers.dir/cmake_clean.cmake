@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appSignalHandlers_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_SignalHandlers.cpp"
+  ".rcc/qmlcache/appSignalHandlers_Main_qml.cpp"
+  ".rcc/qmlcache/appSignalHandlers_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appSignalHandlers_qmlcache_loader.cpp"
+  "CMakeFiles/appSignalHandlers.dir/appSignalHandlers_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appSignalHandlers.dir/appSignalHandlers_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appSignalHandlers.dir/appsignalhandlers_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appSignalHandlers.dir/appsignalhandlers_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appSignalHandlers.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appSignalHandlers_raw_qml_0.cpp.obj"
+  "CMakeFiles/appSignalHandlers.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appSignalHandlers_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appSignalHandlers.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_SignalHandlers.cpp.obj"
+  "CMakeFiles/appSignalHandlers.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_SignalHandlers.cpp.obj.d"
+  "CMakeFiles/appSignalHandlers.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appSignalHandlers_Main_qml.cpp.obj"
+  "CMakeFiles/appSignalHandlers.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appSignalHandlers_Main_qml.cpp.obj.d"
+  "CMakeFiles/appSignalHandlers.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appSignalHandlers_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appSignalHandlers.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appSignalHandlers_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appSignalHandlers.dir/main.cpp.obj"
+  "CMakeFiles/appSignalHandlers.dir/main.cpp.obj.d"
+  "CMakeFiles/appSignalHandlers_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appSignalHandlers_autogen.dir/ParseCache.txt"
+  "appSignalHandlers_autogen"
+  "SignalHandlers/appSignalHandlers.qmltypes"
+  "appSignalHandlers.exe"
+  "appSignalHandlers.exe.manifest"
+  "appSignalHandlers.pdb"
+  "appSignalHandlers_autogen/mocs_compilation.cpp"
+  "appSignalHandlers_autogen/timestamp"
+  "appsignalhandlers_qmltyperegistrations.cpp"
+  "libappSignalHandlers.dll.a"
+  "meta_types/appSignalHandlers_json_file_list.txt"
+  "meta_types/appSignalHandlers_json_file_list.txt.timestamp"
+  "meta_types/qt6appsignalhandlers_metatypes.json"
+  "meta_types/qt6appsignalhandlers_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appSignalHandlers.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

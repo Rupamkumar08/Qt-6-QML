@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/SignalHandlers">
+    <file alias="qmldir">D:/QML/5-SignalsandSlots/SignalHandlers/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/SignalHandlers/qmldir</file>
+  </qresource>
+</RCC>
+
