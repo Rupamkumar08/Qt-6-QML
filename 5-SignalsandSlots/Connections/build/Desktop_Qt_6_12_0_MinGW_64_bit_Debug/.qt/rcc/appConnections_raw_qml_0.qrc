@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Connections/">
+    <file alias="Main.qml">D:/QML/5-SignalsandSlots/Connections/Main.qml</file>
+  </qresource>
+</RCC>
+

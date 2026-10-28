@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appConnections_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_Connections.cpp"
+  ".rcc/qmlcache/appConnections_Main_qml.cpp"
+  ".rcc/qmlcache/appConnections_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appConnections_qmlcache_loader.cpp"
+  "CMakeFiles/appConnections.dir/appConnections_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appConnections.dir/appConnections_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appConnections.dir/appconnections_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appConnections.dir/appconnections_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appConnections.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appConnections_raw_qml_0.cpp.obj"
+  "CMakeFiles/appConnections.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appConnections_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appConnections.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_Connections.cpp.obj"
+  "CMakeFiles/appConnections.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_Connections.cpp.obj.d"
+  "CMakeFiles/appConnections.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appConnections_Main_qml.cpp.obj"
+  "CMakeFiles/appConnections.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appConnections_Main_qml.cpp.obj.d"
+  "CMakeFiles/appConnections.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appConnections_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appConnections.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appConnections_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appConnections.dir/main.cpp.obj"
+  "CMakeFiles/appConnections.dir/main.cpp.obj.d"
+  "Connections/appConnections.qmltypes"
+  "CMakeFiles/appConnections_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appConnections_autogen.dir/ParseCache.txt"
+  "appConnections_autogen"
+  "appConnections.exe"
+  "appConnections.exe.manifest"
+  "appConnections.pdb"
+  "appConnections_autogen/mocs_compilation.cpp"
+  "appConnections_autogen/timestamp"
+  "appconnections_qmltyperegistrations.cpp"
+  "libappConnections.dll.a"
+  "meta_types/appConnections_json_file_list.txt"
+  "meta_types/appConnections_json_file_list.txt.timestamp"
+  "meta_types/qt6appconnections_metatypes.json"
+  "meta_types/qt6appconnections_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appConnections.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
