@@ -1,0 +1,16 @@
+--bare
+-I
+D:/QML/5-SignalsandSlots/ComponentSignals/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug
+-I
+D:/QML/5-SignalsandSlots/ComponentSignals/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/ComponentSignals
+-I
+D:/QML/5-SignalsandSlots/ComponentSignals/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug
+-I
+C:/Qt/6.12.0/mingw_64/qml
+--resource
+D:/QML/5-SignalsandSlots/ComponentSignals/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qmake_ComponentSignals.qrc
+--resource
+D:/QML/5-SignalsandSlots/ComponentSignals/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/appComponentSignals_raw_qml_0.qrc
+D:/QML/5-SignalsandSlots/ComponentSignals/Main.qml
+D:/QML/5-SignalsandSlots/ComponentSignals/Notifier.qml
+D:/QML/5-SignalsandSlots/ComponentSignals/Receiver.qml

@@ -1,0 +1,6 @@
+module CustomSignalToMethod
+typeinfo appCustomSignalToMethod.qmltypes
+prefer :/qt/qml/CustomSignalToMethod/
+Main 254.0 Main.qml
+depends QtQuick
+

@@ -1,0 +1,2 @@
+CMakeFiles/appMultipleSignalParameters.dir/appMultipleSignalParameters_autogen/mocs_compilation.cpp.obj: \
+ D:\QML\5-SignalsandSlots\MultipleSignalParameters\build\Desktop_Qt_6_12_0_MinGW_64_bit_Debug\appMultipleSignalParameters_autogen\mocs_compilation.cpp

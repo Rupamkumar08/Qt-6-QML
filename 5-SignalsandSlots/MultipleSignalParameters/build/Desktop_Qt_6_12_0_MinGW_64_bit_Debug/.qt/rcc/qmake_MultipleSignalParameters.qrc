@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/MultipleSignalParameters">
+    <file alias="qmldir">D:/QML/5-SignalsandSlots/MultipleSignalParameters/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/MultipleSignalParameters/qmldir</file>
+  </qresource>
+</RCC>
+

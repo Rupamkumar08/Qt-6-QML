@@ -1,0 +1,63 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 13,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 6,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 14,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 7,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 20,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 25,
+                            "message": "Cannot access value for name count"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 23,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 30,
+                            "message": "Cannot access value for name count"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 29,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "D:/QML/5-SignalsandSlots/ComponentSignals/Notifier.qml"
+                }
+            ],
+            "moduleId": "ComponentSignals(appComponentSignals)"
+        }
+    ]
+}

@@ -1,0 +1,2 @@
+CMakeFiles/appConnectingSignalsToSignals.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_ConnectingSignalsToSignals.cpp.obj: \
+ D:\QML\5-SignalsandSlots\ConnectingSignalsToSignals\build\Desktop_Qt_6_12_0_MinGW_64_bit_Debug\.qt\rcc\qrc_qmake_ConnectingSignalsToSignals.cpp

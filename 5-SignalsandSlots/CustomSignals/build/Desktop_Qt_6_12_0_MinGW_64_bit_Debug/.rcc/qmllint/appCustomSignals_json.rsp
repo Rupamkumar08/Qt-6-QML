@@ -1,0 +1,16 @@
+--bare
+-I
+D:/QML/5-SignalsandSlots/CustomSignals/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug
+-I
+D:/QML/5-SignalsandSlots/CustomSignals/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CustomSignals
+-I
+D:/QML/5-SignalsandSlots/CustomSignals/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug
+-I
+C:/Qt/6.12.0/mingw_64/qml
+--resource
+D:/QML/5-SignalsandSlots/CustomSignals/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qmake_CustomSignals.qrc
+--resource
+D:/QML/5-SignalsandSlots/CustomSignals/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/appCustomSignals_raw_qml_0.qrc
+D:/QML/5-SignalsandSlots/CustomSignals/Main.qml
+--json
+D:/QML/5-SignalsandSlots/CustomSignals/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/appCustomSignals_qmllint.json

@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appCustomSignalToMethod_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_CustomSignalToMethod.cpp"
+  ".rcc/qmlcache/appCustomSignalToMethod_Main_qml.cpp"
+  ".rcc/qmlcache/appCustomSignalToMethod_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appCustomSignalToMethod_qmlcache_loader.cpp"
+  "CMakeFiles/appCustomSignalToMethod.dir/appCustomSignalToMethod_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appCustomSignalToMethod.dir/appCustomSignalToMethod_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appCustomSignalToMethod.dir/appcustomsignaltomethod_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appCustomSignalToMethod.dir/appcustomsignaltomethod_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appCustomSignalToMethod.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appCustomSignalToMethod_raw_qml_0.cpp.obj"
+  "CMakeFiles/appCustomSignalToMethod.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appCustomSignalToMethod_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appCustomSignalToMethod.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_CustomSignalToMethod.cpp.obj"
+  "CMakeFiles/appCustomSignalToMethod.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_CustomSignalToMethod.cpp.obj.d"
+  "CMakeFiles/appCustomSignalToMethod.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appCustomSignalToMethod_Main_qml.cpp.obj"
+  "CMakeFiles/appCustomSignalToMethod.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appCustomSignalToMethod_Main_qml.cpp.obj.d"
+  "CMakeFiles/appCustomSignalToMethod.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appCustomSignalToMethod_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appCustomSignalToMethod.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appCustomSignalToMethod_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appCustomSignalToMethod.dir/main.cpp.obj"
+  "CMakeFiles/appCustomSignalToMethod.dir/main.cpp.obj.d"
+  "CustomSignalToMethod/appCustomSignalToMethod.qmltypes"
+  "CMakeFiles/appCustomSignalToMethod_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appCustomSignalToMethod_autogen.dir/ParseCache.txt"
+  "appCustomSignalToMethod_autogen"
+  "appCustomSignalToMethod.exe"
+  "appCustomSignalToMethod.exe.manifest"
+  "appCustomSignalToMethod.pdb"
+  "appCustomSignalToMethod_autogen/mocs_compilation.cpp"
+  "appCustomSignalToMethod_autogen/timestamp"
+  "appcustomsignaltomethod_qmltyperegistrations.cpp"
+  "libappCustomSignalToMethod.dll.a"
+  "meta_types/appCustomSignalToMethod_json_file_list.txt"
+  "meta_types/appCustomSignalToMethod_json_file_list.txt.timestamp"
+  "meta_types/qt6appcustomsignaltomethod_metatypes.json"
+  "meta_types/qt6appcustomsignaltomethod_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appCustomSignalToMethod.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

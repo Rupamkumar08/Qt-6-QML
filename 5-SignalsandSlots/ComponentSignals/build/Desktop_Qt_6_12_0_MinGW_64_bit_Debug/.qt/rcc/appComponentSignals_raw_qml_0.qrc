@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/ComponentSignals/">
+    <file alias="Main.qml">D:/QML/5-SignalsandSlots/ComponentSignals/Main.qml</file>
+    <file alias="Notifier.qml">D:/QML/5-SignalsandSlots/ComponentSignals/Notifier.qml</file>
+    <file alias="Receiver.qml">D:/QML/5-SignalsandSlots/ComponentSignals/Receiver.qml</file>
+  </qresource>
+</RCC>
+

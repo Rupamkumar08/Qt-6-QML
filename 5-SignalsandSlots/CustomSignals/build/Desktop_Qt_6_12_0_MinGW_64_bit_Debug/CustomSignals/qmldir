@@ -1,0 +1,6 @@
+module CustomSignals
+typeinfo appCustomSignals.qmltypes
+prefer :/qt/qml/CustomSignals/
+Main 254.0 Main.qml
+depends QtQuick
+

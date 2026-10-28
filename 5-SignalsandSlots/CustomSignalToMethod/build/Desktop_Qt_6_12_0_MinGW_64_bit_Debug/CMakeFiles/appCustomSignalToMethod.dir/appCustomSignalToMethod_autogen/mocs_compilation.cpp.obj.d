@@ -1,0 +1,2 @@
+CMakeFiles/appCustomSignalToMethod.dir/appCustomSignalToMethod_autogen/mocs_compilation.cpp.obj: \
+ D:\QML\5-SignalsandSlots\CustomSignalToMethod\build\Desktop_Qt_6_12_0_MinGW_64_bit_Debug\appCustomSignalToMethod_autogen\mocs_compilation.cpp

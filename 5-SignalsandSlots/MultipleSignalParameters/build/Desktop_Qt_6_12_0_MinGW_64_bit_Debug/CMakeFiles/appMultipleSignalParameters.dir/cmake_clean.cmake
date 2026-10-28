@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appMultipleSignalParameters_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_MultipleSignalParameters.cpp"
+  ".rcc/qmlcache/appMultipleSignalParameters_Main_qml.cpp"
+  ".rcc/qmlcache/appMultipleSignalParameters_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appMultipleSignalParameters_qmlcache_loader.cpp"
+  "CMakeFiles/appMultipleSignalParameters.dir/appMultipleSignalParameters_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appMultipleSignalParameters.dir/appMultipleSignalParameters_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appMultipleSignalParameters.dir/appmultiplesignalparameters_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appMultipleSignalParameters.dir/appmultiplesignalparameters_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appMultipleSignalParameters.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appMultipleSignalParameters_raw_qml_0.cpp.obj"
+  "CMakeFiles/appMultipleSignalParameters.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appMultipleSignalParameters_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appMultipleSignalParameters.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_MultipleSignalParameters.cpp.obj"
+  "CMakeFiles/appMultipleSignalParameters.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_MultipleSignalParameters.cpp.obj.d"
+  "CMakeFiles/appMultipleSignalParameters.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appMultipleSignalParameters_Main_qml.cpp.obj"
+  "CMakeFiles/appMultipleSignalParameters.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appMultipleSignalParameters_Main_qml.cpp.obj.d"
+  "CMakeFiles/appMultipleSignalParameters.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appMultipleSignalParameters_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appMultipleSignalParameters.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appMultipleSignalParameters_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appMultipleSignalParameters.dir/main.cpp.obj"
+  "CMakeFiles/appMultipleSignalParameters.dir/main.cpp.obj.d"
+  "CMakeFiles/appMultipleSignalParameters_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appMultipleSignalParameters_autogen.dir/ParseCache.txt"
+  "appMultipleSignalParameters_autogen"
+  "MultipleSignalParameters/appMultipleSignalParameters.qmltypes"
+  "appMultipleSignalParameters.exe"
+  "appMultipleSignalParameters.exe.manifest"
+  "appMultipleSignalParameters.pdb"
+  "appMultipleSignalParameters_autogen/mocs_compilation.cpp"
+  "appMultipleSignalParameters_autogen/timestamp"
+  "appmultiplesignalparameters_qmltyperegistrations.cpp"
+  "libappMultipleSignalParameters.dll.a"
+  "meta_types/appMultipleSignalParameters_json_file_list.txt"
+  "meta_types/appMultipleSignalParameters_json_file_list.txt.timestamp"
+  "meta_types/qt6appmultiplesignalparameters_metatypes.json"
+  "meta_types/qt6appmultiplesignalparameters_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appMultipleSignalParameters.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

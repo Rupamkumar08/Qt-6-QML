@@ -1,0 +1,8 @@
+module ComponentSignals
+typeinfo appComponentSignals.qmltypes
+prefer :/qt/qml/ComponentSignals/
+Main 254.0 Main.qml
+Notifier 254.0 Notifier.qml
+Receiver 254.0 Receiver.qml
+depends QtQuick
+

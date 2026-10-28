@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/ComponentSignals">
+    <file alias="qmldir">D:/QML/5-SignalsandSlots/ComponentSignals/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/ComponentSignals/qmldir</file>
+  </qresource>
+</RCC>
+

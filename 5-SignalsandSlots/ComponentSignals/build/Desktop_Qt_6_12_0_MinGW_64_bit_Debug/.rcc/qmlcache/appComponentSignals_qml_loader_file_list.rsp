@@ -1,0 +1,7 @@
+--resource
+D:/QML/5-SignalsandSlots/ComponentSignals/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qmake_ComponentSignals.qrc
+--resource
+D:/QML/5-SignalsandSlots/ComponentSignals/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/appComponentSignals_raw_qml_0.qrc
+/qt/qml/ComponentSignals/Main.qml
+/qt/qml/ComponentSignals/Notifier.qml
+/qt/qml/ComponentSignals/Receiver.qml

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/ConnectingSignalsToSignals">D:/QML/5-SignalsandSlots/ConnectingSignalsToSignals/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/ConnectingSignalsToSignals</file>
+
+  </qresource>
+</RCC>

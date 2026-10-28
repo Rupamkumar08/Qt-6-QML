@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\appComponentSignals.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\appComponentSignals.dir/objects.a @CMakeFiles\appComponentSignals.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\appComponentSignals.dir/objects.a -Wl,--no-whole-archive -o appComponentSignals.exe -Wl,--out-implib,libappComponentSignals.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\appComponentSignals.dir\linkLibs.rsp

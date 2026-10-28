@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appCustomSignals_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_CustomSignals.cpp"
+  ".rcc/qmlcache/appCustomSignals_Main_qml.cpp"
+  ".rcc/qmlcache/appCustomSignals_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appCustomSignals_qmlcache_loader.cpp"
+  "CMakeFiles/appCustomSignals.dir/appCustomSignals_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appCustomSignals.dir/appCustomSignals_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appCustomSignals.dir/appcustomsignals_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appCustomSignals.dir/appcustomsignals_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appCustomSignals.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appCustomSignals_raw_qml_0.cpp.obj"
+  "CMakeFiles/appCustomSignals.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appCustomSignals_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appCustomSignals.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_CustomSignals.cpp.obj"
+  "CMakeFiles/appCustomSignals.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_CustomSignals.cpp.obj.d"
+  "CMakeFiles/appCustomSignals.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appCustomSignals_Main_qml.cpp.obj"
+  "CMakeFiles/appCustomSignals.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appCustomSignals_Main_qml.cpp.obj.d"
+  "CMakeFiles/appCustomSignals.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appCustomSignals_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appCustomSignals.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appCustomSignals_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appCustomSignals.dir/main.cpp.obj"
+  "CMakeFiles/appCustomSignals.dir/main.cpp.obj.d"
+  "CustomSignals/appCustomSignals.qmltypes"
+  "CMakeFiles/appCustomSignals_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appCustomSignals_autogen.dir/ParseCache.txt"
+  "appCustomSignals_autogen"
+  "appCustomSignals.exe"
+  "appCustomSignals.exe.manifest"
+  "appCustomSignals.pdb"
+  "appCustomSignals_autogen/mocs_compilation.cpp"
+  "appCustomSignals_autogen/timestamp"
+  "appcustomsignals_qmltyperegistrations.cpp"
+  "libappCustomSignals.dll.a"
+  "meta_types/appCustomSignals_json_file_list.txt"
+  "meta_types/appCustomSignals_json_file_list.txt.timestamp"
+  "meta_types/qt6appcustomsignals_metatypes.json"
+  "meta_types/qt6appcustomsignals_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appCustomSignals.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

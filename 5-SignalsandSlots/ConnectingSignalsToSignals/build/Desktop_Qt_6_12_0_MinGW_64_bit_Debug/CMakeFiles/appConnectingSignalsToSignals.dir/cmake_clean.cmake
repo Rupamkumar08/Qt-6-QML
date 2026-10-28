@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appConnectingSignalsToSignals_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_ConnectingSignalsToSignals.cpp"
+  ".rcc/qmlcache/appConnectingSignalsToSignals_Main_qml.cpp"
+  ".rcc/qmlcache/appConnectingSignalsToSignals_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appConnectingSignalsToSignals_qmlcache_loader.cpp"
+  "CMakeFiles/appConnectingSignalsToSignals.dir/appConnectingSignalsToSignals_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appConnectingSignalsToSignals.dir/appConnectingSignalsToSignals_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appConnectingSignalsToSignals.dir/appconnectingsignalstosignals_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appConnectingSignalsToSignals.dir/appconnectingsignalstosignals_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appConnectingSignalsToSignals.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appConnectingSignalsToSignals_raw_qml_0.cpp.obj"
+  "CMakeFiles/appConnectingSignalsToSignals.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appConnectingSignalsToSignals_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appConnectingSignalsToSignals.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_ConnectingSignalsToSignals.cpp.obj"
+  "CMakeFiles/appConnectingSignalsToSignals.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_ConnectingSignalsToSignals.cpp.obj.d"
+  "CMakeFiles/appConnectingSignalsToSignals.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appConnectingSignalsToSignals_Main_qml.cpp.obj"
+  "CMakeFiles/appConnectingSignalsToSignals.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appConnectingSignalsToSignals_Main_qml.cpp.obj.d"
+  "CMakeFiles/appConnectingSignalsToSignals.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appConnectingSignalsToSignals_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appConnectingSignalsToSignals.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appConnectingSignalsToSignals_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appConnectingSignalsToSignals.dir/main.cpp.obj"
+  "CMakeFiles/appConnectingSignalsToSignals.dir/main.cpp.obj.d"
+  "ConnectingSignalsToSignals/appConnectingSignalsToSignals.qmltypes"
+  "CMakeFiles/appConnectingSignalsToSignals_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appConnectingSignalsToSignals_autogen.dir/ParseCache.txt"
+  "appConnectingSignalsToSignals_autogen"
+  "appConnectingSignalsToSignals.exe"
+  "appConnectingSignalsToSignals.exe.manifest"
+  "appConnectingSignalsToSignals.pdb"
+  "appConnectingSignalsToSignals_autogen/mocs_compilation.cpp"
+  "appConnectingSignalsToSignals_autogen/timestamp"
+  "appconnectingsignalstosignals_qmltyperegistrations.cpp"
+  "libappConnectingSignalsToSignals.dll.a"
+  "meta_types/appConnectingSignalsToSignals_json_file_list.txt"
+  "meta_types/appConnectingSignalsToSignals_json_file_list.txt.timestamp"
+  "meta_types/qt6appconnectingsignalstosignals_metatypes.json"
+  "meta_types/qt6appconnectingsignalstosignals_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appConnectingSignalsToSignals.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

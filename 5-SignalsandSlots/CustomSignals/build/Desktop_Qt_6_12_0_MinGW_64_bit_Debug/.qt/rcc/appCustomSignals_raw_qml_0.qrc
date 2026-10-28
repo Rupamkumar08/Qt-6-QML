@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/CustomSignals/">
+    <file alias="Main.qml">D:/QML/5-SignalsandSlots/CustomSignals/Main.qml</file>
+  </qresource>
+</RCC>
+

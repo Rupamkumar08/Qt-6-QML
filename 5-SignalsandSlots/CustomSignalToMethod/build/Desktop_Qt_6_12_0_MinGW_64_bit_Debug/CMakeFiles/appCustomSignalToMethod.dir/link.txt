@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\appCustomSignalToMethod.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\appCustomSignalToMethod.dir/objects.a @CMakeFiles\appCustomSignalToMethod.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\appCustomSignalToMethod.dir/objects.a -Wl,--no-whole-archive -o appCustomSignalToMethod.exe -Wl,--out-implib,libappCustomSignalToMethod.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\appCustomSignalToMethod.dir\linkLibs.rsp

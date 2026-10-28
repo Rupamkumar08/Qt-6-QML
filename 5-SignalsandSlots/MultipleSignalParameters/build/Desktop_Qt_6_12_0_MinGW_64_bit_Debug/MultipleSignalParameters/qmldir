@@ -1,0 +1,6 @@
+module MultipleSignalParameters
+typeinfo appMultipleSignalParameters.qmltypes
+prefer :/qt/qml/MultipleSignalParameters/
+Main 254.0 Main.qml
+depends QtQuick
+

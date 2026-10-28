@@ -18,7 +18,7 @@ Window {
 
         Component.onDestruction: {
             //Saving data from the UI to the data store
-            console.log(" Rectangele is dying...")
+            console.log(" Rectangle is dying...")
         }
 
     }

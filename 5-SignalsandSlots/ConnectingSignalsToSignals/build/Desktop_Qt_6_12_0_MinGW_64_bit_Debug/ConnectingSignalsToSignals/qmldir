@@ -1,0 +1,6 @@
+module ConnectingSignalsToSignals
+typeinfo appConnectingSignalsToSignals.qmltypes
+prefer :/qt/qml/ConnectingSignalsToSignals/
+Main 254.0 Main.qml
+depends QtQuick
+
