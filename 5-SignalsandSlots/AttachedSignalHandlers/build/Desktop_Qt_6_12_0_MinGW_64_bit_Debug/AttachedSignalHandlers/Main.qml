@@ -11,6 +11,16 @@ Window {
         width: 200
         height: 200
         color: "green"
+        Component.onCompleted: {
+            //Load data for use in the UI
+            console.log("Starting up rectangle...")
+        }
+
+        Component.onDestruction: {
+            //Saving data from the UI to the data store
+            console.log(" Rectangele is dying...")
+        }
+
     }
 
     Component.onCompleted: {

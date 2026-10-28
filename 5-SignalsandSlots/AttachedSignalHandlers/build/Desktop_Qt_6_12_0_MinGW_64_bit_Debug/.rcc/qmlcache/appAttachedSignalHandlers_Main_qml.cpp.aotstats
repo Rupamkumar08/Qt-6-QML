@@ -7,10 +7,26 @@
                     "entries": [
                         {
                             "codegenResult": 0,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "onCompleted",
+                            "line": 14,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 34,
+                            "durationMicroseconds": 0,
+                            "functionName": "onDestruction",
+                            "line": 19,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
                             "column": 28,
                             "durationMicroseconds": 0,
                             "functionName": "onCompleted",
-                            "line": 16,
+                            "line": 26,
                             "message": ""
                         },
                         {
@@ -18,7 +34,7 @@
                             "column": 30,
                             "durationMicroseconds": 0,
                             "functionName": "onDestruction",
-                            "line": 21,
+                            "line": 31,
                             "message": ""
                         }
                     ],
