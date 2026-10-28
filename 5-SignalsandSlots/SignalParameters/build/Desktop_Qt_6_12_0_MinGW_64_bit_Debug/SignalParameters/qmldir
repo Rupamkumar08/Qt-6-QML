@@ -1,0 +1,6 @@
+module SignalParameters
+typeinfo appSignalParameters.qmltypes
+prefer :/qt/qml/SignalParameters/
+Main 254.0 Main.qml
+depends QtQuick
+

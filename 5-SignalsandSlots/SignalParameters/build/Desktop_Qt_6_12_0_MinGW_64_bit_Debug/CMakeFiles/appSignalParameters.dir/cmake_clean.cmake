@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appSignalParameters_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_SignalParameters.cpp"
+  ".rcc/qmlcache/appSignalParameters_Main_qml.cpp"
+  ".rcc/qmlcache/appSignalParameters_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appSignalParameters_qmlcache_loader.cpp"
+  "CMakeFiles/appSignalParameters.dir/appSignalParameters_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appSignalParameters.dir/appSignalParameters_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appSignalParameters.dir/appsignalparameters_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appSignalParameters.dir/appsignalparameters_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appSignalParameters.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appSignalParameters_raw_qml_0.cpp.obj"
+  "CMakeFiles/appSignalParameters.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appSignalParameters_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appSignalParameters.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_SignalParameters.cpp.obj"
+  "CMakeFiles/appSignalParameters.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_SignalParameters.cpp.obj.d"
+  "CMakeFiles/appSignalParameters.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appSignalParameters_Main_qml.cpp.obj"
+  "CMakeFiles/appSignalParameters.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appSignalParameters_Main_qml.cpp.obj.d"
+  "CMakeFiles/appSignalParameters.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appSignalParameters_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appSignalParameters.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appSignalParameters_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appSignalParameters.dir/main.cpp.obj"
+  "CMakeFiles/appSignalParameters.dir/main.cpp.obj.d"
+  "CMakeFiles/appSignalParameters_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appSignalParameters_autogen.dir/ParseCache.txt"
+  "appSignalParameters_autogen"
+  "SignalParameters/appSignalParameters.qmltypes"
+  "appSignalParameters.exe"
+  "appSignalParameters.exe.manifest"
+  "appSignalParameters.pdb"
+  "appSignalParameters_autogen/mocs_compilation.cpp"
+  "appSignalParameters_autogen/timestamp"
+  "appsignalparameters_qmltyperegistrations.cpp"
+  "libappSignalParameters.dll.a"
+  "meta_types/appSignalParameters_json_file_list.txt"
+  "meta_types/appSignalParameters_json_file_list.txt.timestamp"
+  "meta_types/qt6appsignalparameters_metatypes.json"
+  "meta_types/qt6appsignalparameters_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appSignalParameters.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
