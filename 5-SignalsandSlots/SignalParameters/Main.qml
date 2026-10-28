@@ -23,7 +23,8 @@ Window {
             }
             */
 
-            //Syntax variation #2: JavasCript Functions
+            //Syntax variation #2: Javascript Functions
+            // This allows us to give different parameter name as well
             /*
             onClicked: function(mouse_param){
                  console.log("Position x: " + mouse_param.x + " ,y: " + mouse_param.y)

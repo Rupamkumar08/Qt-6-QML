@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appPropertyChangedHandler_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_PropertyChangedHandler.cpp"
+  ".rcc/qmlcache/appPropertyChangedHandler_Main_qml.cpp"
+  ".rcc/qmlcache/appPropertyChangedHandler_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appPropertyChangedHandler_qmlcache_loader.cpp"
+  "CMakeFiles/appPropertyChangedHandler.dir/appPropertyChangedHandler_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appPropertyChangedHandler.dir/appPropertyChangedHandler_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appPropertyChangedHandler.dir/apppropertychangedhandler_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appPropertyChangedHandler.dir/apppropertychangedhandler_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appPropertyChangedHandler.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appPropertyChangedHandler_raw_qml_0.cpp.obj"
+  "CMakeFiles/appPropertyChangedHandler.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appPropertyChangedHandler_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appPropertyChangedHandler.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_PropertyChangedHandler.cpp.obj"
+  "CMakeFiles/appPropertyChangedHandler.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_PropertyChangedHandler.cpp.obj.d"
+  "CMakeFiles/appPropertyChangedHandler.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appPropertyChangedHandler_Main_qml.cpp.obj"
+  "CMakeFiles/appPropertyChangedHandler.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appPropertyChangedHandler_Main_qml.cpp.obj.d"
+  "CMakeFiles/appPropertyChangedHandler.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appPropertyChangedHandler_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appPropertyChangedHandler.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appPropertyChangedHandler_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appPropertyChangedHandler.dir/main.cpp.obj"
+  "CMakeFiles/appPropertyChangedHandler.dir/main.cpp.obj.d"
+  "CMakeFiles/appPropertyChangedHandler_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appPropertyChangedHandler_autogen.dir/ParseCache.txt"
+  "appPropertyChangedHandler_autogen"
+  "PropertyChangedHandler/appPropertyChangedHandler.qmltypes"
+  "appPropertyChangedHandler.exe"
+  "appPropertyChangedHandler.exe.manifest"
+  "appPropertyChangedHandler.pdb"
+  "appPropertyChangedHandler_autogen/mocs_compilation.cpp"
+  "appPropertyChangedHandler_autogen/timestamp"
+  "apppropertychangedhandler_qmltyperegistrations.cpp"
+  "libappPropertyChangedHandler.dll.a"
+  "meta_types/appPropertyChangedHandler_json_file_list.txt"
+  "meta_types/appPropertyChangedHandler_json_file_list.txt.timestamp"
+  "meta_types/qt6apppropertychangedhandler_metatypes.json"
+  "meta_types/qt6apppropertychangedhandler_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appPropertyChangedHandler.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,6 @@
+module PropertyChangedHandler
+typeinfo appPropertyChangedHandler.qmltypes
+prefer :/qt/qml/PropertyChangedHandler/
+Main 254.0 Main.qml
+depends QtQuick
+
