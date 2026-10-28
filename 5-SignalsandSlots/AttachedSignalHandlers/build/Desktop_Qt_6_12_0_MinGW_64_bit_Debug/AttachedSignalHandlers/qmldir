@@ -1,0 +1,6 @@
+module AttachedSignalHandlers
+typeinfo appAttachedSignalHandlers.qmltypes
+prefer :/qt/qml/AttachedSignalHandlers/
+Main 254.0 Main.qml
+depends QtQuick
+

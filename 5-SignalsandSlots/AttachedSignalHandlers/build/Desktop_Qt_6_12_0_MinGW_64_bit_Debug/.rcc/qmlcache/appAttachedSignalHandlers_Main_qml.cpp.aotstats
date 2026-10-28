@@ -1,0 +1,31 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 0,
+                            "functionName": "onCompleted",
+                            "line": 16,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 30,
+                            "durationMicroseconds": 0,
+                            "functionName": "onDestruction",
+                            "line": 21,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "D:/QML/5-SignalsandSlots/AttachedSignalHandlers/Main.qml"
+                }
+            ],
+            "moduleId": "AttachedSignalHandlers(appAttachedSignalHandlers)"
+        }
+    ]
+}

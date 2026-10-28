@@ -1,0 +1,14 @@
+-rootPath
+D:/QML/5-SignalsandSlots/AttachedSignalHandlers
+-cmake-output
+-output-file
+D:/QML/5-SignalsandSlots/AttachedSignalHandlers/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/qml_imports/appAttachedSignalHandlers_build.cmake
+-importPath
+D:/QML/5-SignalsandSlots/AttachedSignalHandlers/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug
+-importPath
+D:/QML/5-SignalsandSlots/AttachedSignalHandlers/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/AttachedSignalHandlers
+-importPath
+C:/Qt/6.12.0/mingw_64/qml
+-qrcFiles
+D:/QML/5-SignalsandSlots/AttachedSignalHandlers/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qmake_AttachedSignalHandlers.qrc
+D:/QML/5-SignalsandSlots/AttachedSignalHandlers/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/appAttachedSignalHandlers_raw_qml_0.qrc
