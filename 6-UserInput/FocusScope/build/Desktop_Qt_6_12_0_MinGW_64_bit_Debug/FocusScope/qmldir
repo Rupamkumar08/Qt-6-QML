@@ -1,0 +1,7 @@
+module FocusScope
+typeinfo appFocusScope.qmltypes
+prefer :/qt/qml/FocusScope/
+Main 254.0 Main.qml
+CustomElement 254.0 CustomElement.qml
+depends QtQuick
+

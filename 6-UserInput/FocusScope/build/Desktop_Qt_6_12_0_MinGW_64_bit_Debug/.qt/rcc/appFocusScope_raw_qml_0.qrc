@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/FocusScope/">
+    <file alias="Main.qml">D:/QML/6-UserInput/FocusScope/Main.qml</file>
+    <file alias="CustomElement.qml">D:/QML/6-UserInput/FocusScope/CustomElement.qml</file>
+  </qresource>
+</RCC>
+
