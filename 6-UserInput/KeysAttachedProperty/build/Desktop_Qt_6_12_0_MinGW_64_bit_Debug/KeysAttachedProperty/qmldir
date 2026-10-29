@@ -1,0 +1,6 @@
+module KeysAttachedProperty
+typeinfo appKeysAttachedProperty.qmltypes
+prefer :/qt/qml/KeysAttachedProperty/
+Main 254.0 Main.qml
+depends QtQuick
+

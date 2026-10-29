@@ -1,0 +1,241 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-3ab6eb7d1185510aef13.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TextEdit",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-de34a4fb3bffbb520314.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-c26c99848c671d5bb387.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-ee73564ee18efa7e49a3.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-433d4be655bbb92893d9.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-3d7330390ca97e6c60a5.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTextEdit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTextEdit-Debug-5af1e528de00929f5dd0.json",
+					"name" : "appTextEdit",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTextEdit_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTextEdit_autogen-Debug-ce4035c6e755748a6cf4.json",
+					"name" : "appTextEdit_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTextEdit_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTextEdit_autogen_timestamp_deps-Debug-16edcf64a3bcd41697af.json",
+					"name" : "appTextEdit_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTextEdit_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTextEdit_copy_qml-Debug-46c7e0fd7247ab1c18c3.json",
+					"name" : "appTextEdit_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTextEdit_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTextEdit_copy_res-Debug-78376a241e10e59df571.json",
+					"name" : "appTextEdit_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTextEdit_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTextEdit_qmlimportscan-Debug-8245c263be4f0b5fab63.json",
+					"name" : "appTextEdit_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTextEdit_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTextEdit_qmllint-Debug-953067f034dcf15ebefa.json",
+					"name" : "appTextEdit_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTextEdit_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTextEdit_qmllint_json-Debug-f792c7480e9ee6e5372b.json",
+					"name" : "appTextEdit_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTextEdit_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTextEdit_qmllint_module-Debug-7bad9cbd4df7bcfab56f.json",
+					"name" : "appTextEdit_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTextEdit_qmlpreview::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTextEdit_qmlpreview-Debug-68f3152da9fb772edaa3.json",
+					"name" : "appTextEdit_qmlpreview",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTextEdit_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTextEdit_qmltyperegistration-Debug-21948a65d4bf24beb75a.json",
+					"name" : "appTextEdit_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "clean_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-clean_qml_context_properties-Debug-d9c7218ce05fc6b92dfc.json",
+					"name" : "clean_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dump_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dump_qml_context_properties-Debug-3ee0b644658b3147f499.json",
+					"name" : "dump_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_finalqtconf_appTextEdit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_finalqtconf_appTextEdit-Debug-1d41833e38b21f574d14.json",
+					"name" : "generate_finalqtconf_appTextEdit",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_qmlls_build_ini_file-Debug-480bba932d553502c9eb.json",
+					"name" : "generate_qmlls_build_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appTextEdit_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appTextEdit_aotstats_target-Debug-698d7918848f979c61aa.json",
+					"name" : "module_appTextEdit_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QML/6-UserInput/TextEdit/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug",
+		"source" : "D:/QML/6-UserInput/TextEdit"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

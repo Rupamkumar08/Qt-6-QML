@@ -1,0 +1,6 @@
+module MouseArea
+typeinfo appMouseArea.qmltypes
+prefer :/qt/qml/MouseArea/
+Main 254.0 Main.qml
+depends QtQuick
+

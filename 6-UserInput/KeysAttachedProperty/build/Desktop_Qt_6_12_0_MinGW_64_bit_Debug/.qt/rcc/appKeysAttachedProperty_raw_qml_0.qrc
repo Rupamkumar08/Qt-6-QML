@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/KeysAttachedProperty/">
+    <file alias="Main.qml">D:/QML/6-UserInput/KeysAttachedProperty/Main.qml</file>
+  </qresource>
+</RCC>
+

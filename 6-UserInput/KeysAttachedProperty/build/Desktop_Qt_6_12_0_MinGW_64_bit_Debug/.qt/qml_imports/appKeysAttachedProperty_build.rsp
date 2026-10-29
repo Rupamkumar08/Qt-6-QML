@@ -1,0 +1,14 @@
+-rootPath
+D:/QML/6-UserInput/KeysAttachedProperty
+-cmake-output
+-output-file
+D:/QML/6-UserInput/KeysAttachedProperty/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/qml_imports/appKeysAttachedProperty_build.cmake
+-importPath
+D:/QML/6-UserInput/KeysAttachedProperty/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug
+-importPath
+D:/QML/6-UserInput/KeysAttachedProperty/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/KeysAttachedProperty
+-importPath
+C:/Qt/6.12.0/mingw_64/qml
+-qrcFiles
+D:/QML/6-UserInput/KeysAttachedProperty/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qmake_KeysAttachedProperty.qrc
+D:/QML/6-UserInput/KeysAttachedProperty/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/appKeysAttachedProperty_raw_qml_0.qrc

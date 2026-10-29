@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appKeysAttachedProperty_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_KeysAttachedProperty.cpp"
+  ".rcc/qmlcache/appKeysAttachedProperty_Main_qml.cpp"
+  ".rcc/qmlcache/appKeysAttachedProperty_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appKeysAttachedProperty_qmlcache_loader.cpp"
+  "CMakeFiles/appKeysAttachedProperty.dir/appKeysAttachedProperty_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appKeysAttachedProperty.dir/appKeysAttachedProperty_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appKeysAttachedProperty.dir/appkeysattachedproperty_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appKeysAttachedProperty.dir/appkeysattachedproperty_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appKeysAttachedProperty.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appKeysAttachedProperty_raw_qml_0.cpp.obj"
+  "CMakeFiles/appKeysAttachedProperty.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appKeysAttachedProperty_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appKeysAttachedProperty.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_KeysAttachedProperty.cpp.obj"
+  "CMakeFiles/appKeysAttachedProperty.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_KeysAttachedProperty.cpp.obj.d"
+  "CMakeFiles/appKeysAttachedProperty.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appKeysAttachedProperty_Main_qml.cpp.obj"
+  "CMakeFiles/appKeysAttachedProperty.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appKeysAttachedProperty_Main_qml.cpp.obj.d"
+  "CMakeFiles/appKeysAttachedProperty.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appKeysAttachedProperty_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appKeysAttachedProperty.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appKeysAttachedProperty_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appKeysAttachedProperty.dir/main.cpp.obj"
+  "CMakeFiles/appKeysAttachedProperty.dir/main.cpp.obj.d"
+  "CMakeFiles/appKeysAttachedProperty_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appKeysAttachedProperty_autogen.dir/ParseCache.txt"
+  "appKeysAttachedProperty_autogen"
+  "KeysAttachedProperty/appKeysAttachedProperty.qmltypes"
+  "appKeysAttachedProperty.exe"
+  "appKeysAttachedProperty.exe.manifest"
+  "appKeysAttachedProperty.pdb"
+  "appKeysAttachedProperty_autogen/mocs_compilation.cpp"
+  "appKeysAttachedProperty_autogen/timestamp"
+  "appkeysattachedproperty_qmltyperegistrations.cpp"
+  "libappKeysAttachedProperty.dll.a"
+  "meta_types/appKeysAttachedProperty_json_file_list.txt"
+  "meta_types/appKeysAttachedProperty_json_file_list.txt.timestamp"
+  "meta_types/qt6appkeysattachedproperty_metatypes.json"
+  "meta_types/qt6appkeysattachedproperty_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appKeysAttachedProperty.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

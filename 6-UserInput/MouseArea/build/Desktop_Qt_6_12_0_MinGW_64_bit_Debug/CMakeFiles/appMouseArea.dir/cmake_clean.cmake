@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appMouseArea_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_MouseArea.cpp"
+  ".rcc/qmlcache/appMouseArea_Main_qml.cpp"
+  ".rcc/qmlcache/appMouseArea_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appMouseArea_qmlcache_loader.cpp"
+  "CMakeFiles/appMouseArea.dir/appMouseArea_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appMouseArea.dir/appMouseArea_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appMouseArea.dir/appmousearea_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appMouseArea.dir/appmousearea_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appMouseArea.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appMouseArea_raw_qml_0.cpp.obj"
+  "CMakeFiles/appMouseArea.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appMouseArea_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appMouseArea.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_MouseArea.cpp.obj"
+  "CMakeFiles/appMouseArea.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_MouseArea.cpp.obj.d"
+  "CMakeFiles/appMouseArea.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appMouseArea_Main_qml.cpp.obj"
+  "CMakeFiles/appMouseArea.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appMouseArea_Main_qml.cpp.obj.d"
+  "CMakeFiles/appMouseArea.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appMouseArea_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appMouseArea.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appMouseArea_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appMouseArea.dir/main.cpp.obj"
+  "CMakeFiles/appMouseArea.dir/main.cpp.obj.d"
+  "CMakeFiles/appMouseArea_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appMouseArea_autogen.dir/ParseCache.txt"
+  "appMouseArea_autogen"
+  "MouseArea/appMouseArea.qmltypes"
+  "appMouseArea.exe"
+  "appMouseArea.exe.manifest"
+  "appMouseArea.pdb"
+  "appMouseArea_autogen/mocs_compilation.cpp"
+  "appMouseArea_autogen/timestamp"
+  "appmousearea_qmltyperegistrations.cpp"
+  "libappMouseArea.dll.a"
+  "meta_types/appMouseArea_json_file_list.txt"
+  "meta_types/appMouseArea_json_file_list.txt.timestamp"
+  "meta_types/qt6appmousearea_metatypes.json"
+  "meta_types/qt6appmousearea_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appMouseArea.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

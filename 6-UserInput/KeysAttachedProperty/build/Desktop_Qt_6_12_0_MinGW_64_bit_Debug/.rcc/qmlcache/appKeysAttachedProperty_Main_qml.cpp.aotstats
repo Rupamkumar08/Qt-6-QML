@@ -1,0 +1,55 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 20,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 26,
+                            "durationMicroseconds": 1000,
+                            "functionName": "onPressed",
+                            "line": 58,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 26,
+                            "durationMicroseconds": 0,
+                            "functionName": "onPressed",
+                            "line": 58,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 26,
+                            "durationMicroseconds": 1000,
+                            "functionName": "onReleased",
+                            "line": 67,
+                            "message": "Cannot generate efficient code for call to untyped JavaScript function"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 26,
+                            "durationMicroseconds": 0,
+                            "functionName": "onReleased",
+                            "line": 67,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "D:/QML/6-UserInput/KeysAttachedProperty/Main.qml"
+                }
+            ],
+            "moduleId": "KeysAttachedProperty(appKeysAttachedProperty)"
+        }
+    ]
+}

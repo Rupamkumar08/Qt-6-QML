@@ -1,0 +1,39 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 19,
+                            "durationMicroseconds": 0,
+                            "functionName": "wrapMode",
+                            "line": 17,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 22,
+                            "durationMicroseconds": 0,
+                            "functionName": "textFormat",
+                            "line": 18,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 0,
+                            "functionName": "onEditingFinished",
+                            "line": 20,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "D:/QML/6-UserInput/TextEdit/Main.qml"
+                }
+            ],
+            "moduleId": "TextEdit(appTextEdit)"
+        }
+    ]
+}

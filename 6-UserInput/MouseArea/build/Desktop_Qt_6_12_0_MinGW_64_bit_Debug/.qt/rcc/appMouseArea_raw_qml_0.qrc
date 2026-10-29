@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/MouseArea/">
+    <file alias="Main.qml">D:/QML/6-UserInput/MouseArea/Main.qml</file>
+  </qresource>
+</RCC>
+

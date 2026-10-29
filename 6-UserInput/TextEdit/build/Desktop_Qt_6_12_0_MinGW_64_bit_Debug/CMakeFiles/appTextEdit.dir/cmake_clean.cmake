@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appTextEdit_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_TextEdit.cpp"
+  ".rcc/qmlcache/appTextEdit_Main_qml.cpp"
+  ".rcc/qmlcache/appTextEdit_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appTextEdit_qmlcache_loader.cpp"
+  "CMakeFiles/appTextEdit.dir/appTextEdit_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appTextEdit.dir/appTextEdit_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appTextEdit.dir/apptextedit_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appTextEdit.dir/apptextedit_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appTextEdit.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appTextEdit_raw_qml_0.cpp.obj"
+  "CMakeFiles/appTextEdit.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appTextEdit_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appTextEdit.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_TextEdit.cpp.obj"
+  "CMakeFiles/appTextEdit.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_TextEdit.cpp.obj.d"
+  "CMakeFiles/appTextEdit.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appTextEdit_Main_qml.cpp.obj"
+  "CMakeFiles/appTextEdit.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appTextEdit_Main_qml.cpp.obj.d"
+  "CMakeFiles/appTextEdit.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appTextEdit_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appTextEdit.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appTextEdit_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appTextEdit.dir/main.cpp.obj"
+  "CMakeFiles/appTextEdit.dir/main.cpp.obj.d"
+  "CMakeFiles/appTextEdit_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appTextEdit_autogen.dir/ParseCache.txt"
+  "appTextEdit_autogen"
+  "TextEdit/appTextEdit.qmltypes"
+  "appTextEdit.exe"
+  "appTextEdit.exe.manifest"
+  "appTextEdit.pdb"
+  "appTextEdit_autogen/mocs_compilation.cpp"
+  "appTextEdit_autogen/timestamp"
+  "apptextedit_qmltyperegistrations.cpp"
+  "libappTextEdit.dll.a"
+  "meta_types/appTextEdit_json_file_list.txt"
+  "meta_types/appTextEdit_json_file_list.txt.timestamp"
+  "meta_types/qt6apptextedit_metatypes.json"
+  "meta_types/qt6apptextedit_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appTextEdit.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

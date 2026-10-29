@@ -9,8 +9,7 @@ Window {
     title: qsTr("TextInput: Doing Better!")
 
     ColumnLayout {
-        anchors.fill: parent
-        anchors.topMargin: 50
+        Layout.topMargin: 10
         spacing: 50
 
         LabeledTextInput {
