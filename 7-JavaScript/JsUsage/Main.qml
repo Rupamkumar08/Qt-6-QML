@@ -10,9 +10,14 @@ Window {
     Rectangle {
         id : containerRectId
         width : 40
-        height : getHeight()
-        color: x > 300 ? "red" : "green"
+        height : getHeight() // Js in action
+        color: x > 300 ? "red" : "green" // Property Binding as color is bound to x
         // anchors.centerIn: parent
+
+        // Property change Handler
+        onXChanged: function() {
+            console.log("x : " + x + " ,y: " + y)
+        }
 
         // Custom JS function to return the height
         function getHeight(){

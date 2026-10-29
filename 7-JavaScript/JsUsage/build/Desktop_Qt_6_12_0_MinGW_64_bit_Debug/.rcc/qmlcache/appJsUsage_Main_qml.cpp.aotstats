@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 18,
-                            "durationMicroseconds": 0,
+                            "durationMicroseconds": 1000,
                             "functionName": "height",
                             "line": 13,
                             "message": ""
@@ -22,11 +22,27 @@
                             "message": ""
                         },
                         {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 0,
+                            "functionName": "onXChanged",
+                            "line": 18,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 0,
+                            "functionName": "onXChanged",
+                            "line": 18,
+                            "message": ""
+                        },
+                        {
                             "codegenResult": 2,
                             "column": 9,
                             "durationMicroseconds": 0,
                             "functionName": "getHeight",
-                            "line": 18,
+                            "line": 23,
                             "message": "function without return type annotation returns double. This may prevent proper compilation to Cpp."
                         },
                         {
@@ -34,7 +50,7 @@
                             "column": 24,
                             "durationMicroseconds": 0,
                             "functionName": "fill",
-                            "line": 25,
+                            "line": 30,
                             "message": ""
                         },
                         {
@@ -42,7 +58,7 @@
                             "column": 23,
                             "durationMicroseconds": 0,
                             "functionName": "target",
-                            "line": 26,
+                            "line": 31,
                             "message": ""
                         },
                         {
@@ -50,7 +66,7 @@
                             "column": 21,
                             "durationMicroseconds": 0,
                             "functionName": "axis",
-                            "line": 27,
+                            "line": 32,
                             "message": ""
                         },
                         {
@@ -58,7 +74,7 @@
                             "column": 25,
                             "durationMicroseconds": 0,
                             "functionName": "maximumX",
-                            "line": 29,
+                            "line": 34,
                             "message": ""
                         },
                         {
@@ -66,7 +82,7 @@
                             "column": 25,
                             "durationMicroseconds": 0,
                             "functionName": "maximumY",
-                            "line": 31,
+                            "line": 36,
                             "message": ""
                         }
                     ],
