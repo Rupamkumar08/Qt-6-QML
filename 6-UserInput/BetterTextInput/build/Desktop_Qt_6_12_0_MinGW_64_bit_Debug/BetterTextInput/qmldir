@@ -1,0 +1,7 @@
+module BetterTextInput
+typeinfo appBetterTextInput.qmltypes
+prefer :/qt/qml/BetterTextInput/
+Main 254.0 Main.qml
+LabeledTextInput 254.0 LabeledTextInput.qml
+depends QtQuick
+

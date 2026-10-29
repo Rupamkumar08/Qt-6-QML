@@ -1,0 +1,241 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b7dc6ce631185b5a9d0b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "BetterTextInput",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-dcba2df330df905d4c31.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-683fb267ceebb4fc4624.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-b301395976b195295732.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-cde5e7070febf1de2f16.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-45f830ff06608feae294.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBetterTextInput::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBetterTextInput-Debug-d2908cc8d0c632748092.json",
+					"name" : "appBetterTextInput",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBetterTextInput_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBetterTextInput_autogen-Debug-e04ebf37f743c3e4ddf9.json",
+					"name" : "appBetterTextInput_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBetterTextInput_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBetterTextInput_autogen_timestamp_deps-Debug-d43ed88d3c5471161a4b.json",
+					"name" : "appBetterTextInput_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBetterTextInput_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBetterTextInput_copy_qml-Debug-26dca4017cc77618652f.json",
+					"name" : "appBetterTextInput_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBetterTextInput_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBetterTextInput_copy_res-Debug-643578f35467183b1c87.json",
+					"name" : "appBetterTextInput_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBetterTextInput_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBetterTextInput_qmlimportscan-Debug-deb5624768aaad77fe14.json",
+					"name" : "appBetterTextInput_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBetterTextInput_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBetterTextInput_qmllint-Debug-43d9e262887f10496416.json",
+					"name" : "appBetterTextInput_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBetterTextInput_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBetterTextInput_qmllint_json-Debug-bc286e38c13d63156085.json",
+					"name" : "appBetterTextInput_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBetterTextInput_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBetterTextInput_qmllint_module-Debug-e2b12856fa2162d5b349.json",
+					"name" : "appBetterTextInput_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBetterTextInput_qmlpreview::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBetterTextInput_qmlpreview-Debug-6470182421f79d18a70b.json",
+					"name" : "appBetterTextInput_qmlpreview",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBetterTextInput_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBetterTextInput_qmltyperegistration-Debug-85d9779cda4d3a52df67.json",
+					"name" : "appBetterTextInput_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "clean_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-clean_qml_context_properties-Debug-d9c7218ce05fc6b92dfc.json",
+					"name" : "clean_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dump_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dump_qml_context_properties-Debug-3ee0b644658b3147f499.json",
+					"name" : "dump_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_finalqtconf_appBetterTextInput::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_finalqtconf_appBetterTextInput-Debug-5aa67ce5fbf5a9d88a98.json",
+					"name" : "generate_finalqtconf_appBetterTextInput",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_qmlls_build_ini_file-Debug-480bba932d553502c9eb.json",
+					"name" : "generate_qmlls_build_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appBetterTextInput_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appBetterTextInput_aotstats_target-Debug-61be5b1dcd418e1d31d0.json",
+					"name" : "module_appBetterTextInput_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QML/6-UserInput/BetterTextInput/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug",
+		"source" : "D:/QML/6-UserInput/BetterTextInput"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

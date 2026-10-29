@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/BetterTextInput/">
+    <file alias="Main.qml">D:/QML/6-UserInput/BetterTextInput/Main.qml</file>
+    <file alias="LabeledTextInput.qml">D:/QML/6-UserInput/BetterTextInput/LabeledTextInput.qml</file>
+  </qresource>
+</RCC>
+
