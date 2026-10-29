@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/KeyNavigation/">
+    <file alias="Main.qml">D:/QML/6-UserInput/KeyNavigation/Main.qml</file>
+  </qresource>
+</RCC>
+

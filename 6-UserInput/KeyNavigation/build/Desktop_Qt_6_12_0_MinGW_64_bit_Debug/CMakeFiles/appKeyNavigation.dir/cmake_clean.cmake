@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appKeyNavigation_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_KeyNavigation.cpp"
+  ".rcc/qmlcache/appKeyNavigation_Main_qml.cpp"
+  ".rcc/qmlcache/appKeyNavigation_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appKeyNavigation_qmlcache_loader.cpp"
+  "CMakeFiles/appKeyNavigation.dir/appKeyNavigation_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appKeyNavigation.dir/appKeyNavigation_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appKeyNavigation.dir/appkeynavigation_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appKeyNavigation.dir/appkeynavigation_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appKeyNavigation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appKeyNavigation_raw_qml_0.cpp.obj"
+  "CMakeFiles/appKeyNavigation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appKeyNavigation_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appKeyNavigation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_KeyNavigation.cpp.obj"
+  "CMakeFiles/appKeyNavigation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_KeyNavigation.cpp.obj.d"
+  "CMakeFiles/appKeyNavigation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appKeyNavigation_Main_qml.cpp.obj"
+  "CMakeFiles/appKeyNavigation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appKeyNavigation_Main_qml.cpp.obj.d"
+  "CMakeFiles/appKeyNavigation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appKeyNavigation_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appKeyNavigation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appKeyNavigation_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appKeyNavigation.dir/main.cpp.obj"
+  "CMakeFiles/appKeyNavigation.dir/main.cpp.obj.d"
+  "CMakeFiles/appKeyNavigation_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appKeyNavigation_autogen.dir/ParseCache.txt"
+  "appKeyNavigation_autogen"
+  "KeyNavigation/appKeyNavigation.qmltypes"
+  "appKeyNavigation.exe"
+  "appKeyNavigation.exe.manifest"
+  "appKeyNavigation.pdb"
+  "appKeyNavigation_autogen/mocs_compilation.cpp"
+  "appKeyNavigation_autogen/timestamp"
+  "appkeynavigation_qmltyperegistrations.cpp"
+  "libappKeyNavigation.dll.a"
+  "meta_types/appKeyNavigation_json_file_list.txt"
+  "meta_types/appKeyNavigation_json_file_list.txt.timestamp"
+  "meta_types/qt6appkeynavigation_metatypes.json"
+  "meta_types/qt6appkeynavigation_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appKeyNavigation.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

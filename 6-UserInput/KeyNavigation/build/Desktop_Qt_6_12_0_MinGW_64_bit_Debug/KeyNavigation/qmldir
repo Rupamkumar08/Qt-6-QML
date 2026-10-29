@@ -1,0 +1,6 @@
+module KeyNavigation
+typeinfo appKeyNavigation.qmltypes
+prefer :/qt/qml/KeyNavigation/
+Main 254.0 Main.qml
+depends QtQuick
+
