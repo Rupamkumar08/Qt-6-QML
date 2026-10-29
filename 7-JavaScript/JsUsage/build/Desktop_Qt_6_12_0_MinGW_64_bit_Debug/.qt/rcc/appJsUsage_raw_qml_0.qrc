@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/JsUsage/">
+    <file alias="Main.qml">D:/QML/7-JavaScript/JsUsage/Main.qml</file>
+  </qresource>
+</RCC>
+

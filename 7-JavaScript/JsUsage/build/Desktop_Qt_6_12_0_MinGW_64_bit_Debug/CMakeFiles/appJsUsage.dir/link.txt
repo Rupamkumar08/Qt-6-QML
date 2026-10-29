@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\appJsUsage.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\appJsUsage.dir/objects.a @CMakeFiles\appJsUsage.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\appJsUsage.dir/objects.a -Wl,--no-whole-archive -o appJsUsage.exe -Wl,--out-implib,libappJsUsage.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\appJsUsage.dir\linkLibs.rsp

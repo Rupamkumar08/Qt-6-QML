@@ -1,0 +1,6 @@
+module JsUsage
+typeinfo appJsUsage.qmltypes
+prefer :/qt/qml/JsUsage/
+Main 254.0 Main.qml
+depends QtQuick
+

@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appJsUsage_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_JsUsage.cpp"
+  ".rcc/qmlcache/appJsUsage_Main_qml.cpp"
+  ".rcc/qmlcache/appJsUsage_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appJsUsage_qmlcache_loader.cpp"
+  "CMakeFiles/appJsUsage.dir/appJsUsage_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appJsUsage.dir/appJsUsage_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appJsUsage.dir/appjsusage_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appJsUsage.dir/appjsusage_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appJsUsage.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appJsUsage_raw_qml_0.cpp.obj"
+  "CMakeFiles/appJsUsage.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appJsUsage_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appJsUsage.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_JsUsage.cpp.obj"
+  "CMakeFiles/appJsUsage.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_JsUsage.cpp.obj.d"
+  "CMakeFiles/appJsUsage.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appJsUsage_Main_qml.cpp.obj"
+  "CMakeFiles/appJsUsage.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appJsUsage_Main_qml.cpp.obj.d"
+  "CMakeFiles/appJsUsage.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appJsUsage_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appJsUsage.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appJsUsage_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appJsUsage.dir/main.cpp.obj"
+  "CMakeFiles/appJsUsage.dir/main.cpp.obj.d"
+  "CMakeFiles/appJsUsage_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appJsUsage_autogen.dir/ParseCache.txt"
+  "appJsUsage_autogen"
+  "JsUsage/appJsUsage.qmltypes"
+  "appJsUsage.exe"
+  "appJsUsage.exe.manifest"
+  "appJsUsage.pdb"
+  "appJsUsage_autogen/mocs_compilation.cpp"
+  "appJsUsage_autogen/timestamp"
+  "appjsusage_qmltyperegistrations.cpp"
+  "libappJsUsage.dll.a"
+  "meta_types/appJsUsage_json_file_list.txt"
+  "meta_types/appJsUsage_json_file_list.txt.timestamp"
+  "meta_types/qt6appjsusage_metatypes.json"
+  "meta_types/qt6appjsusage_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appJsUsage.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
