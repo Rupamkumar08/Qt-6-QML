@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/TextInput">D:/QML/6-UserInput/TextInput/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/TextInput</file>
+
+  </qresource>
+</RCC>

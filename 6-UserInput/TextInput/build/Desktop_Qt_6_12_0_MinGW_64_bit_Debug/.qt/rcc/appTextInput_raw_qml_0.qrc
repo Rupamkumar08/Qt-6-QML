@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/TextInput/">
+    <file alias="Main.qml">D:/QML/6-UserInput/TextInput/Main.qml</file>
+  </qresource>
+</RCC>
+

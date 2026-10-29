@@ -1,0 +1,6 @@
+module TextInput
+typeinfo appTextInput.qmltypes
+prefer :/qt/qml/TextInput/
+Main 254.0 Main.qml
+depends QtQuick
+
