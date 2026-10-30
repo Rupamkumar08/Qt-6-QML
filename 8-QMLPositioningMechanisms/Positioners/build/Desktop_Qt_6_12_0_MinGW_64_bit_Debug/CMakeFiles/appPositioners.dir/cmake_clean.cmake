@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appPositioners_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_Positioners.cpp"
+  ".rcc/qmlcache/appPositioners_Main_qml.cpp"
+  ".rcc/qmlcache/appPositioners_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appPositioners_qmlcache_loader.cpp"
+  "CMakeFiles/appPositioners.dir/appPositioners_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appPositioners.dir/appPositioners_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appPositioners.dir/apppositioners_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appPositioners.dir/apppositioners_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appPositioners.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appPositioners_raw_qml_0.cpp.obj"
+  "CMakeFiles/appPositioners.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appPositioners_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appPositioners.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_Positioners.cpp.obj"
+  "CMakeFiles/appPositioners.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_Positioners.cpp.obj.d"
+  "CMakeFiles/appPositioners.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appPositioners_Main_qml.cpp.obj"
+  "CMakeFiles/appPositioners.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appPositioners_Main_qml.cpp.obj.d"
+  "CMakeFiles/appPositioners.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appPositioners_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appPositioners.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appPositioners_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appPositioners.dir/main.cpp.obj"
+  "CMakeFiles/appPositioners.dir/main.cpp.obj.d"
+  "CMakeFiles/appPositioners_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appPositioners_autogen.dir/ParseCache.txt"
+  "appPositioners_autogen"
+  "Positioners/appPositioners.qmltypes"
+  "appPositioners.exe"
+  "appPositioners.exe.manifest"
+  "appPositioners.pdb"
+  "appPositioners_autogen/mocs_compilation.cpp"
+  "appPositioners_autogen/timestamp"
+  "apppositioners_qmltyperegistrations.cpp"
+  "libappPositioners.dll.a"
+  "meta_types/appPositioners_json_file_list.txt"
+  "meta_types/appPositioners_json_file_list.txt.timestamp"
+  "meta_types/qt6apppositioners_metatypes.json"
+  "meta_types/qt6apppositioners_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appPositioners.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

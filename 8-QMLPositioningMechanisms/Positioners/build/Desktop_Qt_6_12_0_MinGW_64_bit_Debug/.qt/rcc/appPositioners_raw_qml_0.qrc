@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Positioners/">
+    <file alias="Main.qml">D:/QML/8-QMLPositioningMechanisms/Positioners/Main.qml</file>
+  </qresource>
+</RCC>
+

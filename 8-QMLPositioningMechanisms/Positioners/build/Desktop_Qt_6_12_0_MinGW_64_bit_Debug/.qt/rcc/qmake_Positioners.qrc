@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Positioners">
+    <file alias="qmldir">D:/QML/8-QMLPositioningMechanisms/Positioners/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/Positioners/qmldir</file>
+  </qresource>
+</RCC>
+
