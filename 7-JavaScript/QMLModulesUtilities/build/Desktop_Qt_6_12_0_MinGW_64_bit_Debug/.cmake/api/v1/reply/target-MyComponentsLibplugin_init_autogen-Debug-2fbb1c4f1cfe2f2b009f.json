@@ -1,0 +1,75 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"components/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "MyComponentsLibplugin_init_autogen_timestamp_deps::@5f76c3b237c71a93cbe5"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "MyComponentsLibplugin_init_autogen::@5f76c3b237c71a93cbe5",
+	"isGeneratorProvided" : true,
+	"name" : "MyComponentsLibplugin_init_autogen",
+	"paths" : 
+	{
+		"build" : "components",
+		"source" : "components"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/components/CMakeFiles/MyComponentsLibplugin_init_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/components/CMakeFiles/MyComponentsLibplugin_init_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/components/MyComponentsLibplugin_init_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,2 @@
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc libMyConstantsLib.a CMakeFiles/MyConstantsLib.dir/MyConstantsLib_autogen/mocs_compilation.cpp.obj CMakeFiles/MyConstantsLib.dir/myconstantslib_qmltyperegistrations.cpp.obj CMakeFiles/MyConstantsLib.dir/.qt/rcc/qrc_qmake_MyConstants.cpp.obj CMakeFiles/MyConstantsLib.dir/.rcc/qmlcache/MyConstantsLib_qmlcache_loader.cpp.obj CMakeFiles/MyConstantsLib.dir/.rcc/qmlcache/MyConstantsLib_Constants_qml.cpp.obj CMakeFiles/MyConstantsLib.dir/.qt/rcc/qrc_MyConstantsLib_raw_qml_0.cpp.obj
+C:\Qt\Tools\mingw1310_64\bin\ranlib.exe libMyConstantsLib.a

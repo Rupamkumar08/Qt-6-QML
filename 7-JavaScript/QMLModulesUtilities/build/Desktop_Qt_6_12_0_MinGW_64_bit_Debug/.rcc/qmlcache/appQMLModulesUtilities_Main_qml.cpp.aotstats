@@ -1,0 +1,47 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 12,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 7,
+                            "message": "Cannot access value for name Constants"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 13,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 8,
+                            "message": "Cannot access value for name Constants"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 30,
+                            "durationMicroseconds": 0,
+                            "functionName": "onButtonClicked",
+                            "line": 18,
+                            "message": "Could not find signal \"buttonClicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 30,
+                            "durationMicroseconds": 0,
+                            "functionName": "onButtonClicked",
+                            "line": 25,
+                            "message": "Could not find signal \"buttonClicked\"."
+                        }
+                    ],
+                    "filePath": "D:/QML/7-JavaScript/QMLModulesUtilities/Main.qml"
+                }
+            ],
+            "moduleId": "QMLModulesUtilities(appQMLModulesUtilities)"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                    ],
+                    "filePath": "D:/QML/7-JavaScript/QMLModulesUtilities/constants/Constants.qml"
+                }
+            ],
+            "moduleId": "MyConstants(MyConstantsLib)"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+
+set(target "MyConstantsLib")
+set(working_dir "D:/QML/7-JavaScript/QMLModulesUtilities/constants")
+set(src_and_dest_list
+    "D:/QML/7-JavaScript/QMLModulesUtilities/constants/Constants.qml"
+    "D:/QML/7-JavaScript/QMLModulesUtilities/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/constants/Constants.qml"
+
+)
+set(timestamp_file "D:/QML/7-JavaScript/QMLModulesUtilities/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/constants/.qt/MyConstantsLib_qml.txt")

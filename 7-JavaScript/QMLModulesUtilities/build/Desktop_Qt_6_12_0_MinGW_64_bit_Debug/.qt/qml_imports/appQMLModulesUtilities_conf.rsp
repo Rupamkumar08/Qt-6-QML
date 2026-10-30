@@ -1,0 +1,14 @@
+-rootPath
+D:/QML/7-JavaScript/QMLModulesUtilities
+-cmake-output
+-output-file
+D:/QML/7-JavaScript/QMLModulesUtilities/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/qml_imports/appQMLModulesUtilities_conf.cmake
+-importPath
+D:/QML/7-JavaScript/QMLModulesUtilities/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug
+-importPath
+D:/QML/7-JavaScript/QMLModulesUtilities/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/QMLModulesUtilities
+-importPath
+C:/Qt/6.12.0/mingw_64/qml
+-qrcFiles
+D:/QML/7-JavaScript/QMLModulesUtilities/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qmake_QMLModulesUtilities.qrc
+D:/QML/7-JavaScript/QMLModulesUtilities/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/appQMLModulesUtilities_raw_qml_0.qrc

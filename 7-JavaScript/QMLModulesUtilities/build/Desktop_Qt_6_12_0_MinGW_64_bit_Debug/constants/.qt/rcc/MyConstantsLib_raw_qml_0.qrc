@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/MyConstants/">
+    <file alias="Constants.qml">D:/QML/7-JavaScript/QMLModulesUtilities/constants/Constants.qml</file>
+  </qresource>
+</RCC>
+

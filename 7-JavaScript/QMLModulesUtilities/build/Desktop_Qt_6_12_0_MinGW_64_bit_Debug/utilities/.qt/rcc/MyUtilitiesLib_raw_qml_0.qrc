@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/MyUtilities/">
+    <file alias="Utils.js">D:/QML/7-JavaScript/QMLModulesUtilities/utilities/Utils.js</file>
+  </qresource>
+</RCC>
+

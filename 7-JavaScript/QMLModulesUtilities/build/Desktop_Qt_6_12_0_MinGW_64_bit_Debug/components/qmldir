@@ -1,0 +1,9 @@
+module MyComponents
+linktarget MyComponentsLibplugin
+optional plugin MyComponentsLibplugin
+classname MyComponentsPlugin
+typeinfo MyComponentsLib.qmltypes
+prefer :/MyComponents/
+MButton 1.0 MButton.qml
+depends QtQuick
+

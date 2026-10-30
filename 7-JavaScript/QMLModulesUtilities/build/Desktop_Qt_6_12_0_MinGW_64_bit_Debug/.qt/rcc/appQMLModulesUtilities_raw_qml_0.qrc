@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/QMLModulesUtilities/">
+    <file alias="Main.qml">D:/QML/7-JavaScript/QMLModulesUtilities/Main.qml</file>
+  </qresource>
+</RCC>
+

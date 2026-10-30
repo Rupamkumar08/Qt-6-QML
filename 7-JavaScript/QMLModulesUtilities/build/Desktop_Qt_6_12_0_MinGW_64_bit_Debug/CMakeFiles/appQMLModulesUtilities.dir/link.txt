@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\appQMLModulesUtilities.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\appQMLModulesUtilities.dir/objects.a @CMakeFiles\appQMLModulesUtilities.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\appQMLModulesUtilities.dir/objects.a -Wl,--no-whole-archive -o appQMLModulesUtilities.exe -Wl,--out-implib,libappQMLModulesUtilities.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\appQMLModulesUtilities.dir\linkLibs.rsp

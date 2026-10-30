@@ -1,0 +1,12 @@
+--bare
+-I
+D:/QML/7-JavaScript/QMLModulesUtilities/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/utilities
+-I
+D:/QML/7-JavaScript/QMLModulesUtilities/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/utilities
+-I
+C:/Qt/6.12.0/mingw_64/qml
+--resource
+D:/QML/7-JavaScript/QMLModulesUtilities/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/utilities/.qt/rcc/qmake_MyUtilities.qrc
+--resource
+D:/QML/7-JavaScript/QMLModulesUtilities/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/utilities/.qt/rcc/MyUtilitiesLib_raw_qml_0.qrc
+D:/QML/7-JavaScript/QMLModulesUtilities/utilities/Utils.js

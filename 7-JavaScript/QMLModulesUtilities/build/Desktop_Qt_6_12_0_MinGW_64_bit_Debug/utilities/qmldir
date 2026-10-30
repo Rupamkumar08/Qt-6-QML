@@ -1,0 +1,9 @@
+module MyUtilities
+linktarget MyUtilitiesLibplugin
+optional plugin MyUtilitiesLibplugin
+classname MyUtilitiesPlugin
+typeinfo MyUtilitiesLib.qmltypes
+prefer :/MyUtilities/
+Utils 1.0 Utils.js
+depends QtQuick
+

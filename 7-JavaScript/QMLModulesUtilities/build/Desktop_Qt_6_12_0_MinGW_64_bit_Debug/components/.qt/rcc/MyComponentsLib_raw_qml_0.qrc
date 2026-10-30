@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/MyComponents/">
+    <file alias="MButton.qml">D:/QML/7-JavaScript/QMLModulesUtilities/components/MButton.qml</file>
+  </qresource>
+</RCC>
+

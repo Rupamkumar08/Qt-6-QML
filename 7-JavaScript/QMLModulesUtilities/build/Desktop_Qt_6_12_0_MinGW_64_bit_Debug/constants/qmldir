@@ -1,0 +1,9 @@
+module MyConstants
+linktarget MyConstantsLibplugin
+optional plugin MyConstantsLibplugin
+classname MyConstantsPlugin
+typeinfo MyConstantsLib.qmltypes
+prefer :/MyConstants/
+singleton Constants 1.0 Constants.qml
+depends QtQuick
+
