@@ -1,0 +1,6 @@
+module Anchors
+typeinfo appAnchors.qmltypes
+prefer :/qt/qml/Anchors/
+Main 254.0 Main.qml
+depends QtQuick
+

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/AnchorMarginAndOffset">D:/QML/8-QMLPositioningMechanisms/AnchorMarginAndOffset/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/AnchorMarginAndOffset</file>
+
+  </qresource>
+</RCC>

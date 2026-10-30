@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\appAnchors.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\appAnchors.dir/objects.a @CMakeFiles\appAnchors.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\appAnchors.dir/objects.a -Wl,--no-whole-archive -o appAnchors.exe -Wl,--out-implib,libappAnchors.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\appAnchors.dir\linkLibs.rsp

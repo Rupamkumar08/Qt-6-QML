@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Anchors/">
+    <file alias="Main.qml">D:/QML/8-QMLPositioningMechanisms/Anchors/Main.qml</file>
+  </qresource>
+</RCC>
+

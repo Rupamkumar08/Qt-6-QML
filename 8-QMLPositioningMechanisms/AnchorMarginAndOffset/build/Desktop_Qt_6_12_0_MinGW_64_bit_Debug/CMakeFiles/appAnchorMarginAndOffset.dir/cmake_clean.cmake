@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appAnchorMarginAndOffset_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_AnchorMarginAndOffset.cpp"
+  ".rcc/qmlcache/appAnchorMarginAndOffset_Main_qml.cpp"
+  ".rcc/qmlcache/appAnchorMarginAndOffset_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appAnchorMarginAndOffset_qmlcache_loader.cpp"
+  "AnchorMarginAndOffset/appAnchorMarginAndOffset.qmltypes"
+  "CMakeFiles/appAnchorMarginAndOffset.dir/appAnchorMarginAndOffset_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appAnchorMarginAndOffset.dir/appAnchorMarginAndOffset_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appAnchorMarginAndOffset.dir/appanchormarginandoffset_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appAnchorMarginAndOffset.dir/appanchormarginandoffset_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appAnchorMarginAndOffset.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appAnchorMarginAndOffset_raw_qml_0.cpp.obj"
+  "CMakeFiles/appAnchorMarginAndOffset.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appAnchorMarginAndOffset_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appAnchorMarginAndOffset.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_AnchorMarginAndOffset.cpp.obj"
+  "CMakeFiles/appAnchorMarginAndOffset.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_AnchorMarginAndOffset.cpp.obj.d"
+  "CMakeFiles/appAnchorMarginAndOffset.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appAnchorMarginAndOffset_Main_qml.cpp.obj"
+  "CMakeFiles/appAnchorMarginAndOffset.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appAnchorMarginAndOffset_Main_qml.cpp.obj.d"
+  "CMakeFiles/appAnchorMarginAndOffset.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appAnchorMarginAndOffset_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appAnchorMarginAndOffset.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appAnchorMarginAndOffset_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appAnchorMarginAndOffset.dir/main.cpp.obj"
+  "CMakeFiles/appAnchorMarginAndOffset.dir/main.cpp.obj.d"
+  "CMakeFiles/appAnchorMarginAndOffset_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appAnchorMarginAndOffset_autogen.dir/ParseCache.txt"
+  "appAnchorMarginAndOffset_autogen"
+  "appAnchorMarginAndOffset.exe"
+  "appAnchorMarginAndOffset.exe.manifest"
+  "appAnchorMarginAndOffset.pdb"
+  "appAnchorMarginAndOffset_autogen/mocs_compilation.cpp"
+  "appAnchorMarginAndOffset_autogen/timestamp"
+  "appanchormarginandoffset_qmltyperegistrations.cpp"
+  "libappAnchorMarginAndOffset.dll.a"
+  "meta_types/appAnchorMarginAndOffset_json_file_list.txt"
+  "meta_types/appAnchorMarginAndOffset_json_file_list.txt.timestamp"
+  "meta_types/qt6appanchormarginandoffset_metatypes.json"
+  "meta_types/qt6appanchormarginandoffset_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appAnchorMarginAndOffset.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

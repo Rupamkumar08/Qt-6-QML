@@ -1,0 +1,6 @@
+module AnchorMarginAndOffset
+typeinfo appAnchorMarginAndOffset.qmltypes
+prefer :/qt/qml/AnchorMarginAndOffset/
+Main 254.0 Main.qml
+depends QtQuick
+

@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appAnchors_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_Anchors.cpp"
+  ".rcc/qmlcache/appAnchors_Main_qml.cpp"
+  ".rcc/qmlcache/appAnchors_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appAnchors_qmlcache_loader.cpp"
+  "Anchors/appAnchors.qmltypes"
+  "CMakeFiles/appAnchors.dir/appAnchors_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appAnchors.dir/appAnchors_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appAnchors.dir/appanchors_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appAnchors.dir/appanchors_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appAnchors.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appAnchors_raw_qml_0.cpp.obj"
+  "CMakeFiles/appAnchors.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appAnchors_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appAnchors.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_Anchors.cpp.obj"
+  "CMakeFiles/appAnchors.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_Anchors.cpp.obj.d"
+  "CMakeFiles/appAnchors.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appAnchors_Main_qml.cpp.obj"
+  "CMakeFiles/appAnchors.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appAnchors_Main_qml.cpp.obj.d"
+  "CMakeFiles/appAnchors.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appAnchors_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appAnchors.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appAnchors_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appAnchors.dir/main.cpp.obj"
+  "CMakeFiles/appAnchors.dir/main.cpp.obj.d"
+  "CMakeFiles/appAnchors_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appAnchors_autogen.dir/ParseCache.txt"
+  "appAnchors_autogen"
+  "appAnchors.exe"
+  "appAnchors.exe.manifest"
+  "appAnchors.pdb"
+  "appAnchors_autogen/mocs_compilation.cpp"
+  "appAnchors_autogen/timestamp"
+  "appanchors_qmltyperegistrations.cpp"
+  "libappAnchors.dll.a"
+  "meta_types/appAnchors_json_file_list.txt"
+  "meta_types/appAnchors_json_file_list.txt.timestamp"
+  "meta_types/qt6appanchors_metatypes.json"
+  "meta_types/qt6appanchors_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appAnchors.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
