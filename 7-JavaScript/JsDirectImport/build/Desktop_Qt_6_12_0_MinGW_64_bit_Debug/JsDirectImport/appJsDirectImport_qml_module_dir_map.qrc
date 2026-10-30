@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/JsDirectImport">D:/QML/7-JavaScript/JsDirectImport/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/JsDirectImport</file>
+
+  </qresource>
+</RCC>

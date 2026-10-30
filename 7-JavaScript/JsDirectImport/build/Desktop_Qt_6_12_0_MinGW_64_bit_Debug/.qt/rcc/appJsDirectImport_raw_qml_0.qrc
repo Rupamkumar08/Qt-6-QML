@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/JsDirectImport/">
+    <file alias="Main.qml">D:/QML/7-JavaScript/JsDirectImport/Main.qml</file>
+    <file alias="utilities1.js">D:/QML/7-JavaScript/JsDirectImport/utilities1.js</file>
+  </qresource>
+</RCC>
+
