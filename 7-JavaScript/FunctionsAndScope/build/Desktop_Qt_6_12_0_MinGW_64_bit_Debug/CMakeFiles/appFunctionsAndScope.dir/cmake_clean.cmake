@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appFunctionsAndScope_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_FunctionsAndScope.cpp"
+  ".rcc/qmlcache/appFunctionsAndScope_Main_qml.cpp"
+  ".rcc/qmlcache/appFunctionsAndScope_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appFunctionsAndScope_qmlcache_loader.cpp"
+  "CMakeFiles/appFunctionsAndScope.dir/appFunctionsAndScope_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appFunctionsAndScope.dir/appFunctionsAndScope_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appFunctionsAndScope.dir/appfunctionsandscope_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appFunctionsAndScope.dir/appfunctionsandscope_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appFunctionsAndScope.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appFunctionsAndScope_raw_qml_0.cpp.obj"
+  "CMakeFiles/appFunctionsAndScope.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appFunctionsAndScope_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appFunctionsAndScope.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_FunctionsAndScope.cpp.obj"
+  "CMakeFiles/appFunctionsAndScope.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_FunctionsAndScope.cpp.obj.d"
+  "CMakeFiles/appFunctionsAndScope.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appFunctionsAndScope_Main_qml.cpp.obj"
+  "CMakeFiles/appFunctionsAndScope.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appFunctionsAndScope_Main_qml.cpp.obj.d"
+  "CMakeFiles/appFunctionsAndScope.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appFunctionsAndScope_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appFunctionsAndScope.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appFunctionsAndScope_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appFunctionsAndScope.dir/main.cpp.obj"
+  "CMakeFiles/appFunctionsAndScope.dir/main.cpp.obj.d"
+  "CMakeFiles/appFunctionsAndScope_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appFunctionsAndScope_autogen.dir/ParseCache.txt"
+  "appFunctionsAndScope_autogen"
+  "FunctionsAndScope/appFunctionsAndScope.qmltypes"
+  "appFunctionsAndScope.exe"
+  "appFunctionsAndScope.exe.manifest"
+  "appFunctionsAndScope.pdb"
+  "appFunctionsAndScope_autogen/mocs_compilation.cpp"
+  "appFunctionsAndScope_autogen/timestamp"
+  "appfunctionsandscope_qmltyperegistrations.cpp"
+  "libappFunctionsAndScope.dll.a"
+  "meta_types/appFunctionsAndScope_json_file_list.txt"
+  "meta_types/appFunctionsAndScope_json_file_list.txt.timestamp"
+  "meta_types/qt6appfunctionsandscope_metatypes.json"
+  "meta_types/qt6appfunctionsandscope_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appFunctionsAndScope.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

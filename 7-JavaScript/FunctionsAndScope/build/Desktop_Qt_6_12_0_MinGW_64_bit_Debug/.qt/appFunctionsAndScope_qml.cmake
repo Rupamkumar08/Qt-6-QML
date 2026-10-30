@@ -1,0 +1,9 @@
+
+set(target "appFunctionsAndScope")
+set(working_dir "D:/QML/7-JavaScript/FunctionsAndScope")
+set(src_and_dest_list
+    "D:/QML/7-JavaScript/FunctionsAndScope/Main.qml"
+    "D:/QML/7-JavaScript/FunctionsAndScope/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/FunctionsAndScope/Main.qml"
+
+)
+set(timestamp_file "D:/QML/7-JavaScript/FunctionsAndScope/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/appFunctionsAndScope_qml.txt")

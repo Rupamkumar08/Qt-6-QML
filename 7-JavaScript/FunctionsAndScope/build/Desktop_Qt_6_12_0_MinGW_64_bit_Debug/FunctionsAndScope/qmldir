@@ -1,0 +1,6 @@
+module FunctionsAndScope
+typeinfo appFunctionsAndScope.qmltypes
+prefer :/qt/qml/FunctionsAndScope/
+Main 254.0 Main.qml
+depends QtQuick
+

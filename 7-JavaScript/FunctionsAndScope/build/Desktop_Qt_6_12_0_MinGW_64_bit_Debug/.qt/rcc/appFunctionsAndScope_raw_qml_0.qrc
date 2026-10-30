@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/FunctionsAndScope/">
+    <file alias="Main.qml">D:/QML/7-JavaScript/FunctionsAndScope/Main.qml</file>
+  </qresource>
+</RCC>
+
