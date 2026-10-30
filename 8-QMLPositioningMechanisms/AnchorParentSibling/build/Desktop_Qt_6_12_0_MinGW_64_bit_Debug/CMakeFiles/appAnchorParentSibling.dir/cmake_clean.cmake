@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appAnchorParentSibling_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_AnchorParentSibling.cpp"
+  ".rcc/qmlcache/appAnchorParentSibling_Main_qml.cpp"
+  ".rcc/qmlcache/appAnchorParentSibling_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appAnchorParentSibling_qmlcache_loader.cpp"
+  "AnchorParentSibling/appAnchorParentSibling.qmltypes"
+  "CMakeFiles/appAnchorParentSibling.dir/appAnchorParentSibling_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appAnchorParentSibling.dir/appAnchorParentSibling_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appAnchorParentSibling.dir/appanchorparentsibling_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appAnchorParentSibling.dir/appanchorparentsibling_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appAnchorParentSibling.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appAnchorParentSibling_raw_qml_0.cpp.obj"
+  "CMakeFiles/appAnchorParentSibling.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appAnchorParentSibling_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appAnchorParentSibling.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_AnchorParentSibling.cpp.obj"
+  "CMakeFiles/appAnchorParentSibling.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_AnchorParentSibling.cpp.obj.d"
+  "CMakeFiles/appAnchorParentSibling.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appAnchorParentSibling_Main_qml.cpp.obj"
+  "CMakeFiles/appAnchorParentSibling.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appAnchorParentSibling_Main_qml.cpp.obj.d"
+  "CMakeFiles/appAnchorParentSibling.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appAnchorParentSibling_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appAnchorParentSibling.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appAnchorParentSibling_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appAnchorParentSibling.dir/main.cpp.obj"
+  "CMakeFiles/appAnchorParentSibling.dir/main.cpp.obj.d"
+  "CMakeFiles/appAnchorParentSibling_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appAnchorParentSibling_autogen.dir/ParseCache.txt"
+  "appAnchorParentSibling_autogen"
+  "appAnchorParentSibling.exe"
+  "appAnchorParentSibling.exe.manifest"
+  "appAnchorParentSibling.pdb"
+  "appAnchorParentSibling_autogen/mocs_compilation.cpp"
+  "appAnchorParentSibling_autogen/timestamp"
+  "appanchorparentsibling_qmltyperegistrations.cpp"
+  "libappAnchorParentSibling.dll.a"
+  "meta_types/appAnchorParentSibling_json_file_list.txt"
+  "meta_types/appAnchorParentSibling_json_file_list.txt.timestamp"
+  "meta_types/qt6appanchorparentsibling_metatypes.json"
+  "meta_types/qt6appanchorparentsibling_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appAnchorParentSibling.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

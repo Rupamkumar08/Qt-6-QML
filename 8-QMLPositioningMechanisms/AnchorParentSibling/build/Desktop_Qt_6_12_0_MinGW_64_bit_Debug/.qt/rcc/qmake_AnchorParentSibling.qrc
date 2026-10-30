@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/AnchorParentSibling">
+    <file alias="qmldir">D:/QML/8-QMLPositioningMechanisms/AnchorParentSibling/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/AnchorParentSibling/qmldir</file>
+  </qresource>
+</RCC>
+

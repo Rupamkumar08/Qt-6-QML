@@ -1,0 +1,6 @@
+module AnchorParentSibling
+typeinfo appAnchorParentSibling.qmltypes
+prefer :/qt/qml/AnchorParentSibling/
+Main 254.0 Main.qml
+depends QtQuick
+
