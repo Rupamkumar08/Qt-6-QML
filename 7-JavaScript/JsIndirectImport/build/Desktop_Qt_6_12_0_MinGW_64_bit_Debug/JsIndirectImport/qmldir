@@ -1,0 +1,6 @@
+module JsIndirectImport
+typeinfo appJsIndirectImport.qmltypes
+prefer :/qt/qml/JsIndirectImport/
+Main 254.0 Main.qml
+depends QtQuick
+

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/JsIndirectImport">
+    <file alias="qmldir">D:/QML/7-JavaScript/JsIndirectImport/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/JsIndirectImport/qmldir</file>
+  </qresource>
+</RCC>
+

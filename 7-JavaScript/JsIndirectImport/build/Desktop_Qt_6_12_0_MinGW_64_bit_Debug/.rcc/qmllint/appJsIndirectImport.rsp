@@ -1,0 +1,16 @@
+--bare
+-I
+D:/QML/7-JavaScript/JsIndirectImport/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug
+-I
+D:/QML/7-JavaScript/JsIndirectImport/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/JsIndirectImport
+-I
+D:/QML/7-JavaScript/JsIndirectImport/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug
+-I
+C:/Qt/6.12.0/mingw_64/qml
+--resource
+D:/QML/7-JavaScript/JsIndirectImport/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qmake_JsIndirectImport.qrc
+--resource
+D:/QML/7-JavaScript/JsIndirectImport/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/appJsIndirectImport_raw_qml_0.qrc
+D:/QML/7-JavaScript/JsIndirectImport/Main.qml
+D:/QML/7-JavaScript/JsIndirectImport/utilities1.js
+D:/QML/7-JavaScript/JsIndirectImport/utilities2.js
