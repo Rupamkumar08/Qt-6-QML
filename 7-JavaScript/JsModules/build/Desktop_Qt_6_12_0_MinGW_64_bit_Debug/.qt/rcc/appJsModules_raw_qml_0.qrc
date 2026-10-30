@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/JsModules/">
+    <file alias="Main.qml">D:/QML/7-JavaScript/JsModules/Main.qml</file>
+    <file alias="utilities1.mjs">D:/QML/7-JavaScript/JsModules/utilities1.mjs</file>
+    <file alias="utilities2.mjs">D:/QML/7-JavaScript/JsModules/utilities2.mjs</file>
+  </qresource>
+</RCC>
+
