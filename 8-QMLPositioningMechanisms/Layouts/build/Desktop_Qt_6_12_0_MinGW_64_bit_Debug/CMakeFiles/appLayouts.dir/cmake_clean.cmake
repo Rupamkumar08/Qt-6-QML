@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appLayouts_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_Layouts.cpp"
+  ".rcc/qmlcache/appLayouts_Main_qml.cpp"
+  ".rcc/qmlcache/appLayouts_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appLayouts_qmlcache_loader.cpp"
+  "CMakeFiles/appLayouts.dir/appLayouts_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appLayouts.dir/appLayouts_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appLayouts.dir/applayouts_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appLayouts.dir/applayouts_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appLayouts.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appLayouts_raw_qml_0.cpp.obj"
+  "CMakeFiles/appLayouts.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appLayouts_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appLayouts.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_Layouts.cpp.obj"
+  "CMakeFiles/appLayouts.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_Layouts.cpp.obj.d"
+  "CMakeFiles/appLayouts.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appLayouts_Main_qml.cpp.obj"
+  "CMakeFiles/appLayouts.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appLayouts_Main_qml.cpp.obj.d"
+  "CMakeFiles/appLayouts.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appLayouts_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appLayouts.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appLayouts_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appLayouts.dir/main.cpp.obj"
+  "CMakeFiles/appLayouts.dir/main.cpp.obj.d"
+  "CMakeFiles/appLayouts_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appLayouts_autogen.dir/ParseCache.txt"
+  "appLayouts_autogen"
+  "Layouts/appLayouts.qmltypes"
+  "appLayouts.exe"
+  "appLayouts.exe.manifest"
+  "appLayouts.pdb"
+  "appLayouts_autogen/mocs_compilation.cpp"
+  "appLayouts_autogen/timestamp"
+  "applayouts_qmltyperegistrations.cpp"
+  "libappLayouts.dll.a"
+  "meta_types/appLayouts_json_file_list.txt"
+  "meta_types/appLayouts_json_file_list.txt.timestamp"
+  "meta_types/qt6applayouts_metatypes.json"
+  "meta_types/qt6applayouts_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appLayouts.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\appLayouts.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\appLayouts.dir/objects.a @CMakeFiles\appLayouts.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\appLayouts.dir/objects.a -Wl,--no-whole-archive -o appLayouts.exe -Wl,--out-implib,libappLayouts.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\appLayouts.dir\linkLibs.rsp
