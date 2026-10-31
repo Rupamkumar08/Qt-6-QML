@@ -1,0 +1,6 @@
+module Flow
+typeinfo appFlow.qmltypes
+prefer :/qt/qml/Flow/
+Main 254.0 Main.qml
+depends QtQuick
+

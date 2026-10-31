@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appFlow_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_Flow.cpp"
+  ".rcc/qmlcache/appFlow_Main_qml.cpp"
+  ".rcc/qmlcache/appFlow_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appFlow_qmlcache_loader.cpp"
+  "CMakeFiles/appFlow.dir/appFlow_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appFlow.dir/appFlow_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appFlow.dir/appflow_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appFlow.dir/appflow_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appFlow.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appFlow_raw_qml_0.cpp.obj"
+  "CMakeFiles/appFlow.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appFlow_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appFlow.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_Flow.cpp.obj"
+  "CMakeFiles/appFlow.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_Flow.cpp.obj.d"
+  "CMakeFiles/appFlow.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appFlow_Main_qml.cpp.obj"
+  "CMakeFiles/appFlow.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appFlow_Main_qml.cpp.obj.d"
+  "CMakeFiles/appFlow.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appFlow_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appFlow.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appFlow_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appFlow.dir/main.cpp.obj"
+  "CMakeFiles/appFlow.dir/main.cpp.obj.d"
+  "CMakeFiles/appFlow_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appFlow_autogen.dir/ParseCache.txt"
+  "appFlow_autogen"
+  "Flow/appFlow.qmltypes"
+  "appFlow.exe"
+  "appFlow.exe.manifest"
+  "appFlow.pdb"
+  "appFlow_autogen/mocs_compilation.cpp"
+  "appFlow_autogen/timestamp"
+  "appflow_qmltyperegistrations.cpp"
+  "libappFlow.dll.a"
+  "meta_types/appFlow_json_file_list.txt"
+  "meta_types/appFlow_json_file_list.txt.timestamp"
+  "meta_types/qt6appflow_metatypes.json"
+  "meta_types/qt6appflow_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appFlow.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

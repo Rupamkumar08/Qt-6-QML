@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Flow/">
+    <file alias="Main.qml">D:/QML/8-QMLPositioningMechanisms/Flow/Main.qml</file>
+  </qresource>
+</RCC>
+

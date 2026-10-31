@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Flow">
+    <file alias="qmldir">D:/QML/8-QMLPositioningMechanisms/Flow/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/Flow/qmldir</file>
+  </qresource>
+</RCC>
+
