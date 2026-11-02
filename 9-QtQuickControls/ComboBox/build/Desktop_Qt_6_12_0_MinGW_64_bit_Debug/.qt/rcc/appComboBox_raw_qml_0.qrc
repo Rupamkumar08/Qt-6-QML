@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/ComboBox/">
+    <file alias="Main.qml">D:/QML/9-QtQuickControls/ComboBox/Main.qml</file>
+  </qresource>
+</RCC>
+

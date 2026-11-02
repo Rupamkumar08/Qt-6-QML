@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appComboBox_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_ComboBox.cpp"
+  ".rcc/qmlcache/appComboBox_Main_qml.cpp"
+  ".rcc/qmlcache/appComboBox_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appComboBox_qmlcache_loader.cpp"
+  "CMakeFiles/appComboBox.dir/appComboBox_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appComboBox.dir/appComboBox_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appComboBox.dir/appcombobox_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appComboBox.dir/appcombobox_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appComboBox.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appComboBox_raw_qml_0.cpp.obj"
+  "CMakeFiles/appComboBox.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appComboBox_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appComboBox.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_ComboBox.cpp.obj"
+  "CMakeFiles/appComboBox.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_ComboBox.cpp.obj.d"
+  "CMakeFiles/appComboBox.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appComboBox_Main_qml.cpp.obj"
+  "CMakeFiles/appComboBox.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appComboBox_Main_qml.cpp.obj.d"
+  "CMakeFiles/appComboBox.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appComboBox_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appComboBox.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appComboBox_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appComboBox.dir/main.cpp.obj"
+  "CMakeFiles/appComboBox.dir/main.cpp.obj.d"
+  "ComboBox/appComboBox.qmltypes"
+  "CMakeFiles/appComboBox_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appComboBox_autogen.dir/ParseCache.txt"
+  "appComboBox_autogen"
+  "appComboBox.exe"
+  "appComboBox.exe.manifest"
+  "appComboBox.pdb"
+  "appComboBox_autogen/mocs_compilation.cpp"
+  "appComboBox_autogen/timestamp"
+  "appcombobox_qmltyperegistrations.cpp"
+  "libappComboBox.dll.a"
+  "meta_types/appComboBox_json_file_list.txt"
+  "meta_types/appComboBox_json_file_list.txt.timestamp"
+  "meta_types/qt6appcombobox_metatypes.json"
+  "meta_types/qt6appcombobox_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appComboBox.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

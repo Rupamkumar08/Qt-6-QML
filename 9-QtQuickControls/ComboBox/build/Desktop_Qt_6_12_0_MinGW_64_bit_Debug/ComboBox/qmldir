@@ -1,0 +1,6 @@
+module ComboBox
+typeinfo appComboBox.qmltypes
+prefer :/qt/qml/ComboBox/
+Main 254.0 Main.qml
+depends QtQuick
+
