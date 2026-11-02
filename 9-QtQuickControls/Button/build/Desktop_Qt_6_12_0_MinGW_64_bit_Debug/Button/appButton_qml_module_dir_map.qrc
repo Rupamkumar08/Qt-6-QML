@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/Button">D:/QML/9-QtQuickControls/Button/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/Button</file>
+
+  </qresource>
+</RCC>

@@ -1,0 +1,9 @@
+
+set(target "appButton")
+set(working_dir "D:/QML/9-QtQuickControls/Button")
+set(src_and_dest_list
+    "D:/QML/9-QtQuickControls/Button/Main.qml"
+    "D:/QML/9-QtQuickControls/Button/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/Button/Main.qml"
+
+)
+set(timestamp_file "D:/QML/9-QtQuickControls/Button/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/appButton_qml.txt")

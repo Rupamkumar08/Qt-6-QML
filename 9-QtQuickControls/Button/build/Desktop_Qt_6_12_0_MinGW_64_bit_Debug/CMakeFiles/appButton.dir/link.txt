@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\appButton.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\appButton.dir/objects.a @CMakeFiles\appButton.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\appButton.dir/objects.a -Wl,--no-whole-archive -o appButton.exe -Wl,--out-implib,libappButton.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\appButton.dir\linkLibs.rsp

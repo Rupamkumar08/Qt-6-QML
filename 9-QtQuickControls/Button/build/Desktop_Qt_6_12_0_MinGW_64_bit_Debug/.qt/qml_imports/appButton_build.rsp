@@ -1,0 +1,14 @@
+-rootPath
+D:/QML/9-QtQuickControls/Button
+-cmake-output
+-output-file
+D:/QML/9-QtQuickControls/Button/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/qml_imports/appButton_build.cmake
+-importPath
+D:/QML/9-QtQuickControls/Button/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug
+-importPath
+D:/QML/9-QtQuickControls/Button/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/Button
+-importPath
+C:/Qt/6.12.0/mingw_64/qml
+-qrcFiles
+D:/QML/9-QtQuickControls/Button/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qmake_Button.qrc
+D:/QML/9-QtQuickControls/Button/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/appButton_raw_qml_0.qrc
