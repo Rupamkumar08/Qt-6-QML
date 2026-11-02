@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appBusyIndicator_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_BusyIndicator.cpp"
+  ".rcc/qmlcache/appBusyIndicator_Main_qml.cpp"
+  ".rcc/qmlcache/appBusyIndicator_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appBusyIndicator_qmlcache_loader.cpp"
+  "BusyIndicator/appBusyIndicator.qmltypes"
+  "CMakeFiles/appBusyIndicator.dir/appBusyIndicator_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appBusyIndicator.dir/appBusyIndicator_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appBusyIndicator.dir/appbusyindicator_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appBusyIndicator.dir/appbusyindicator_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appBusyIndicator.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appBusyIndicator_raw_qml_0.cpp.obj"
+  "CMakeFiles/appBusyIndicator.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appBusyIndicator_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appBusyIndicator.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_BusyIndicator.cpp.obj"
+  "CMakeFiles/appBusyIndicator.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_BusyIndicator.cpp.obj.d"
+  "CMakeFiles/appBusyIndicator.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appBusyIndicator_Main_qml.cpp.obj"
+  "CMakeFiles/appBusyIndicator.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appBusyIndicator_Main_qml.cpp.obj.d"
+  "CMakeFiles/appBusyIndicator.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appBusyIndicator_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appBusyIndicator.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appBusyIndicator_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appBusyIndicator.dir/main.cpp.obj"
+  "CMakeFiles/appBusyIndicator.dir/main.cpp.obj.d"
+  "CMakeFiles/appBusyIndicator_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appBusyIndicator_autogen.dir/ParseCache.txt"
+  "appBusyIndicator_autogen"
+  "appBusyIndicator.exe"
+  "appBusyIndicator.exe.manifest"
+  "appBusyIndicator.pdb"
+  "appBusyIndicator_autogen/mocs_compilation.cpp"
+  "appBusyIndicator_autogen/timestamp"
+  "appbusyindicator_qmltyperegistrations.cpp"
+  "libappBusyIndicator.dll.a"
+  "meta_types/appBusyIndicator_json_file_list.txt"
+  "meta_types/appBusyIndicator_json_file_list.txt.timestamp"
+  "meta_types/qt6appbusyindicator_metatypes.json"
+  "meta_types/qt6appbusyindicator_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appBusyIndicator.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

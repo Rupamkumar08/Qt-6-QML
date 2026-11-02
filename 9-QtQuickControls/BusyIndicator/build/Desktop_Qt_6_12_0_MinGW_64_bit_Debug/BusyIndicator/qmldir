@@ -1,0 +1,6 @@
+module BusyIndicator
+typeinfo appBusyIndicator.qmltypes
+prefer :/qt/qml/BusyIndicator/
+Main 254.0 Main.qml
+depends QtQuick
+

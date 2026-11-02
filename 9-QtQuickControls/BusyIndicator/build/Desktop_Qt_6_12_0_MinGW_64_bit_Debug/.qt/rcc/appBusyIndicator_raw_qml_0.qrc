@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/BusyIndicator/">
+    <file alias="Main.qml">D:/QML/9-QtQuickControls/BusyIndicator/Main.qml</file>
+  </qresource>
+</RCC>
+
