@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appCheckBox_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_CheckBox.cpp"
+  ".rcc/qmlcache/appCheckBox_Main_qml.cpp"
+  ".rcc/qmlcache/appCheckBox_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appCheckBox_qmlcache_loader.cpp"
+  "CMakeFiles/appCheckBox.dir/appCheckBox_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appCheckBox.dir/appCheckBox_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appCheckBox.dir/appcheckbox_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appCheckBox.dir/appcheckbox_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appCheckBox.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appCheckBox_raw_qml_0.cpp.obj"
+  "CMakeFiles/appCheckBox.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appCheckBox_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appCheckBox.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_CheckBox.cpp.obj"
+  "CMakeFiles/appCheckBox.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_CheckBox.cpp.obj.d"
+  "CMakeFiles/appCheckBox.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appCheckBox_Main_qml.cpp.obj"
+  "CMakeFiles/appCheckBox.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appCheckBox_Main_qml.cpp.obj.d"
+  "CMakeFiles/appCheckBox.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appCheckBox_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appCheckBox.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appCheckBox_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appCheckBox.dir/main.cpp.obj"
+  "CMakeFiles/appCheckBox.dir/main.cpp.obj.d"
+  "CheckBox/appCheckBox.qmltypes"
+  "CMakeFiles/appCheckBox_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appCheckBox_autogen.dir/ParseCache.txt"
+  "appCheckBox_autogen"
+  "appCheckBox.exe"
+  "appCheckBox.exe.manifest"
+  "appCheckBox.pdb"
+  "appCheckBox_autogen/mocs_compilation.cpp"
+  "appCheckBox_autogen/timestamp"
+  "appcheckbox_qmltyperegistrations.cpp"
+  "libappCheckBox.dll.a"
+  "meta_types/appCheckBox_json_file_list.txt"
+  "meta_types/appCheckBox_json_file_list.txt.timestamp"
+  "meta_types/qt6appcheckbox_metatypes.json"
+  "meta_types/qt6appcheckbox_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appCheckBox.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

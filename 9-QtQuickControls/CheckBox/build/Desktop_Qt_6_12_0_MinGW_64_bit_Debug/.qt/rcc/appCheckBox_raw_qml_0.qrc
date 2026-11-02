@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/CheckBox/">
+    <file alias="Main.qml">D:/QML/9-QtQuickControls/CheckBox/Main.qml</file>
+  </qresource>
+</RCC>
+
