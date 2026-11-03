@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\appDelayButton.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\appDelayButton.dir/objects.a @CMakeFiles\appDelayButton.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\appDelayButton.dir/objects.a -Wl,--no-whole-archive -o appDelayButton.exe -Wl,--out-implib,libappDelayButton.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\appDelayButton.dir\linkLibs.rsp

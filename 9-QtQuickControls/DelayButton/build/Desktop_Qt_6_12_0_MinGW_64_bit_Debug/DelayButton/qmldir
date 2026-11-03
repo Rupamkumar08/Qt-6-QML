@@ -1,0 +1,6 @@
+module DelayButton
+typeinfo appDelayButton.qmltypes
+prefer :/qt/qml/DelayButton/
+Main 254.0 Main.qml
+depends QtQuick
+

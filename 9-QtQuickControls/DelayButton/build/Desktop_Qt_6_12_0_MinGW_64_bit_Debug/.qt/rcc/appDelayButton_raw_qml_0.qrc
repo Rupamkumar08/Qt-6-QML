@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/DelayButton/">
+    <file alias="Main.qml">D:/QML/9-QtQuickControls/DelayButton/Main.qml</file>
+  </qresource>
+</RCC>
+

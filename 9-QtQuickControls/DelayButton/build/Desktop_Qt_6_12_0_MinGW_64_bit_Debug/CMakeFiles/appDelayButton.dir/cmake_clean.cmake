@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appDelayButton_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_DelayButton.cpp"
+  ".rcc/qmlcache/appDelayButton_Main_qml.cpp"
+  ".rcc/qmlcache/appDelayButton_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appDelayButton_qmlcache_loader.cpp"
+  "CMakeFiles/appDelayButton.dir/appDelayButton_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appDelayButton.dir/appDelayButton_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appDelayButton.dir/appdelaybutton_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appDelayButton.dir/appdelaybutton_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appDelayButton.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appDelayButton_raw_qml_0.cpp.obj"
+  "CMakeFiles/appDelayButton.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appDelayButton_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appDelayButton.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_DelayButton.cpp.obj"
+  "CMakeFiles/appDelayButton.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_DelayButton.cpp.obj.d"
+  "CMakeFiles/appDelayButton.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appDelayButton_Main_qml.cpp.obj"
+  "CMakeFiles/appDelayButton.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appDelayButton_Main_qml.cpp.obj.d"
+  "CMakeFiles/appDelayButton.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appDelayButton_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appDelayButton.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appDelayButton_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appDelayButton.dir/main.cpp.obj"
+  "CMakeFiles/appDelayButton.dir/main.cpp.obj.d"
+  "CMakeFiles/appDelayButton_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appDelayButton_autogen.dir/ParseCache.txt"
+  "appDelayButton_autogen"
+  "DelayButton/appDelayButton.qmltypes"
+  "appDelayButton.exe"
+  "appDelayButton.exe.manifest"
+  "appDelayButton.pdb"
+  "appDelayButton_autogen/mocs_compilation.cpp"
+  "appDelayButton_autogen/timestamp"
+  "appdelaybutton_qmltyperegistrations.cpp"
+  "libappDelayButton.dll.a"
+  "meta_types/appDelayButton_json_file_list.txt"
+  "meta_types/appDelayButton_json_file_list.txt.timestamp"
+  "meta_types/qt6appdelaybutton_metatypes.json"
+  "meta_types/qt6appdelaybutton_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appDelayButton.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
