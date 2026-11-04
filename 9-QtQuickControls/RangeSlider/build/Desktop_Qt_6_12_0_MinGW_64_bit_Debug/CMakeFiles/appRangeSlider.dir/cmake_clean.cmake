@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appRangeSlider_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_RangeSlider.cpp"
+  ".rcc/qmlcache/appRangeSlider_Main_qml.cpp"
+  ".rcc/qmlcache/appRangeSlider_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appRangeSlider_qmlcache_loader.cpp"
+  "CMakeFiles/appRangeSlider.dir/appRangeSlider_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appRangeSlider.dir/appRangeSlider_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appRangeSlider.dir/apprangeslider_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appRangeSlider.dir/apprangeslider_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appRangeSlider.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appRangeSlider_raw_qml_0.cpp.obj"
+  "CMakeFiles/appRangeSlider.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appRangeSlider_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appRangeSlider.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_RangeSlider.cpp.obj"
+  "CMakeFiles/appRangeSlider.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_RangeSlider.cpp.obj.d"
+  "CMakeFiles/appRangeSlider.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appRangeSlider_Main_qml.cpp.obj"
+  "CMakeFiles/appRangeSlider.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appRangeSlider_Main_qml.cpp.obj.d"
+  "CMakeFiles/appRangeSlider.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appRangeSlider_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appRangeSlider.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appRangeSlider_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appRangeSlider.dir/main.cpp.obj"
+  "CMakeFiles/appRangeSlider.dir/main.cpp.obj.d"
+  "CMakeFiles/appRangeSlider_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appRangeSlider_autogen.dir/ParseCache.txt"
+  "appRangeSlider_autogen"
+  "RangeSlider/appRangeSlider.qmltypes"
+  "appRangeSlider.exe"
+  "appRangeSlider.exe.manifest"
+  "appRangeSlider.pdb"
+  "appRangeSlider_autogen/mocs_compilation.cpp"
+  "appRangeSlider_autogen/timestamp"
+  "apprangeslider_qmltyperegistrations.cpp"
+  "libappRangeSlider.dll.a"
+  "meta_types/appRangeSlider_json_file_list.txt"
+  "meta_types/appRangeSlider_json_file_list.txt.timestamp"
+  "meta_types/qt6apprangeslider_metatypes.json"
+  "meta_types/qt6apprangeslider_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appRangeSlider.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

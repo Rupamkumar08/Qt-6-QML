@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/RangeSlider/">
+    <file alias="Main.qml">D:/QML/9-QtQuickControls/RangeSlider/Main.qml</file>
+  </qresource>
+</RCC>
+

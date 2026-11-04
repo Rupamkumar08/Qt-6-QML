@@ -1,0 +1,6 @@
+module RangeSlider
+typeinfo appRangeSlider.qmltypes
+prefer :/qt/qml/RangeSlider/
+Main 254.0 Main.qml
+depends QtQuick
+
