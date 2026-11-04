@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appDial_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_Dial.cpp"
+  ".rcc/qmlcache/appDial_Main_qml.cpp"
+  ".rcc/qmlcache/appDial_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appDial_qmlcache_loader.cpp"
+  "CMakeFiles/appDial.dir/appDial_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appDial.dir/appDial_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appDial.dir/appdial_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appDial.dir/appdial_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appDial.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appDial_raw_qml_0.cpp.obj"
+  "CMakeFiles/appDial.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appDial_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appDial.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_Dial.cpp.obj"
+  "CMakeFiles/appDial.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_Dial.cpp.obj.d"
+  "CMakeFiles/appDial.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appDial_Main_qml.cpp.obj"
+  "CMakeFiles/appDial.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appDial_Main_qml.cpp.obj.d"
+  "CMakeFiles/appDial.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appDial_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appDial.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appDial_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appDial.dir/main.cpp.obj"
+  "CMakeFiles/appDial.dir/main.cpp.obj.d"
+  "CMakeFiles/appDial_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appDial_autogen.dir/ParseCache.txt"
+  "appDial_autogen"
+  "Dial/appDial.qmltypes"
+  "appDial.exe"
+  "appDial.exe.manifest"
+  "appDial.pdb"
+  "appDial_autogen/mocs_compilation.cpp"
+  "appDial_autogen/timestamp"
+  "appdial_qmltyperegistrations.cpp"
+  "libappDial.dll.a"
+  "meta_types/appDial_json_file_list.txt"
+  "meta_types/appDial_json_file_list.txt.timestamp"
+  "meta_types/qt6appdial_metatypes.json"
+  "meta_types/qt6appdial_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appDial.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

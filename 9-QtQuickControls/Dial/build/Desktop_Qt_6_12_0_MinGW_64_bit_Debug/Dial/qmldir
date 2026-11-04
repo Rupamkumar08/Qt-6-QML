@@ -1,0 +1,6 @@
+module Dial
+typeinfo appDial.qmltypes
+prefer :/qt/qml/Dial/
+Main 254.0 Main.qml
+depends QtQuick
+

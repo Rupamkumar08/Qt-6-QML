@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Dial/">
+    <file alias="Main.qml">D:/QML/9-QtQuickControls/Dial/Main.qml</file>
+  </qresource>
+</RCC>
+

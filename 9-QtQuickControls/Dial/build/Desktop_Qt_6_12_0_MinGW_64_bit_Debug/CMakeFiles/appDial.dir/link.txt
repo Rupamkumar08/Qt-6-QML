@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\appDial.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\appDial.dir/objects.a @CMakeFiles\appDial.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\appDial.dir/objects.a -Wl,--no-whole-archive -o appDial.exe -Wl,--out-implib,libappDial.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\appDial.dir\linkLibs.rsp
