@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appFrame_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_Frame.cpp"
+  ".rcc/qmlcache/appFrame_Main_qml.cpp"
+  ".rcc/qmlcache/appFrame_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appFrame_qmlcache_loader.cpp"
+  "CMakeFiles/appFrame.dir/appFrame_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appFrame.dir/appFrame_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appFrame.dir/appframe_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appFrame.dir/appframe_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appFrame.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appFrame_raw_qml_0.cpp.obj"
+  "CMakeFiles/appFrame.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appFrame_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appFrame.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_Frame.cpp.obj"
+  "CMakeFiles/appFrame.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_Frame.cpp.obj.d"
+  "CMakeFiles/appFrame.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appFrame_Main_qml.cpp.obj"
+  "CMakeFiles/appFrame.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appFrame_Main_qml.cpp.obj.d"
+  "CMakeFiles/appFrame.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appFrame_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appFrame.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appFrame_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appFrame.dir/main.cpp.obj"
+  "CMakeFiles/appFrame.dir/main.cpp.obj.d"
+  "CMakeFiles/appFrame_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appFrame_autogen.dir/ParseCache.txt"
+  "appFrame_autogen"
+  "Frame/appFrame.qmltypes"
+  "appFrame.exe"
+  "appFrame.exe.manifest"
+  "appFrame.pdb"
+  "appFrame_autogen/mocs_compilation.cpp"
+  "appFrame_autogen/timestamp"
+  "appframe_qmltyperegistrations.cpp"
+  "libappFrame.dll.a"
+  "meta_types/appFrame_json_file_list.txt"
+  "meta_types/appFrame_json_file_list.txt.timestamp"
+  "meta_types/qt6appframe_metatypes.json"
+  "meta_types/qt6appframe_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appFrame.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
