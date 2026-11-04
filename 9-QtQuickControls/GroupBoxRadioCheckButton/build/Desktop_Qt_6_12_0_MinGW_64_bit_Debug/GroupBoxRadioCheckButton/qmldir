@@ -1,0 +1,6 @@
+module GroupBoxRadioCheckButton
+typeinfo appGroupBoxRadioCheckButton.qmltypes
+prefer :/qt/qml/GroupBoxRadioCheckButton/
+Main 254.0 Main.qml
+depends QtQuick
+

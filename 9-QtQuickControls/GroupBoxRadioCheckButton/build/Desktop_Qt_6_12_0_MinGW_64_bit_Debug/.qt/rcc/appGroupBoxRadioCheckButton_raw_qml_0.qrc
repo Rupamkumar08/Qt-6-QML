@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/GroupBoxRadioCheckButton/">
+    <file alias="Main.qml">D:/QML/9-QtQuickControls/GroupBoxRadioCheckButton/Main.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appGroupBoxRadioCheckButton_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_GroupBoxRadioCheckButton.cpp"
+  ".rcc/qmlcache/appGroupBoxRadioCheckButton_Main_qml.cpp"
+  ".rcc/qmlcache/appGroupBoxRadioCheckButton_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appGroupBoxRadioCheckButton_qmlcache_loader.cpp"
+  "CMakeFiles/appGroupBoxRadioCheckButton.dir/appGroupBoxRadioCheckButton_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appGroupBoxRadioCheckButton.dir/appGroupBoxRadioCheckButton_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appGroupBoxRadioCheckButton.dir/appgroupboxradiocheckbutton_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appGroupBoxRadioCheckButton.dir/appgroupboxradiocheckbutton_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appGroupBoxRadioCheckButton.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appGroupBoxRadioCheckButton_raw_qml_0.cpp.obj"
+  "CMakeFiles/appGroupBoxRadioCheckButton.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appGroupBoxRadioCheckButton_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appGroupBoxRadioCheckButton.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_GroupBoxRadioCheckButton.cpp.obj"
+  "CMakeFiles/appGroupBoxRadioCheckButton.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_GroupBoxRadioCheckButton.cpp.obj.d"
+  "CMakeFiles/appGroupBoxRadioCheckButton.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appGroupBoxRadioCheckButton_Main_qml.cpp.obj"
+  "CMakeFiles/appGroupBoxRadioCheckButton.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appGroupBoxRadioCheckButton_Main_qml.cpp.obj.d"
+  "CMakeFiles/appGroupBoxRadioCheckButton.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appGroupBoxRadioCheckButton_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appGroupBoxRadioCheckButton.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appGroupBoxRadioCheckButton_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appGroupBoxRadioCheckButton.dir/main.cpp.obj"
+  "CMakeFiles/appGroupBoxRadioCheckButton.dir/main.cpp.obj.d"
+  "CMakeFiles/appGroupBoxRadioCheckButton_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appGroupBoxRadioCheckButton_autogen.dir/ParseCache.txt"
+  "appGroupBoxRadioCheckButton_autogen"
+  "GroupBoxRadioCheckButton/appGroupBoxRadioCheckButton.qmltypes"
+  "appGroupBoxRadioCheckButton.exe"
+  "appGroupBoxRadioCheckButton.exe.manifest"
+  "appGroupBoxRadioCheckButton.pdb"
+  "appGroupBoxRadioCheckButton_autogen/mocs_compilation.cpp"
+  "appGroupBoxRadioCheckButton_autogen/timestamp"
+  "appgroupboxradiocheckbutton_qmltyperegistrations.cpp"
+  "libappGroupBoxRadioCheckButton.dll.a"
+  "meta_types/appGroupBoxRadioCheckButton_json_file_list.txt"
+  "meta_types/appGroupBoxRadioCheckButton_json_file_list.txt.timestamp"
+  "meta_types/qt6appgroupboxradiocheckbutton_metatypes.json"
+  "meta_types/qt6appgroupboxradiocheckbutton_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appGroupBoxRadioCheckButton.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

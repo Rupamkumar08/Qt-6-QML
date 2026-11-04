@@ -1,0 +1,241 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-1e04425ea2bdea7fbc89.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "GroupBoxRadioCheckButton",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-c3b461284d5b9b00b093.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-80afa6673d93c2c67604.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-c88bf6829e9f7520edb5.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-50808cae92d0d35feb09.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-e30f48599bb87b9e8d8b.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGroupBoxRadioCheckButton::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGroupBoxRadioCheckButton-Debug-19462b175c23aa67905d.json",
+					"name" : "appGroupBoxRadioCheckButton",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGroupBoxRadioCheckButton_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGroupBoxRadioCheckButton_autogen-Debug-06f5d333a120d29f01ed.json",
+					"name" : "appGroupBoxRadioCheckButton_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGroupBoxRadioCheckButton_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGroupBoxRadioCheckButton_autogen_timestamp_deps-Debug-f501d776cc10c8357372.json",
+					"name" : "appGroupBoxRadioCheckButton_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGroupBoxRadioCheckButton_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGroupBoxRadioCheckButton_copy_qml-Debug-27e9844a2e72a7e34176.json",
+					"name" : "appGroupBoxRadioCheckButton_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGroupBoxRadioCheckButton_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGroupBoxRadioCheckButton_copy_res-Debug-91eb47247d2fc1cf212b.json",
+					"name" : "appGroupBoxRadioCheckButton_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGroupBoxRadioCheckButton_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGroupBoxRadioCheckButton_qmlimportscan-Debug-2974957c581bdecf4bf6.json",
+					"name" : "appGroupBoxRadioCheckButton_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGroupBoxRadioCheckButton_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGroupBoxRadioCheckButton_qmllint-Debug-70cfd0ce846cd5411061.json",
+					"name" : "appGroupBoxRadioCheckButton_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGroupBoxRadioCheckButton_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGroupBoxRadioCheckButton_qmllint_json-Debug-598708248e382d37c754.json",
+					"name" : "appGroupBoxRadioCheckButton_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGroupBoxRadioCheckButton_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGroupBoxRadioCheckButton_qmllint_module-Debug-85d9f5d5eca2468d9250.json",
+					"name" : "appGroupBoxRadioCheckButton_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGroupBoxRadioCheckButton_qmlpreview::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGroupBoxRadioCheckButton_qmlpreview-Debug-386ddb762449bcd81ab7.json",
+					"name" : "appGroupBoxRadioCheckButton_qmlpreview",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGroupBoxRadioCheckButton_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGroupBoxRadioCheckButton_qmltyperegistration-Debug-24e5d55c5c6739c20275.json",
+					"name" : "appGroupBoxRadioCheckButton_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "clean_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-clean_qml_context_properties-Debug-d9c7218ce05fc6b92dfc.json",
+					"name" : "clean_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dump_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dump_qml_context_properties-Debug-3ee0b644658b3147f499.json",
+					"name" : "dump_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_finalqtconf_appGroupBoxRadioCheckButton::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_finalqtconf_appGroupBoxRadioCheckButton-Debug-5544ee229126a90d5d0b.json",
+					"name" : "generate_finalqtconf_appGroupBoxRadioCheckButton",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_qmlls_build_ini_file-Debug-480bba932d553502c9eb.json",
+					"name" : "generate_qmlls_build_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appGroupBoxRadioCheckButton_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appGroupBoxRadioCheckButton_aotstats_target-Debug-c954e0b7ec9e590cf21f.json",
+					"name" : "module_appGroupBoxRadioCheckButton_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QML/9-QtQuickControls/GroupBoxRadioCheckButton/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug",
+		"source" : "D:/QML/9-QtQuickControls/GroupBoxRadioCheckButton"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

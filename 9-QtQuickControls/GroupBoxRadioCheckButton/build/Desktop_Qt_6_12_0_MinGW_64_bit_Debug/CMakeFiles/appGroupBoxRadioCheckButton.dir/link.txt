@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\appGroupBoxRadioCheckButton.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\appGroupBoxRadioCheckButton.dir/objects.a @CMakeFiles\appGroupBoxRadioCheckButton.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\appGroupBoxRadioCheckButton.dir/objects.a -Wl,--no-whole-archive -o appGroupBoxRadioCheckButton.exe -Wl,--out-implib,libappGroupBoxRadioCheckButton.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\appGroupBoxRadioCheckButton.dir\linkLibs.rsp
