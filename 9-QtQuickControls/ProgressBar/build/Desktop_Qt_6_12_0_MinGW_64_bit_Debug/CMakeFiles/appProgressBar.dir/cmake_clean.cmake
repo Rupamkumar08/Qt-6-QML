@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appProgressBar_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_ProgressBar.cpp"
+  ".rcc/qmlcache/appProgressBar_Main_qml.cpp"
+  ".rcc/qmlcache/appProgressBar_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appProgressBar_qmlcache_loader.cpp"
+  "CMakeFiles/appProgressBar.dir/appProgressBar_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appProgressBar.dir/appProgressBar_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appProgressBar.dir/appprogressbar_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appProgressBar.dir/appprogressbar_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appProgressBar.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appProgressBar_raw_qml_0.cpp.obj"
+  "CMakeFiles/appProgressBar.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appProgressBar_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appProgressBar.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_ProgressBar.cpp.obj"
+  "CMakeFiles/appProgressBar.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_ProgressBar.cpp.obj.d"
+  "CMakeFiles/appProgressBar.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appProgressBar_Main_qml.cpp.obj"
+  "CMakeFiles/appProgressBar.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appProgressBar_Main_qml.cpp.obj.d"
+  "CMakeFiles/appProgressBar.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appProgressBar_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appProgressBar.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appProgressBar_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appProgressBar.dir/main.cpp.obj"
+  "CMakeFiles/appProgressBar.dir/main.cpp.obj.d"
+  "CMakeFiles/appProgressBar_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appProgressBar_autogen.dir/ParseCache.txt"
+  "appProgressBar_autogen"
+  "ProgressBar/appProgressBar.qmltypes"
+  "appProgressBar.exe"
+  "appProgressBar.exe.manifest"
+  "appProgressBar.pdb"
+  "appProgressBar_autogen/mocs_compilation.cpp"
+  "appProgressBar_autogen/timestamp"
+  "appprogressbar_qmltyperegistrations.cpp"
+  "libappProgressBar.dll.a"
+  "meta_types/appProgressBar_json_file_list.txt"
+  "meta_types/appProgressBar_json_file_list.txt.timestamp"
+  "meta_types/qt6appprogressbar_metatypes.json"
+  "meta_types/qt6appprogressbar_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appProgressBar.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
