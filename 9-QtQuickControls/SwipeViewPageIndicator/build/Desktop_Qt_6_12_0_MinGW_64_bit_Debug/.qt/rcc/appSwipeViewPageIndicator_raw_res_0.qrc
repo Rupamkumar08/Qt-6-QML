@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/SwipeViewPageIndicator/">
+    <file alias="images/1.png">D:/QML/9-QtQuickControls/SwipeViewPageIndicator/images/1.png</file>
+    <file alias="images/2.png">D:/QML/9-QtQuickControls/SwipeViewPageIndicator/images/2.png</file>
+    <file alias="images/3.png">D:/QML/9-QtQuickControls/SwipeViewPageIndicator/images/3.png</file>
+  </qresource>
+</RCC>
+

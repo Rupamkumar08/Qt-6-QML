@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/SwipeViewPageIndicator/">
+    <file alias="Main.qml">D:/QML/9-QtQuickControls/SwipeViewPageIndicator/Main.qml</file>
+  </qresource>
+</RCC>
+
