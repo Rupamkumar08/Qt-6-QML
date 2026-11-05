@@ -1,0 +1,6 @@
+module TextFieldLabel
+typeinfo appTextFieldLabel.qmltypes
+prefer :/qt/qml/TextFieldLabel/
+Main 254.0 Main.qml
+depends QtQuick
+

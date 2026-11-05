@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appTextFieldLabel_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_TextFieldLabel.cpp"
+  ".rcc/qmlcache/appTextFieldLabel_Main_qml.cpp"
+  ".rcc/qmlcache/appTextFieldLabel_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appTextFieldLabel_qmlcache_loader.cpp"
+  "CMakeFiles/appTextFieldLabel.dir/appTextFieldLabel_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appTextFieldLabel.dir/appTextFieldLabel_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appTextFieldLabel.dir/apptextfieldlabel_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appTextFieldLabel.dir/apptextfieldlabel_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appTextFieldLabel.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appTextFieldLabel_raw_qml_0.cpp.obj"
+  "CMakeFiles/appTextFieldLabel.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appTextFieldLabel_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appTextFieldLabel.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_TextFieldLabel.cpp.obj"
+  "CMakeFiles/appTextFieldLabel.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_TextFieldLabel.cpp.obj.d"
+  "CMakeFiles/appTextFieldLabel.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appTextFieldLabel_Main_qml.cpp.obj"
+  "CMakeFiles/appTextFieldLabel.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appTextFieldLabel_Main_qml.cpp.obj.d"
+  "CMakeFiles/appTextFieldLabel.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appTextFieldLabel_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appTextFieldLabel.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appTextFieldLabel_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appTextFieldLabel.dir/main.cpp.obj"
+  "CMakeFiles/appTextFieldLabel.dir/main.cpp.obj.d"
+  "CMakeFiles/appTextFieldLabel_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appTextFieldLabel_autogen.dir/ParseCache.txt"
+  "appTextFieldLabel_autogen"
+  "TextFieldLabel/appTextFieldLabel.qmltypes"
+  "appTextFieldLabel.exe"
+  "appTextFieldLabel.exe.manifest"
+  "appTextFieldLabel.pdb"
+  "appTextFieldLabel_autogen/mocs_compilation.cpp"
+  "appTextFieldLabel_autogen/timestamp"
+  "apptextfieldlabel_qmltyperegistrations.cpp"
+  "libappTextFieldLabel.dll.a"
+  "meta_types/appTextFieldLabel_json_file_list.txt"
+  "meta_types/appTextFieldLabel_json_file_list.txt.timestamp"
+  "meta_types/qt6apptextfieldlabel_metatypes.json"
+  "meta_types/qt6apptextfieldlabel_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appTextFieldLabel.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
