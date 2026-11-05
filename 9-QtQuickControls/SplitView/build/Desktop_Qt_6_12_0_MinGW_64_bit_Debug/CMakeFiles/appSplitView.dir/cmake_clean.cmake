@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appSplitView_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_SplitView.cpp"
+  ".rcc/qmlcache/appSplitView_Main_qml.cpp"
+  ".rcc/qmlcache/appSplitView_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appSplitView_qmlcache_loader.cpp"
+  "CMakeFiles/appSplitView.dir/appSplitView_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appSplitView.dir/appSplitView_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appSplitView.dir/appsplitview_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appSplitView.dir/appsplitview_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appSplitView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appSplitView_raw_qml_0.cpp.obj"
+  "CMakeFiles/appSplitView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appSplitView_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appSplitView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_SplitView.cpp.obj"
+  "CMakeFiles/appSplitView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_SplitView.cpp.obj.d"
+  "CMakeFiles/appSplitView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appSplitView_Main_qml.cpp.obj"
+  "CMakeFiles/appSplitView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appSplitView_Main_qml.cpp.obj.d"
+  "CMakeFiles/appSplitView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appSplitView_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appSplitView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appSplitView_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appSplitView.dir/main.cpp.obj"
+  "CMakeFiles/appSplitView.dir/main.cpp.obj.d"
+  "CMakeFiles/appSplitView_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appSplitView_autogen.dir/ParseCache.txt"
+  "appSplitView_autogen"
+  "SplitView/appSplitView.qmltypes"
+  "appSplitView.exe"
+  "appSplitView.exe.manifest"
+  "appSplitView.pdb"
+  "appSplitView_autogen/mocs_compilation.cpp"
+  "appSplitView_autogen/timestamp"
+  "appsplitview_qmltyperegistrations.cpp"
+  "libappSplitView.dll.a"
+  "meta_types/appSplitView_json_file_list.txt"
+  "meta_types/appSplitView_json_file_list.txt.timestamp"
+  "meta_types/qt6appsplitview_metatypes.json"
+  "meta_types/qt6appsplitview_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appSplitView.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

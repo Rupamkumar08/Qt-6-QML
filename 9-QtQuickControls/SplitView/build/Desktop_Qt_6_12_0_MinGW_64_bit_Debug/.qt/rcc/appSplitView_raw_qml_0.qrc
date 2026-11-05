@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/SplitView/">
+    <file alias="Main.qml">D:/QML/9-QtQuickControls/SplitView/Main.qml</file>
+  </qresource>
+</RCC>
+

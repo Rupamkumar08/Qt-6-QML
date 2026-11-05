@@ -1,0 +1,6 @@
+module SplitView
+typeinfo appSplitView.qmltypes
+prefer :/qt/qml/SplitView/
+Main 254.0 Main.qml
+depends QtQuick
+

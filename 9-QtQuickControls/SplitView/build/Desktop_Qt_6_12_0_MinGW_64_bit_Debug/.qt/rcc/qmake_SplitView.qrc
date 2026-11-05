@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/SplitView">
+    <file alias="qmldir">D:/QML/9-QtQuickControls/SplitView/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/SplitView/qmldir</file>
+  </qresource>
+</RCC>
+
