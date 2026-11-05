@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/PageTabBar/">
+    <file alias="Main.qml">D:/QML/9-QtQuickControls/PageTabBar/Main.qml</file>
+  </qresource>
+</RCC>
+

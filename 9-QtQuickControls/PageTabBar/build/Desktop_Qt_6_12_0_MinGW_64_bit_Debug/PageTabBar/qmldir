@@ -1,0 +1,6 @@
+module PageTabBar
+typeinfo appPageTabBar.qmltypes
+prefer :/PageTabBar/
+Main 254.0 Main.qml
+depends QtQuick
+

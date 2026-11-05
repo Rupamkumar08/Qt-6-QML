@@ -1,0 +1,16 @@
+-I
+D:/QML/9-QtQuickControls/PageTabBar/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug
+-I
+D:/QML/9-QtQuickControls/PageTabBar/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/PageTabBar
+-I
+D:/QML/9-QtQuickControls/PageTabBar/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug
+-I
+C:/Qt/6.12.0/mingw_64/qml
+--resource
+D:/QML/9-QtQuickControls/PageTabBar/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qmake_PageTabBar.qrc
+--resource
+D:/QML/9-QtQuickControls/PageTabBar/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/appPageTabBar_raw_qml_0.qrc
+--resource
+D:/QML/9-QtQuickControls/PageTabBar/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/appPageTabBar_raw_res_0.qrc
+--module
+PageTabBar

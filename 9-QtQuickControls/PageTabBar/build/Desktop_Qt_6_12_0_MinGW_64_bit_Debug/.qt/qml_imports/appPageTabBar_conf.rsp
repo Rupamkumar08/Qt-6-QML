@@ -1,0 +1,15 @@
+-rootPath
+D:/QML/9-QtQuickControls/PageTabBar
+-cmake-output
+-output-file
+D:/QML/9-QtQuickControls/PageTabBar/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/qml_imports/appPageTabBar_conf.cmake
+-importPath
+D:/QML/9-QtQuickControls/PageTabBar/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug
+-importPath
+D:/QML/9-QtQuickControls/PageTabBar/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/PageTabBar
+-importPath
+C:/Qt/6.12.0/mingw_64/qml
+-qrcFiles
+D:/QML/9-QtQuickControls/PageTabBar/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qmake_PageTabBar.qrc
+D:/QML/9-QtQuickControls/PageTabBar/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/appPageTabBar_raw_qml_0.qrc
+D:/QML/9-QtQuickControls/PageTabBar/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/appPageTabBar_raw_res_0.qrc
