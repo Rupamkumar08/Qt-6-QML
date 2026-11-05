@@ -97,13 +97,13 @@ clean: CMakeFiles/appTextFieldLabel_autogen.dir/clean
 # Target rules for target CMakeFiles/appTextFieldLabel.dir
 
 # All Build rule for target.
+CMakeFiles/appTextFieldLabel.dir/all: CMakeFiles/appTextFieldLabel_copy_qml.dir/all
+CMakeFiles/appTextFieldLabel.dir/all: CMakeFiles/appTextFieldLabel_qmlimportscan.dir/all
 CMakeFiles/appTextFieldLabel.dir/all: CMakeFiles/generate_finalqtconf_appTextFieldLabel.dir/all
 CMakeFiles/appTextFieldLabel.dir/all: CMakeFiles/appTextFieldLabel_copy_res.dir/all
-CMakeFiles/appTextFieldLabel.dir/all: CMakeFiles/appTextFieldLabel_copy_qml.dir/all
 CMakeFiles/appTextFieldLabel.dir/all: CMakeFiles/generate_qmlls_build_ini_file.dir/all
-CMakeFiles/appTextFieldLabel.dir/all: CMakeFiles/appTextFieldLabel_autogen_timestamp_deps.dir/all
-CMakeFiles/appTextFieldLabel.dir/all: CMakeFiles/appTextFieldLabel_qmlimportscan.dir/all
 CMakeFiles/appTextFieldLabel.dir/all: CMakeFiles/appTextFieldLabel_autogen.dir/all
+CMakeFiles/appTextFieldLabel.dir/all: CMakeFiles/appTextFieldLabel_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\appTextFieldLabel.dir\build.make CMakeFiles/appTextFieldLabel.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\appTextFieldLabel.dir\build.make CMakeFiles/appTextFieldLabel.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:\QML\9-QtQuickControls\TextFieldLabel\build\Desktop_Qt_6_12_0_MinGW_64_bit_Debug\CMakeFiles --progress-num=2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18 "Built target appTextFieldLabel"
@@ -599,11 +599,11 @@ CMakeFiles/appTextFieldLabel_qmlimportscan.dir/clean:
 # Target rules for target CMakeFiles/appTextFieldLabel_autogen_timestamp_deps.dir
 
 # All Build rule for target.
+CMakeFiles/appTextFieldLabel_autogen_timestamp_deps.dir/all: CMakeFiles/appTextFieldLabel_copy_qml.dir/all
+CMakeFiles/appTextFieldLabel_autogen_timestamp_deps.dir/all: CMakeFiles/appTextFieldLabel_qmlimportscan.dir/all
 CMakeFiles/appTextFieldLabel_autogen_timestamp_deps.dir/all: CMakeFiles/generate_finalqtconf_appTextFieldLabel.dir/all
 CMakeFiles/appTextFieldLabel_autogen_timestamp_deps.dir/all: CMakeFiles/appTextFieldLabel_copy_res.dir/all
-CMakeFiles/appTextFieldLabel_autogen_timestamp_deps.dir/all: CMakeFiles/appTextFieldLabel_copy_qml.dir/all
 CMakeFiles/appTextFieldLabel_autogen_timestamp_deps.dir/all: CMakeFiles/generate_qmlls_build_ini_file.dir/all
-CMakeFiles/appTextFieldLabel_autogen_timestamp_deps.dir/all: CMakeFiles/appTextFieldLabel_qmlimportscan.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\appTextFieldLabel_autogen_timestamp_deps.dir\build.make CMakeFiles/appTextFieldLabel_autogen_timestamp_deps.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\appTextFieldLabel_autogen_timestamp_deps.dir\build.make CMakeFiles/appTextFieldLabel_autogen_timestamp_deps.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:\QML\9-QtQuickControls\TextFieldLabel\build\Desktop_Qt_6_12_0_MinGW_64_bit_Debug\CMakeFiles --progress-num= "Built target appTextFieldLabel_autogen_timestamp_deps"

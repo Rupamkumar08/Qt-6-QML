@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appTextAreaScrollView_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_TextAreaScrollView.cpp"
+  ".rcc/qmlcache/appTextAreaScrollView_Main_qml.cpp"
+  ".rcc/qmlcache/appTextAreaScrollView_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appTextAreaScrollView_qmlcache_loader.cpp"
+  "CMakeFiles/appTextAreaScrollView.dir/appTextAreaScrollView_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appTextAreaScrollView.dir/appTextAreaScrollView_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appTextAreaScrollView.dir/apptextareascrollview_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appTextAreaScrollView.dir/apptextareascrollview_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appTextAreaScrollView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appTextAreaScrollView_raw_qml_0.cpp.obj"
+  "CMakeFiles/appTextAreaScrollView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appTextAreaScrollView_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appTextAreaScrollView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_TextAreaScrollView.cpp.obj"
+  "CMakeFiles/appTextAreaScrollView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_TextAreaScrollView.cpp.obj.d"
+  "CMakeFiles/appTextAreaScrollView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appTextAreaScrollView_Main_qml.cpp.obj"
+  "CMakeFiles/appTextAreaScrollView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appTextAreaScrollView_Main_qml.cpp.obj.d"
+  "CMakeFiles/appTextAreaScrollView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appTextAreaScrollView_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appTextAreaScrollView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appTextAreaScrollView_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appTextAreaScrollView.dir/main.cpp.obj"
+  "CMakeFiles/appTextAreaScrollView.dir/main.cpp.obj.d"
+  "CMakeFiles/appTextAreaScrollView_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appTextAreaScrollView_autogen.dir/ParseCache.txt"
+  "appTextAreaScrollView_autogen"
+  "TextAreaScrollView/appTextAreaScrollView.qmltypes"
+  "appTextAreaScrollView.exe"
+  "appTextAreaScrollView.exe.manifest"
+  "appTextAreaScrollView.pdb"
+  "appTextAreaScrollView_autogen/mocs_compilation.cpp"
+  "appTextAreaScrollView_autogen/timestamp"
+  "apptextareascrollview_qmltyperegistrations.cpp"
+  "libappTextAreaScrollView.dll.a"
+  "meta_types/appTextAreaScrollView_json_file_list.txt"
+  "meta_types/appTextAreaScrollView_json_file_list.txt.timestamp"
+  "meta_types/qt6apptextareascrollview_metatypes.json"
+  "meta_types/qt6apptextareascrollview_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appTextAreaScrollView.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

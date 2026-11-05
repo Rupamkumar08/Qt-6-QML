@@ -1,0 +1,6 @@
+module TextAreaScrollView
+typeinfo appTextAreaScrollView.qmltypes
+prefer :/qt/qml/TextAreaScrollView/
+Main 254.0 Main.qml
+depends QtQuick
+
