@@ -1,0 +1,63 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 16,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 11,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "onCheckedChanged",
+                            "line": 18,
+                            "message": "Could not find signal \"checkedChanged\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "onCheckedChanged",
+                            "line": 18,
+                            "message": "Could not find signal \"checkedChanged\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 39,
+                            "durationMicroseconds": 0,
+                            "functionName": "horizontalCenter",
+                            "line": 15,
+                            "message": "Could not find property \"horizontalCenter\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 39,
+                            "durationMicroseconds": 0,
+                            "functionName": "horizontalCenter",
+                            "line": 28,
+                            "message": "Could not find property \"horizontalCenter\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 39,
+                            "durationMicroseconds": 0,
+                            "functionName": "horizontalCenter",
+                            "line": 33,
+                            "message": "Could not find property \"horizontalCenter\"."
+                        }
+                    ],
+                    "filePath": "D:/QML/9-QtQuickControls/Switch/Main.qml"
+                }
+            ],
+            "moduleId": "Switch(appSwitch)"
+        }
+    ]
+}

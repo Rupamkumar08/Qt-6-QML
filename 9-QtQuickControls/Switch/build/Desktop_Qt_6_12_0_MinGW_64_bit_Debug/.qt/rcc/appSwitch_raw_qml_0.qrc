@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Switch/">
+    <file alias="Main.qml">D:/QML/9-QtQuickControls/Switch/Main.qml</file>
+  </qresource>
+</RCC>
+

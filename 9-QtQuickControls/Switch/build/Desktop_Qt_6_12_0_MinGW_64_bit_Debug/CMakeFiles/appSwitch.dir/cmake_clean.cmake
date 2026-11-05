@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appSwitch_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_Switch.cpp"
+  ".rcc/qmlcache/appSwitch_Main_qml.cpp"
+  ".rcc/qmlcache/appSwitch_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appSwitch_qmlcache_loader.cpp"
+  "CMakeFiles/appSwitch.dir/appSwitch_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appSwitch.dir/appSwitch_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appSwitch.dir/appswitch_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appSwitch.dir/appswitch_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appSwitch.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appSwitch_raw_qml_0.cpp.obj"
+  "CMakeFiles/appSwitch.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appSwitch_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appSwitch.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_Switch.cpp.obj"
+  "CMakeFiles/appSwitch.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_Switch.cpp.obj.d"
+  "CMakeFiles/appSwitch.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appSwitch_Main_qml.cpp.obj"
+  "CMakeFiles/appSwitch.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appSwitch_Main_qml.cpp.obj.d"
+  "CMakeFiles/appSwitch.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appSwitch_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appSwitch.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appSwitch_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appSwitch.dir/main.cpp.obj"
+  "CMakeFiles/appSwitch.dir/main.cpp.obj.d"
+  "CMakeFiles/appSwitch_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appSwitch_autogen.dir/ParseCache.txt"
+  "appSwitch_autogen"
+  "Switch/appSwitch.qmltypes"
+  "appSwitch.exe"
+  "appSwitch.exe.manifest"
+  "appSwitch.pdb"
+  "appSwitch_autogen/mocs_compilation.cpp"
+  "appSwitch_autogen/timestamp"
+  "appswitch_qmltyperegistrations.cpp"
+  "libappSwitch.dll.a"
+  "meta_types/appSwitch_json_file_list.txt"
+  "meta_types/appSwitch_json_file_list.txt.timestamp"
+  "meta_types/qt6appswitch_metatypes.json"
+  "meta_types/qt6appswitch_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appSwitch.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
