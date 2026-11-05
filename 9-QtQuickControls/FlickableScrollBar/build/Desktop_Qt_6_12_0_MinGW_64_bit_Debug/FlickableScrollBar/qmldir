@@ -1,0 +1,6 @@
+module FlickableScrollBar
+typeinfo appFlickableScrollBar.qmltypes
+prefer :/qt/qml/FlickableScrollBar/
+Main 254.0 Main.qml
+depends QtQuick
+

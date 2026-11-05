@@ -1,0 +1,241 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5b58c844cde39f96914b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FlickableScrollBar",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-8400168715e99e831b62.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-a0b7c841046442a9281b.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-40bebd818fa7a8b4d0e7.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-9acd2f6a47efbee8456e.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-b470148ebd79d2d4fb94.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFlickableScrollBar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFlickableScrollBar-Debug-326b5e4c999b62ffd87d.json",
+					"name" : "appFlickableScrollBar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFlickableScrollBar_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFlickableScrollBar_autogen-Debug-cf05c8132d9751375903.json",
+					"name" : "appFlickableScrollBar_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFlickableScrollBar_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFlickableScrollBar_autogen_timestamp_deps-Debug-f3dd9d5062875acae191.json",
+					"name" : "appFlickableScrollBar_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFlickableScrollBar_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFlickableScrollBar_copy_qml-Debug-fbcbb8f0928b5e5f1273.json",
+					"name" : "appFlickableScrollBar_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFlickableScrollBar_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFlickableScrollBar_copy_res-Debug-5ab376f9942eb389455e.json",
+					"name" : "appFlickableScrollBar_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFlickableScrollBar_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFlickableScrollBar_qmlimportscan-Debug-7f315bd349377ac6f7cb.json",
+					"name" : "appFlickableScrollBar_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFlickableScrollBar_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFlickableScrollBar_qmllint-Debug-c1b6ea2973f98b4cd686.json",
+					"name" : "appFlickableScrollBar_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFlickableScrollBar_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFlickableScrollBar_qmllint_json-Debug-485ae58ac03b1c3a2326.json",
+					"name" : "appFlickableScrollBar_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFlickableScrollBar_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFlickableScrollBar_qmllint_module-Debug-2155f1f140371fd15663.json",
+					"name" : "appFlickableScrollBar_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFlickableScrollBar_qmlpreview::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFlickableScrollBar_qmlpreview-Debug-df76cdf177c0925062b8.json",
+					"name" : "appFlickableScrollBar_qmlpreview",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFlickableScrollBar_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFlickableScrollBar_qmltyperegistration-Debug-1ca3d71e6a8b4ee374bd.json",
+					"name" : "appFlickableScrollBar_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "clean_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-clean_qml_context_properties-Debug-d9c7218ce05fc6b92dfc.json",
+					"name" : "clean_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dump_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dump_qml_context_properties-Debug-3ee0b644658b3147f499.json",
+					"name" : "dump_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_finalqtconf_appFlickableScrollBar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_finalqtconf_appFlickableScrollBar-Debug-01a2596948126aba4eea.json",
+					"name" : "generate_finalqtconf_appFlickableScrollBar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_qmlls_build_ini_file-Debug-480bba932d553502c9eb.json",
+					"name" : "generate_qmlls_build_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appFlickableScrollBar_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appFlickableScrollBar_aotstats_target-Debug-34e192b5c216361e4276.json",
+					"name" : "module_appFlickableScrollBar_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QML/9-QtQuickControls/FlickableScrollBar/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug",
+		"source" : "D:/QML/9-QtQuickControls/FlickableScrollBar"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

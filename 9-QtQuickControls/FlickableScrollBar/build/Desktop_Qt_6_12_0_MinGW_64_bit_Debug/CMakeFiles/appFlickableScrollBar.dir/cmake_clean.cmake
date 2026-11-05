@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appFlickableScrollBar_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_FlickableScrollBar.cpp"
+  ".rcc/qmlcache/appFlickableScrollBar_Main_qml.cpp"
+  ".rcc/qmlcache/appFlickableScrollBar_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appFlickableScrollBar_qmlcache_loader.cpp"
+  "CMakeFiles/appFlickableScrollBar.dir/appFlickableScrollBar_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appFlickableScrollBar.dir/appFlickableScrollBar_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appFlickableScrollBar.dir/appflickablescrollbar_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appFlickableScrollBar.dir/appflickablescrollbar_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appFlickableScrollBar.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appFlickableScrollBar_raw_qml_0.cpp.obj"
+  "CMakeFiles/appFlickableScrollBar.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appFlickableScrollBar_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appFlickableScrollBar.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_FlickableScrollBar.cpp.obj"
+  "CMakeFiles/appFlickableScrollBar.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_FlickableScrollBar.cpp.obj.d"
+  "CMakeFiles/appFlickableScrollBar.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appFlickableScrollBar_Main_qml.cpp.obj"
+  "CMakeFiles/appFlickableScrollBar.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appFlickableScrollBar_Main_qml.cpp.obj.d"
+  "CMakeFiles/appFlickableScrollBar.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appFlickableScrollBar_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appFlickableScrollBar.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appFlickableScrollBar_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appFlickableScrollBar.dir/main.cpp.obj"
+  "CMakeFiles/appFlickableScrollBar.dir/main.cpp.obj.d"
+  "CMakeFiles/appFlickableScrollBar_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appFlickableScrollBar_autogen.dir/ParseCache.txt"
+  "appFlickableScrollBar_autogen"
+  "FlickableScrollBar/appFlickableScrollBar.qmltypes"
+  "appFlickableScrollBar.exe"
+  "appFlickableScrollBar.exe.manifest"
+  "appFlickableScrollBar.pdb"
+  "appFlickableScrollBar_autogen/mocs_compilation.cpp"
+  "appFlickableScrollBar_autogen/timestamp"
+  "appflickablescrollbar_qmltyperegistrations.cpp"
+  "libappFlickableScrollBar.dll.a"
+  "meta_types/appFlickableScrollBar_json_file_list.txt"
+  "meta_types/appFlickableScrollBar_json_file_list.txt.timestamp"
+  "meta_types/qt6appflickablescrollbar_metatypes.json"
+  "meta_types/qt6appflickablescrollbar_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appFlickableScrollBar.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

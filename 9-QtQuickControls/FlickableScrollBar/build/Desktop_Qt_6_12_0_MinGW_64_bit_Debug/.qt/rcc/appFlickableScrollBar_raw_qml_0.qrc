@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/FlickableScrollBar/">
+    <file alias="Main.qml">D:/QML/9-QtQuickControls/FlickableScrollBar/Main.qml</file>
+  </qresource>
+</RCC>
+
