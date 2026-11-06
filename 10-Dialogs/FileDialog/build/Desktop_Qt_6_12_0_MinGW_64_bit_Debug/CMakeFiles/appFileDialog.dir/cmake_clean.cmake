@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appFileDialog_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_FileDialog.cpp"
+  ".rcc/qmlcache/appFileDialog_Main_qml.cpp"
+  ".rcc/qmlcache/appFileDialog_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appFileDialog_qmlcache_loader.cpp"
+  "CMakeFiles/appFileDialog.dir/appFileDialog_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appFileDialog.dir/appFileDialog_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appFileDialog.dir/appfiledialog_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appFileDialog.dir/appfiledialog_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appFileDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appFileDialog_raw_qml_0.cpp.obj"
+  "CMakeFiles/appFileDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appFileDialog_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appFileDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_FileDialog.cpp.obj"
+  "CMakeFiles/appFileDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_FileDialog.cpp.obj.d"
+  "CMakeFiles/appFileDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appFileDialog_Main_qml.cpp.obj"
+  "CMakeFiles/appFileDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appFileDialog_Main_qml.cpp.obj.d"
+  "CMakeFiles/appFileDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appFileDialog_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appFileDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appFileDialog_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appFileDialog.dir/main.cpp.obj"
+  "CMakeFiles/appFileDialog.dir/main.cpp.obj.d"
+  "CMakeFiles/appFileDialog_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appFileDialog_autogen.dir/ParseCache.txt"
+  "appFileDialog_autogen"
+  "FileDialog/appFileDialog.qmltypes"
+  "appFileDialog.exe"
+  "appFileDialog.exe.manifest"
+  "appFileDialog.pdb"
+  "appFileDialog_autogen/mocs_compilation.cpp"
+  "appFileDialog_autogen/timestamp"
+  "appfiledialog_qmltyperegistrations.cpp"
+  "libappFileDialog.dll.a"
+  "meta_types/appFileDialog_json_file_list.txt"
+  "meta_types/appFileDialog_json_file_list.txt.timestamp"
+  "meta_types/qt6appfiledialog_metatypes.json"
+  "meta_types/qt6appfiledialog_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appFileDialog.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

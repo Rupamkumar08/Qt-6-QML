@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/FileDialog/">
+    <file alias="Main.qml">D:/QML/10-Dialogs/FileDialog/Main.qml</file>
+  </qresource>
+</RCC>
+

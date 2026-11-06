@@ -1,0 +1,6 @@
+module FileDialog
+typeinfo appFileDialog.qmltypes
+prefer :/qt/qml/FileDialog/
+Main 254.0 Main.qml
+depends QtQuick
+

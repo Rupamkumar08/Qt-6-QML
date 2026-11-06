@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/FileDialog">
+    <file alias="qmldir">D:/QML/10-Dialogs/FileDialog/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/FileDialog/qmldir</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,241 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a2edc9a046ce3ad5c201.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FileDialog",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-cdba11cc0f62ac88c0d6.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-8056a79d952e3deb0789.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-6bedeb72e7f908e47f41.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-243bd28bbe6bc14b4f76.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-5b06831f6f38a13214e3.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFileDialog::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFileDialog-Debug-63a89ddcce60126ae901.json",
+					"name" : "appFileDialog",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFileDialog_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFileDialog_autogen-Debug-9b7123bb480c665659f8.json",
+					"name" : "appFileDialog_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFileDialog_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFileDialog_autogen_timestamp_deps-Debug-beb35482187a118e4034.json",
+					"name" : "appFileDialog_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFileDialog_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFileDialog_copy_qml-Debug-60208e316d2897fd1c98.json",
+					"name" : "appFileDialog_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFileDialog_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFileDialog_copy_res-Debug-39c83a5fa8af29630787.json",
+					"name" : "appFileDialog_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFileDialog_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFileDialog_qmlimportscan-Debug-d2995373a66f4fd08471.json",
+					"name" : "appFileDialog_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFileDialog_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFileDialog_qmllint-Debug-fe2b655ea33fd5056ec7.json",
+					"name" : "appFileDialog_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFileDialog_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFileDialog_qmllint_json-Debug-a8db99a8a757e99cc439.json",
+					"name" : "appFileDialog_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFileDialog_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFileDialog_qmllint_module-Debug-82c09aeed87dd9d2908c.json",
+					"name" : "appFileDialog_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFileDialog_qmlpreview::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFileDialog_qmlpreview-Debug-2952af32f427e452bef5.json",
+					"name" : "appFileDialog_qmlpreview",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFileDialog_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFileDialog_qmltyperegistration-Debug-5a6cfc653c5d6249daff.json",
+					"name" : "appFileDialog_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "clean_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-clean_qml_context_properties-Debug-d9c7218ce05fc6b92dfc.json",
+					"name" : "clean_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dump_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dump_qml_context_properties-Debug-3ee0b644658b3147f499.json",
+					"name" : "dump_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_finalqtconf_appFileDialog::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_finalqtconf_appFileDialog-Debug-7a88fe8296764eb9c05b.json",
+					"name" : "generate_finalqtconf_appFileDialog",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_qmlls_build_ini_file-Debug-480bba932d553502c9eb.json",
+					"name" : "generate_qmlls_build_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appFileDialog_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appFileDialog_aotstats_target-Debug-542bb21ca51bf71dc496.json",
+					"name" : "module_appFileDialog_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QML/10-Dialogs/FileDialog/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug",
+		"source" : "D:/QML/10-Dialogs/FileDialog"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
