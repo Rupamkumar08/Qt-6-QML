@@ -1,0 +1,10 @@
+--resource
+D:/QML/9-QtQuickControls/ApplicationWindow/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qmake_ApplicationWindow.qrc
+--resource
+D:/QML/9-QtQuickControls/ApplicationWindow/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/appApplicationWindow_raw_qml_0.qrc
+--resource
+D:/QML/9-QtQuickControls/ApplicationWindow/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/appApplicationWindow_raw_res_0.qrc
+/ApplicationWindow/Main.qml
+/ApplicationWindow/Page1.qml
+/ApplicationWindow/Page2.qml
+/ApplicationWindow/Page3.qml

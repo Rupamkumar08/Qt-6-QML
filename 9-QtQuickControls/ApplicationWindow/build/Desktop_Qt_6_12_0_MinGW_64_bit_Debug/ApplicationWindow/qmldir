@@ -1,0 +1,9 @@
+module ApplicationWindow
+typeinfo appApplicationWindow.qmltypes
+prefer :/ApplicationWindow/
+Main 254.0 Main.qml
+Page1 254.0 Page1.qml
+Page2 254.0 Page2.qml
+Page3 254.0 Page3.qml
+depends QtQuick
+

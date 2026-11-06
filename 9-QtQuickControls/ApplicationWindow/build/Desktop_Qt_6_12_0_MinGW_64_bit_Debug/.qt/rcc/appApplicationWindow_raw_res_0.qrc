@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="/ApplicationWindow/">
+    <file alias="images/copyIcon.png">D:/QML/9-QtQuickControls/ApplicationWindow/images/copyIcon.png</file>
+    <file alias="images/cutIcon.png">D:/QML/9-QtQuickControls/ApplicationWindow/images/cutIcon.png</file>
+    <file alias="images/info.png">D:/QML/9-QtQuickControls/ApplicationWindow/images/info.png</file>
+    <file alias="images/newFileIcon.png">D:/QML/9-QtQuickControls/ApplicationWindow/images/newFileIcon.png</file>
+    <file alias="images/openIcon.png">D:/QML/9-QtQuickControls/ApplicationWindow/images/openIcon.png</file>
+    <file alias="images/pasteIcon.png">D:/QML/9-QtQuickControls/ApplicationWindow/images/pasteIcon.png</file>
+    <file alias="images/quitIcon.png">D:/QML/9-QtQuickControls/ApplicationWindow/images/quitIcon.png</file>
+    <file alias="images/redoIcon.png">D:/QML/9-QtQuickControls/ApplicationWindow/images/redoIcon.png</file>
+    <file alias="images/saveAsIcon.png">D:/QML/9-QtQuickControls/ApplicationWindow/images/saveAsIcon.png</file>
+    <file alias="images/saveIcon.png">D:/QML/9-QtQuickControls/ApplicationWindow/images/saveIcon.png</file>
+    <file alias="images/undoIcon.png">D:/QML/9-QtQuickControls/ApplicationWindow/images/undoIcon.png</file>
+  </qresource>
+</RCC>
+

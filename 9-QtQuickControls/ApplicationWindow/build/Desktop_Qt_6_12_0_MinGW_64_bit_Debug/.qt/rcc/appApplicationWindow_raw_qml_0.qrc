@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/ApplicationWindow/">
+    <file alias="Main.qml">D:/QML/9-QtQuickControls/ApplicationWindow/Main.qml</file>
+    <file alias="Page1.qml">D:/QML/9-QtQuickControls/ApplicationWindow/Page1.qml</file>
+    <file alias="Page2.qml">D:/QML/9-QtQuickControls/ApplicationWindow/Page2.qml</file>
+    <file alias="Page3.qml">D:/QML/9-QtQuickControls/ApplicationWindow/Page3.qml</file>
+  </qresource>
+</RCC>
+
