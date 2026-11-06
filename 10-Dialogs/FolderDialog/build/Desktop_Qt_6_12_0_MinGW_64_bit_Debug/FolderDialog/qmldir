@@ -1,0 +1,6 @@
+module FolderDialog
+typeinfo appFolderDialog.qmltypes
+prefer :/qt/qml/FolderDialog/
+Main 254.0 Main.qml
+depends QtQuick
+

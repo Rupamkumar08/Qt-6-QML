@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appFolderDialog_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_FolderDialog.cpp"
+  ".rcc/qmlcache/appFolderDialog_Main_qml.cpp"
+  ".rcc/qmlcache/appFolderDialog_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appFolderDialog_qmlcache_loader.cpp"
+  "CMakeFiles/appFolderDialog.dir/appFolderDialog_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appFolderDialog.dir/appFolderDialog_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appFolderDialog.dir/appfolderdialog_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appFolderDialog.dir/appfolderdialog_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appFolderDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appFolderDialog_raw_qml_0.cpp.obj"
+  "CMakeFiles/appFolderDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appFolderDialog_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appFolderDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_FolderDialog.cpp.obj"
+  "CMakeFiles/appFolderDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_FolderDialog.cpp.obj.d"
+  "CMakeFiles/appFolderDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appFolderDialog_Main_qml.cpp.obj"
+  "CMakeFiles/appFolderDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appFolderDialog_Main_qml.cpp.obj.d"
+  "CMakeFiles/appFolderDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appFolderDialog_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appFolderDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appFolderDialog_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appFolderDialog.dir/main.cpp.obj"
+  "CMakeFiles/appFolderDialog.dir/main.cpp.obj.d"
+  "CMakeFiles/appFolderDialog_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appFolderDialog_autogen.dir/ParseCache.txt"
+  "appFolderDialog_autogen"
+  "FolderDialog/appFolderDialog.qmltypes"
+  "appFolderDialog.exe"
+  "appFolderDialog.exe.manifest"
+  "appFolderDialog.pdb"
+  "appFolderDialog_autogen/mocs_compilation.cpp"
+  "appFolderDialog_autogen/timestamp"
+  "appfolderdialog_qmltyperegistrations.cpp"
+  "libappFolderDialog.dll.a"
+  "meta_types/appFolderDialog_json_file_list.txt"
+  "meta_types/appFolderDialog_json_file_list.txt.timestamp"
+  "meta_types/qt6appfolderdialog_metatypes.json"
+  "meta_types/qt6appfolderdialog_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appFolderDialog.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
