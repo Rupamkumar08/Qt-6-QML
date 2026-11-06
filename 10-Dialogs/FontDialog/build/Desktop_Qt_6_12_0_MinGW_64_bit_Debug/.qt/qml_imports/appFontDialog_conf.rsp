@@ -1,0 +1,14 @@
+-rootPath
+D:/QML/10-Dialogs/FontDialog
+-cmake-output
+-output-file
+D:/QML/10-Dialogs/FontDialog/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/qml_imports/appFontDialog_conf.cmake
+-importPath
+D:/QML/10-Dialogs/FontDialog/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug
+-importPath
+D:/QML/10-Dialogs/FontDialog/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/FontDialog
+-importPath
+C:/Qt/6.12.0/mingw_64/qml
+-qrcFiles
+D:/QML/10-Dialogs/FontDialog/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qmake_FontDialog.qrc
+D:/QML/10-Dialogs/FontDialog/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/appFontDialog_raw_qml_0.qrc

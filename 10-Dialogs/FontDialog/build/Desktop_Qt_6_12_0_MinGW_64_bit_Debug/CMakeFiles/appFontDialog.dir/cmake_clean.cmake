@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appFontDialog_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_FontDialog.cpp"
+  ".rcc/qmlcache/appFontDialog_Main_qml.cpp"
+  ".rcc/qmlcache/appFontDialog_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appFontDialog_qmlcache_loader.cpp"
+  "CMakeFiles/appFontDialog.dir/appFontDialog_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appFontDialog.dir/appFontDialog_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appFontDialog.dir/appfontdialog_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appFontDialog.dir/appfontdialog_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appFontDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appFontDialog_raw_qml_0.cpp.obj"
+  "CMakeFiles/appFontDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appFontDialog_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appFontDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_FontDialog.cpp.obj"
+  "CMakeFiles/appFontDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_FontDialog.cpp.obj.d"
+  "CMakeFiles/appFontDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appFontDialog_Main_qml.cpp.obj"
+  "CMakeFiles/appFontDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appFontDialog_Main_qml.cpp.obj.d"
+  "CMakeFiles/appFontDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appFontDialog_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appFontDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appFontDialog_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appFontDialog.dir/main.cpp.obj"
+  "CMakeFiles/appFontDialog.dir/main.cpp.obj.d"
+  "CMakeFiles/appFontDialog_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appFontDialog_autogen.dir/ParseCache.txt"
+  "appFontDialog_autogen"
+  "FontDialog/appFontDialog.qmltypes"
+  "appFontDialog.exe"
+  "appFontDialog.exe.manifest"
+  "appFontDialog.pdb"
+  "appFontDialog_autogen/mocs_compilation.cpp"
+  "appFontDialog_autogen/timestamp"
+  "appfontdialog_qmltyperegistrations.cpp"
+  "libappFontDialog.dll.a"
+  "meta_types/appFontDialog_json_file_list.txt"
+  "meta_types/appFontDialog_json_file_list.txt.timestamp"
+  "meta_types/qt6appfontdialog_metatypes.json"
+  "meta_types/qt6appfontdialog_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appFontDialog.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
