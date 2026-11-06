@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appColorDialog_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_ColorDialog.cpp"
+  ".rcc/qmlcache/appColorDialog_Main_qml.cpp"
+  ".rcc/qmlcache/appColorDialog_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appColorDialog_qmlcache_loader.cpp"
+  "CMakeFiles/appColorDialog.dir/appColorDialog_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appColorDialog.dir/appColorDialog_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appColorDialog.dir/appcolordialog_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appColorDialog.dir/appcolordialog_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appColorDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appColorDialog_raw_qml_0.cpp.obj"
+  "CMakeFiles/appColorDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appColorDialog_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appColorDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_ColorDialog.cpp.obj"
+  "CMakeFiles/appColorDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_ColorDialog.cpp.obj.d"
+  "CMakeFiles/appColorDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appColorDialog_Main_qml.cpp.obj"
+  "CMakeFiles/appColorDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appColorDialog_Main_qml.cpp.obj.d"
+  "CMakeFiles/appColorDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appColorDialog_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appColorDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appColorDialog_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appColorDialog.dir/main.cpp.obj"
+  "CMakeFiles/appColorDialog.dir/main.cpp.obj.d"
+  "ColorDialog/appColorDialog.qmltypes"
+  "CMakeFiles/appColorDialog_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appColorDialog_autogen.dir/ParseCache.txt"
+  "appColorDialog_autogen"
+  "appColorDialog.exe"
+  "appColorDialog.exe.manifest"
+  "appColorDialog.pdb"
+  "appColorDialog_autogen/mocs_compilation.cpp"
+  "appColorDialog_autogen/timestamp"
+  "appcolordialog_qmltyperegistrations.cpp"
+  "libappColorDialog.dll.a"
+  "meta_types/appColorDialog_json_file_list.txt"
+  "meta_types/appColorDialog_json_file_list.txt.timestamp"
+  "meta_types/qt6appcolordialog_metatypes.json"
+  "meta_types/qt6appcolordialog_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appColorDialog.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

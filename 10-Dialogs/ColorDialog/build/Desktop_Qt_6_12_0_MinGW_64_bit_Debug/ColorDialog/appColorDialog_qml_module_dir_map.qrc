@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/ColorDialog">D:/QML/10-Dialogs/ColorDialog/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/ColorDialog</file>
+
+  </qresource>
+</RCC>
