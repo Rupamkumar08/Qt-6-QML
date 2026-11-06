@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/Drawer/">
+    <file alias="images/drawer.png">D:/QML/9-QtQuickControls/Drawer/images/drawer.png</file>
+  </qresource>
+</RCC>
+
