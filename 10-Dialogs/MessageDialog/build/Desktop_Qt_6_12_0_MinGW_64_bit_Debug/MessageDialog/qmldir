@@ -1,0 +1,6 @@
+module MessageDialog
+typeinfo appMessageDialog.qmltypes
+prefer :/qt/qml/MessageDialog/
+Main 254.0 Main.qml
+depends QtQuick
+

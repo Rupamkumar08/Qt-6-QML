@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appMessageDialog_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_MessageDialog.cpp"
+  ".rcc/qmlcache/appMessageDialog_Main_qml.cpp"
+  ".rcc/qmlcache/appMessageDialog_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appMessageDialog_qmlcache_loader.cpp"
+  "CMakeFiles/appMessageDialog.dir/appMessageDialog_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appMessageDialog.dir/appMessageDialog_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appMessageDialog.dir/appmessagedialog_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appMessageDialog.dir/appmessagedialog_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appMessageDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appMessageDialog_raw_qml_0.cpp.obj"
+  "CMakeFiles/appMessageDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appMessageDialog_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appMessageDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_MessageDialog.cpp.obj"
+  "CMakeFiles/appMessageDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_MessageDialog.cpp.obj.d"
+  "CMakeFiles/appMessageDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appMessageDialog_Main_qml.cpp.obj"
+  "CMakeFiles/appMessageDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appMessageDialog_Main_qml.cpp.obj.d"
+  "CMakeFiles/appMessageDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appMessageDialog_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appMessageDialog.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appMessageDialog_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appMessageDialog.dir/main.cpp.obj"
+  "CMakeFiles/appMessageDialog.dir/main.cpp.obj.d"
+  "CMakeFiles/appMessageDialog_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appMessageDialog_autogen.dir/ParseCache.txt"
+  "appMessageDialog_autogen"
+  "MessageDialog/appMessageDialog.qmltypes"
+  "appMessageDialog.exe"
+  "appMessageDialog.exe.manifest"
+  "appMessageDialog.pdb"
+  "appMessageDialog_autogen/mocs_compilation.cpp"
+  "appMessageDialog_autogen/timestamp"
+  "appmessagedialog_qmltyperegistrations.cpp"
+  "libappMessageDialog.dll.a"
+  "meta_types/appMessageDialog_json_file_list.txt"
+  "meta_types/appMessageDialog_json_file_list.txt.timestamp"
+  "meta_types/qt6appmessagedialog_metatypes.json"
+  "meta_types/qt6appmessagedialog_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appMessageDialog.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

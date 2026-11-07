@@ -1,0 +1,6 @@
+module CustomDialog
+typeinfo appCustomDialog.qmltypes
+prefer :/CustomDialog/
+Main 254.0 Main.qml
+depends QtQuick
+

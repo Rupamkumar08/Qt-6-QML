@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/MessageDialog">
+    <file alias="qmldir">D:/QML/10-Dialogs/MessageDialog/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/MessageDialog/qmldir</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/CustomDialog/">
+    <file alias="images/LearnQtLogo.png">D:/QML/10-Dialogs/CustomDialog/images/LearnQtLogo.png</file>
+  </qresource>
+</RCC>
+
