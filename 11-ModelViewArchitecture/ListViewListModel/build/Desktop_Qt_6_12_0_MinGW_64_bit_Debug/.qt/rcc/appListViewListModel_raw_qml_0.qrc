@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/ListViewListModel/">
+    <file alias="Main.qml">D:/QML/11-ModelViewArchitecture/ListViewListModel/Main.qml</file>
+  </qresource>
+</RCC>
+
