@@ -1,0 +1,6 @@
+module ListViewListModel
+typeinfo appListViewListModel.qmltypes
+prefer :/qt/qml/ListViewListModel/
+Main 254.0 Main.qml
+depends QtQuick
+

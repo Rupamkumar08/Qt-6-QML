@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\appListViewListModel.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\appListViewListModel.dir/objects.a @CMakeFiles\appListViewListModel.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\appListViewListModel.dir/objects.a -Wl,--no-whole-archive -o appListViewListModel.exe -Wl,--out-implib,libappListViewListModel.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\appListViewListModel.dir\linkLibs.rsp

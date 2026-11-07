@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appListViewListModel_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_ListViewListModel.cpp"
+  ".rcc/qmlcache/appListViewListModel_Main_qml.cpp"
+  ".rcc/qmlcache/appListViewListModel_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appListViewListModel_qmlcache_loader.cpp"
+  "CMakeFiles/appListViewListModel.dir/appListViewListModel_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appListViewListModel.dir/appListViewListModel_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appListViewListModel.dir/applistviewlistmodel_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appListViewListModel.dir/applistviewlistmodel_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appListViewListModel.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appListViewListModel_raw_qml_0.cpp.obj"
+  "CMakeFiles/appListViewListModel.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appListViewListModel_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appListViewListModel.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_ListViewListModel.cpp.obj"
+  "CMakeFiles/appListViewListModel.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_ListViewListModel.cpp.obj.d"
+  "CMakeFiles/appListViewListModel.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appListViewListModel_Main_qml.cpp.obj"
+  "CMakeFiles/appListViewListModel.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appListViewListModel_Main_qml.cpp.obj.d"
+  "CMakeFiles/appListViewListModel.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appListViewListModel_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appListViewListModel.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appListViewListModel_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appListViewListModel.dir/main.cpp.obj"
+  "CMakeFiles/appListViewListModel.dir/main.cpp.obj.d"
+  "CMakeFiles/appListViewListModel_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appListViewListModel_autogen.dir/ParseCache.txt"
+  "appListViewListModel_autogen"
+  "ListViewListModel/appListViewListModel.qmltypes"
+  "appListViewListModel.exe"
+  "appListViewListModel.exe.manifest"
+  "appListViewListModel.pdb"
+  "appListViewListModel_autogen/mocs_compilation.cpp"
+  "appListViewListModel_autogen/timestamp"
+  "applistviewlistmodel_qmltyperegistrations.cpp"
+  "libappListViewListModel.dll.a"
+  "meta_types/appListViewListModel_json_file_list.txt"
+  "meta_types/appListViewListModel_json_file_list.txt.timestamp"
+  "meta_types/qt6applistviewlistmodel_metatypes.json"
+  "meta_types/qt6applistviewlistmodel_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appListViewListModel.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
