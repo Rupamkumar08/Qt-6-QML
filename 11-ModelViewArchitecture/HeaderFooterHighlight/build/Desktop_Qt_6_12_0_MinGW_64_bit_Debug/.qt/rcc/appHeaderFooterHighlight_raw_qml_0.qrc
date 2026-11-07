@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/HeaderFooterHighlight/">
+    <file alias="Main.qml">D:/QML/11-ModelViewArchitecture/HeaderFooterHighlight/Main.qml</file>
+  </qresource>
+</RCC>
+

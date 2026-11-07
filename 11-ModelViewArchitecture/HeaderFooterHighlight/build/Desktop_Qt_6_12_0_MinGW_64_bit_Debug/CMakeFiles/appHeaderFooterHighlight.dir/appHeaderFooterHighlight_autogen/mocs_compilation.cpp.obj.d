@@ -1,0 +1,2 @@
+CMakeFiles/appHeaderFooterHighlight.dir/appHeaderFooterHighlight_autogen/mocs_compilation.cpp.obj: \
+ D:\QML\11-ModelViewArchitecture\HeaderFooterHighlight\build\Desktop_Qt_6_12_0_MinGW_64_bit_Debug\appHeaderFooterHighlight_autogen\mocs_compilation.cpp

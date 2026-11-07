@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appHeaderFooterHighlight_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_HeaderFooterHighlight.cpp"
+  ".rcc/qmlcache/appHeaderFooterHighlight_Main_qml.cpp"
+  ".rcc/qmlcache/appHeaderFooterHighlight_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appHeaderFooterHighlight_qmlcache_loader.cpp"
+  "CMakeFiles/appHeaderFooterHighlight.dir/appHeaderFooterHighlight_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appHeaderFooterHighlight.dir/appHeaderFooterHighlight_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appHeaderFooterHighlight.dir/appheaderfooterhighlight_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appHeaderFooterHighlight.dir/appheaderfooterhighlight_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appHeaderFooterHighlight.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appHeaderFooterHighlight_raw_qml_0.cpp.obj"
+  "CMakeFiles/appHeaderFooterHighlight.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appHeaderFooterHighlight_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appHeaderFooterHighlight.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_HeaderFooterHighlight.cpp.obj"
+  "CMakeFiles/appHeaderFooterHighlight.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_HeaderFooterHighlight.cpp.obj.d"
+  "CMakeFiles/appHeaderFooterHighlight.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appHeaderFooterHighlight_Main_qml.cpp.obj"
+  "CMakeFiles/appHeaderFooterHighlight.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appHeaderFooterHighlight_Main_qml.cpp.obj.d"
+  "CMakeFiles/appHeaderFooterHighlight.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appHeaderFooterHighlight_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appHeaderFooterHighlight.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appHeaderFooterHighlight_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appHeaderFooterHighlight.dir/main.cpp.obj"
+  "CMakeFiles/appHeaderFooterHighlight.dir/main.cpp.obj.d"
+  "CMakeFiles/appHeaderFooterHighlight_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appHeaderFooterHighlight_autogen.dir/ParseCache.txt"
+  "appHeaderFooterHighlight_autogen"
+  "HeaderFooterHighlight/appHeaderFooterHighlight.qmltypes"
+  "appHeaderFooterHighlight.exe"
+  "appHeaderFooterHighlight.exe.manifest"
+  "appHeaderFooterHighlight.pdb"
+  "appHeaderFooterHighlight_autogen/mocs_compilation.cpp"
+  "appHeaderFooterHighlight_autogen/timestamp"
+  "appheaderfooterhighlight_qmltyperegistrations.cpp"
+  "libappHeaderFooterHighlight.dll.a"
+  "meta_types/appHeaderFooterHighlight_json_file_list.txt"
+  "meta_types/appHeaderFooterHighlight_json_file_list.txt.timestamp"
+  "meta_types/qt6appheaderfooterhighlight_metatypes.json"
+  "meta_types/qt6appheaderfooterhighlight_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appHeaderFooterHighlight.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

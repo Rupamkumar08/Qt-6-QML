@@ -1,0 +1,6 @@
+module HeaderFooterHighlight
+typeinfo appHeaderFooterHighlight.qmltypes
+prefer :/qt/qml/HeaderFooterHighlight/
+Main 254.0 Main.qml
+depends QtQuick
+
