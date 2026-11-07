@@ -1,0 +1,6 @@
+module DecorationSection
+typeinfo appDecorationSection.qmltypes
+prefer :/qt/qml/DecorationSection/
+Main 254.0 Main.qml
+depends QtQuick
+

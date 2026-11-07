@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appDecorationSection_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_DecorationSection.cpp"
+  ".rcc/qmlcache/appDecorationSection_Main_qml.cpp"
+  ".rcc/qmlcache/appDecorationSection_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appDecorationSection_qmlcache_loader.cpp"
+  "CMakeFiles/appDecorationSection.dir/appDecorationSection_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appDecorationSection.dir/appDecorationSection_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appDecorationSection.dir/appdecorationsection_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appDecorationSection.dir/appdecorationsection_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appDecorationSection.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appDecorationSection_raw_qml_0.cpp.obj"
+  "CMakeFiles/appDecorationSection.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appDecorationSection_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appDecorationSection.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_DecorationSection.cpp.obj"
+  "CMakeFiles/appDecorationSection.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_DecorationSection.cpp.obj.d"
+  "CMakeFiles/appDecorationSection.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appDecorationSection_Main_qml.cpp.obj"
+  "CMakeFiles/appDecorationSection.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appDecorationSection_Main_qml.cpp.obj.d"
+  "CMakeFiles/appDecorationSection.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appDecorationSection_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appDecorationSection.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appDecorationSection_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appDecorationSection.dir/main.cpp.obj"
+  "CMakeFiles/appDecorationSection.dir/main.cpp.obj.d"
+  "CMakeFiles/appDecorationSection_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appDecorationSection_autogen.dir/ParseCache.txt"
+  "appDecorationSection_autogen"
+  "DecorationSection/appDecorationSection.qmltypes"
+  "appDecorationSection.exe"
+  "appDecorationSection.exe.manifest"
+  "appDecorationSection.pdb"
+  "appDecorationSection_autogen/mocs_compilation.cpp"
+  "appDecorationSection_autogen/timestamp"
+  "appdecorationsection_qmltyperegistrations.cpp"
+  "libappDecorationSection.dll.a"
+  "meta_types/appDecorationSection_json_file_list.txt"
+  "meta_types/appDecorationSection_json_file_list.txt.timestamp"
+  "meta_types/qt6appdecorationsection_metatypes.json"
+  "meta_types/qt6appdecorationsection_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appDecorationSection.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
