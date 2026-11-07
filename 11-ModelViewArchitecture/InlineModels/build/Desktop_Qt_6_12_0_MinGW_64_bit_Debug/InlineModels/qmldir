@@ -1,0 +1,6 @@
+module InlineModels
+typeinfo appInlineModels.qmltypes
+prefer :/qt/qml/InlineModels/
+Main 254.0 Main.qml
+depends QtQuick
+

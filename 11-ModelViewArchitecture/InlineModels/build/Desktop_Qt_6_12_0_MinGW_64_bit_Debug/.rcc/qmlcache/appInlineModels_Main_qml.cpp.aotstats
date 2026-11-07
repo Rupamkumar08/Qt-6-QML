@@ -1,0 +1,79 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 0,
+                            "functionName": "model",
+                            "line": 13,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 12,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 29,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 40,
+                            "message": "Cannot access value for name modelData"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 48,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 38,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 46,
+                            "message": "Cannot access value for name modelData"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 46,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 44,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 45,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "D:/QML/11-ModelViewArchitecture/InlineModels/Main.qml"
+                }
+            ],
+            "moduleId": "InlineModels(appInlineModels)"
+        }
+    ]
+}

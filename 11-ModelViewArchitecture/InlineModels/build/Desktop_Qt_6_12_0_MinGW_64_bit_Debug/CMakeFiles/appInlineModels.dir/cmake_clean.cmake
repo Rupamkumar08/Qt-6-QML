@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appInlineModels_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_InlineModels.cpp"
+  ".rcc/qmlcache/appInlineModels_Main_qml.cpp"
+  ".rcc/qmlcache/appInlineModels_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appInlineModels_qmlcache_loader.cpp"
+  "CMakeFiles/appInlineModels.dir/appInlineModels_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appInlineModels.dir/appInlineModels_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appInlineModels.dir/appinlinemodels_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appInlineModels.dir/appinlinemodels_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appInlineModels.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appInlineModels_raw_qml_0.cpp.obj"
+  "CMakeFiles/appInlineModels.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appInlineModels_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appInlineModels.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_InlineModels.cpp.obj"
+  "CMakeFiles/appInlineModels.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_InlineModels.cpp.obj.d"
+  "CMakeFiles/appInlineModels.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appInlineModels_Main_qml.cpp.obj"
+  "CMakeFiles/appInlineModels.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appInlineModels_Main_qml.cpp.obj.d"
+  "CMakeFiles/appInlineModels.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appInlineModels_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appInlineModels.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appInlineModels_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appInlineModels.dir/main.cpp.obj"
+  "CMakeFiles/appInlineModels.dir/main.cpp.obj.d"
+  "CMakeFiles/appInlineModels_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appInlineModels_autogen.dir/ParseCache.txt"
+  "appInlineModels_autogen"
+  "InlineModels/appInlineModels.qmltypes"
+  "appInlineModels.exe"
+  "appInlineModels.exe.manifest"
+  "appInlineModels.pdb"
+  "appInlineModels_autogen/mocs_compilation.cpp"
+  "appInlineModels_autogen/timestamp"
+  "appinlinemodels_qmltyperegistrations.cpp"
+  "libappInlineModels.dll.a"
+  "meta_types/appInlineModels_json_file_list.txt"
+  "meta_types/appInlineModels_json_file_list.txt.timestamp"
+  "meta_types/qt6appinlinemodels_metatypes.json"
+  "meta_types/qt6appinlinemodels_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appInlineModels.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

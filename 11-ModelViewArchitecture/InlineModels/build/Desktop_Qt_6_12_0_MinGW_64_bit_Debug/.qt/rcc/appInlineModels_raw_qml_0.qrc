@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/InlineModels/">
+    <file alias="Main.qml">D:/QML/11-ModelViewArchitecture/InlineModels/Main.qml</file>
+  </qresource>
+</RCC>
+
