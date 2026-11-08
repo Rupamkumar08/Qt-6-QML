@@ -1,0 +1,6 @@
+module Repeater
+typeinfo appRepeater.qmltypes
+prefer :/qt/qml/Repeater/
+Main 254.0 Main.qml
+depends QtQuick
+

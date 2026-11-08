@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appRepeater_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_Repeater.cpp"
+  ".rcc/qmlcache/appRepeater_Main_qml.cpp"
+  ".rcc/qmlcache/appRepeater_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appRepeater_qmlcache_loader.cpp"
+  "CMakeFiles/appRepeater.dir/appRepeater_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appRepeater.dir/appRepeater_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appRepeater.dir/apprepeater_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appRepeater.dir/apprepeater_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appRepeater.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appRepeater_raw_qml_0.cpp.obj"
+  "CMakeFiles/appRepeater.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appRepeater_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appRepeater.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_Repeater.cpp.obj"
+  "CMakeFiles/appRepeater.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_Repeater.cpp.obj.d"
+  "CMakeFiles/appRepeater.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appRepeater_Main_qml.cpp.obj"
+  "CMakeFiles/appRepeater.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appRepeater_Main_qml.cpp.obj.d"
+  "CMakeFiles/appRepeater.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appRepeater_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appRepeater.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appRepeater_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appRepeater.dir/main.cpp.obj"
+  "CMakeFiles/appRepeater.dir/main.cpp.obj.d"
+  "CMakeFiles/appRepeater_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appRepeater_autogen.dir/ParseCache.txt"
+  "appRepeater_autogen"
+  "Repeater/appRepeater.qmltypes"
+  "appRepeater.exe"
+  "appRepeater.exe.manifest"
+  "appRepeater.pdb"
+  "appRepeater_autogen/mocs_compilation.cpp"
+  "appRepeater_autogen/timestamp"
+  "apprepeater_qmltyperegistrations.cpp"
+  "libappRepeater.dll.a"
+  "meta_types/appRepeater_json_file_list.txt"
+  "meta_types/appRepeater_json_file_list.txt.timestamp"
+  "meta_types/qt6apprepeater_metatypes.json"
+  "meta_types/qt6apprepeater_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appRepeater.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Repeater/">
+    <file alias="Main.qml">D:/QML/11-ModelViewArchitecture/Repeater/Main.qml</file>
+  </qresource>
+</RCC>
+
