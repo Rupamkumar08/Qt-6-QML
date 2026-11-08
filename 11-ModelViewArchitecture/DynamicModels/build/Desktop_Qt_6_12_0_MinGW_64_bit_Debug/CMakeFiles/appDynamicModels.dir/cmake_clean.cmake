@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appDynamicModels_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_DynamicModels.cpp"
+  ".rcc/qmlcache/appDynamicModels_Main_qml.cpp"
+  ".rcc/qmlcache/appDynamicModels_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appDynamicModels_qmlcache_loader.cpp"
+  "CMakeFiles/appDynamicModels.dir/appDynamicModels_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appDynamicModels.dir/appDynamicModels_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appDynamicModels.dir/appdynamicmodels_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appDynamicModels.dir/appdynamicmodels_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appDynamicModels.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appDynamicModels_raw_qml_0.cpp.obj"
+  "CMakeFiles/appDynamicModels.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appDynamicModels_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appDynamicModels.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_DynamicModels.cpp.obj"
+  "CMakeFiles/appDynamicModels.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_DynamicModels.cpp.obj.d"
+  "CMakeFiles/appDynamicModels.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appDynamicModels_Main_qml.cpp.obj"
+  "CMakeFiles/appDynamicModels.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appDynamicModels_Main_qml.cpp.obj.d"
+  "CMakeFiles/appDynamicModels.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appDynamicModels_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appDynamicModels.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appDynamicModels_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appDynamicModels.dir/main.cpp.obj"
+  "CMakeFiles/appDynamicModels.dir/main.cpp.obj.d"
+  "CMakeFiles/appDynamicModels_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appDynamicModels_autogen.dir/ParseCache.txt"
+  "appDynamicModels_autogen"
+  "DynamicModels/appDynamicModels.qmltypes"
+  "appDynamicModels.exe"
+  "appDynamicModels.exe.manifest"
+  "appDynamicModels.pdb"
+  "appDynamicModels_autogen/mocs_compilation.cpp"
+  "appDynamicModels_autogen/timestamp"
+  "appdynamicmodels_qmltyperegistrations.cpp"
+  "libappDynamicModels.dll.a"
+  "meta_types/appDynamicModels_json_file_list.txt"
+  "meta_types/appDynamicModels_json_file_list.txt.timestamp"
+  "meta_types/qt6appdynamicmodels_metatypes.json"
+  "meta_types/qt6appdynamicmodels_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appDynamicModels.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

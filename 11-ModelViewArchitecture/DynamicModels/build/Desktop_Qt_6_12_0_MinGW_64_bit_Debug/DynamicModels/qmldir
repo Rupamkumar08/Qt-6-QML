@@ -1,0 +1,6 @@
+module DynamicModels
+typeinfo appDynamicModels.qmltypes
+prefer :/qt/qml/DynamicModels/
+Main 254.0 Main.qml
+depends QtQuick
+
