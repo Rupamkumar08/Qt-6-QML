@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appGridView_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_GridView.cpp"
+  ".rcc/qmlcache/appGridView_Main_qml.cpp"
+  ".rcc/qmlcache/appGridView_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appGridView_qmlcache_loader.cpp"
+  "CMakeFiles/appGridView.dir/appGridView_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appGridView.dir/appGridView_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appGridView.dir/appgridview_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appGridView.dir/appgridview_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appGridView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appGridView_raw_qml_0.cpp.obj"
+  "CMakeFiles/appGridView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appGridView_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appGridView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_GridView.cpp.obj"
+  "CMakeFiles/appGridView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_GridView.cpp.obj.d"
+  "CMakeFiles/appGridView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appGridView_Main_qml.cpp.obj"
+  "CMakeFiles/appGridView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appGridView_Main_qml.cpp.obj.d"
+  "CMakeFiles/appGridView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appGridView_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appGridView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appGridView_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appGridView.dir/main.cpp.obj"
+  "CMakeFiles/appGridView.dir/main.cpp.obj.d"
+  "CMakeFiles/appGridView_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appGridView_autogen.dir/ParseCache.txt"
+  "appGridView_autogen"
+  "GridView/appGridView.qmltypes"
+  "appGridView.exe"
+  "appGridView.exe.manifest"
+  "appGridView.pdb"
+  "appGridView_autogen/mocs_compilation.cpp"
+  "appGridView_autogen/timestamp"
+  "appgridview_qmltyperegistrations.cpp"
+  "libappGridView.dll.a"
+  "meta_types/appGridView_json_file_list.txt"
+  "meta_types/appGridView_json_file_list.txt.timestamp"
+  "meta_types/qt6appgridview_metatypes.json"
+  "meta_types/qt6appgridview_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appGridView.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

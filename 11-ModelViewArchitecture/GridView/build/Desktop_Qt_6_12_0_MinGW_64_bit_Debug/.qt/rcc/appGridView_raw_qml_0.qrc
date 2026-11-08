@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/GridView/">
+    <file alias="Main.qml">D:/QML/11-ModelViewArchitecture/GridView/Main.qml</file>
+  </qresource>
+</RCC>
+

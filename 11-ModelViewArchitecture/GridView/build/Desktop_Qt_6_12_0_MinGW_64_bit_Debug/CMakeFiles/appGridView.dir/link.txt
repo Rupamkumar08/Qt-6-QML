@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\appGridView.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\appGridView.dir/objects.a @CMakeFiles\appGridView.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\appGridView.dir/objects.a -Wl,--no-whole-archive -o appGridView.exe -Wl,--out-implib,libappGridView.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\appGridView.dir\linkLibs.rsp

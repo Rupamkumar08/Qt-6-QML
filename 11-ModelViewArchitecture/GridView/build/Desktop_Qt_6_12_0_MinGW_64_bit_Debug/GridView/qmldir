@@ -1,0 +1,6 @@
+module GridView
+typeinfo appGridView.qmltypes
+prefer :/qt/qml/GridView/
+Main 254.0 Main.qml
+depends QtQuick
+
