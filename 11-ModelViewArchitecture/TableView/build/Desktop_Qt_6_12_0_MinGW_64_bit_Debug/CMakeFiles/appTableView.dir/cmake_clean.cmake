@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appTableView_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_TableView.cpp"
+  ".rcc/qmlcache/appTableView_Main_qml.cpp"
+  ".rcc/qmlcache/appTableView_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appTableView_qmlcache_loader.cpp"
+  "CMakeFiles/appTableView.dir/appTableView_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appTableView.dir/appTableView_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appTableView.dir/apptableview_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appTableView.dir/apptableview_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appTableView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appTableView_raw_qml_0.cpp.obj"
+  "CMakeFiles/appTableView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appTableView_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appTableView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_TableView.cpp.obj"
+  "CMakeFiles/appTableView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_TableView.cpp.obj.d"
+  "CMakeFiles/appTableView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appTableView_Main_qml.cpp.obj"
+  "CMakeFiles/appTableView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appTableView_Main_qml.cpp.obj.d"
+  "CMakeFiles/appTableView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appTableView_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appTableView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appTableView_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appTableView.dir/main.cpp.obj"
+  "CMakeFiles/appTableView.dir/main.cpp.obj.d"
+  "CMakeFiles/appTableView_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appTableView_autogen.dir/ParseCache.txt"
+  "appTableView_autogen"
+  "TableView/appTableView.qmltypes"
+  "appTableView.exe"
+  "appTableView.exe.manifest"
+  "appTableView.pdb"
+  "appTableView_autogen/mocs_compilation.cpp"
+  "appTableView_autogen/timestamp"
+  "apptableview_qmltyperegistrations.cpp"
+  "libappTableView.dll.a"
+  "meta_types/appTableView_json_file_list.txt"
+  "meta_types/appTableView_json_file_list.txt.timestamp"
+  "meta_types/qt6apptableview_metatypes.json"
+  "meta_types/qt6apptableview_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appTableView.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

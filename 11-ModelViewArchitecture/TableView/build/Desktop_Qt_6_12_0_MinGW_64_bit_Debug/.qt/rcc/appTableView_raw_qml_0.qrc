@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/TableView/">
+    <file alias="Main.qml">D:/QML/11-ModelViewArchitecture/TableView/Main.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,6 @@
+module TableView
+typeinfo appTableView.qmltypes
+prefer :/qt/qml/TableView/
+Main 254.0 Main.qml
+depends QtQuick
+
