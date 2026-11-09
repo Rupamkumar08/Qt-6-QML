@@ -1,0 +1,6 @@
+module PathView
+typeinfo appPathView.qmltypes
+prefer :/qt/qml/PathView/
+Main 254.0 Main.qml
+depends QtQuick
+

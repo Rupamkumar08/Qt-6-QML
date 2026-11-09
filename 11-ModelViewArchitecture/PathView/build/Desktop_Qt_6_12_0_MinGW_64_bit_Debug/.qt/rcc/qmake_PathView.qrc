@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/PathView">
+    <file alias="qmldir">D:/QML/11-ModelViewArchitecture/PathView/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/PathView/qmldir</file>
+  </qresource>
+</RCC>
+

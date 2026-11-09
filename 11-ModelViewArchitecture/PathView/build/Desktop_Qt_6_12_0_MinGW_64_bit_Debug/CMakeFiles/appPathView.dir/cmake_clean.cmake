@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appPathView_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_PathView.cpp"
+  ".rcc/qmlcache/appPathView_Main_qml.cpp"
+  ".rcc/qmlcache/appPathView_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appPathView_qmlcache_loader.cpp"
+  "CMakeFiles/appPathView.dir/appPathView_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appPathView.dir/appPathView_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appPathView.dir/apppathview_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appPathView.dir/apppathview_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appPathView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appPathView_raw_qml_0.cpp.obj"
+  "CMakeFiles/appPathView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appPathView_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appPathView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_PathView.cpp.obj"
+  "CMakeFiles/appPathView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_PathView.cpp.obj.d"
+  "CMakeFiles/appPathView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appPathView_Main_qml.cpp.obj"
+  "CMakeFiles/appPathView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appPathView_Main_qml.cpp.obj.d"
+  "CMakeFiles/appPathView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appPathView_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appPathView.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appPathView_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appPathView.dir/main.cpp.obj"
+  "CMakeFiles/appPathView.dir/main.cpp.obj.d"
+  "CMakeFiles/appPathView_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appPathView_autogen.dir/ParseCache.txt"
+  "appPathView_autogen"
+  "PathView/appPathView.qmltypes"
+  "appPathView.exe"
+  "appPathView.exe.manifest"
+  "appPathView.pdb"
+  "appPathView_autogen/mocs_compilation.cpp"
+  "appPathView_autogen/timestamp"
+  "apppathview_qmltyperegistrations.cpp"
+  "libappPathView.dll.a"
+  "meta_types/appPathView_json_file_list.txt"
+  "meta_types/appPathView_json_file_list.txt.timestamp"
+  "meta_types/qt6apppathview_metatypes.json"
+  "meta_types/qt6apppathview_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appPathView.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
