@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appAnimationsIntro_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_AnimationsIntro.cpp"
+  ".rcc/qmlcache/appAnimationsIntro_Main_qml.cpp"
+  ".rcc/qmlcache/appAnimationsIntro_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appAnimationsIntro_qmlcache_loader.cpp"
+  "AnimationsIntro/appAnimationsIntro.qmltypes"
+  "CMakeFiles/appAnimationsIntro.dir/appAnimationsIntro_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appAnimationsIntro.dir/appAnimationsIntro_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appAnimationsIntro.dir/appanimationsintro_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appAnimationsIntro.dir/appanimationsintro_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appAnimationsIntro.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appAnimationsIntro_raw_qml_0.cpp.obj"
+  "CMakeFiles/appAnimationsIntro.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appAnimationsIntro_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appAnimationsIntro.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_AnimationsIntro.cpp.obj"
+  "CMakeFiles/appAnimationsIntro.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_AnimationsIntro.cpp.obj.d"
+  "CMakeFiles/appAnimationsIntro.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appAnimationsIntro_Main_qml.cpp.obj"
+  "CMakeFiles/appAnimationsIntro.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appAnimationsIntro_Main_qml.cpp.obj.d"
+  "CMakeFiles/appAnimationsIntro.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appAnimationsIntro_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appAnimationsIntro.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appAnimationsIntro_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appAnimationsIntro.dir/main.cpp.obj"
+  "CMakeFiles/appAnimationsIntro.dir/main.cpp.obj.d"
+  "CMakeFiles/appAnimationsIntro_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appAnimationsIntro_autogen.dir/ParseCache.txt"
+  "appAnimationsIntro_autogen"
+  "appAnimationsIntro.exe"
+  "appAnimationsIntro.exe.manifest"
+  "appAnimationsIntro.pdb"
+  "appAnimationsIntro_autogen/mocs_compilation.cpp"
+  "appAnimationsIntro_autogen/timestamp"
+  "appanimationsintro_qmltyperegistrations.cpp"
+  "libappAnimationsIntro.dll.a"
+  "meta_types/appAnimationsIntro_json_file_list.txt"
+  "meta_types/appAnimationsIntro_json_file_list.txt.timestamp"
+  "meta_types/qt6appanimationsintro_metatypes.json"
+  "meta_types/qt6appanimationsintro_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appAnimationsIntro.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

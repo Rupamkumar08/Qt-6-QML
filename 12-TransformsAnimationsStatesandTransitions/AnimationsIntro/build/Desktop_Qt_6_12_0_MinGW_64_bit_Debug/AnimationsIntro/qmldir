@@ -1,0 +1,6 @@
+module AnimationsIntro
+typeinfo appAnimationsIntro.qmltypes
+prefer :/qt/qml/AnimationsIntro/
+Main 254.0 Main.qml
+depends QtQuick
+

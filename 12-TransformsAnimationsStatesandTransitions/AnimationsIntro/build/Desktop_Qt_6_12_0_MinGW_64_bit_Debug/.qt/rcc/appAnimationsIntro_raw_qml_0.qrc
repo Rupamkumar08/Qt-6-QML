@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/AnimationsIntro/">
+    <file alias="Main.qml">D:/QML/12-TransformsAnimationsStatesandTransitions/AnimationsIntro/Main.qml</file>
+  </qresource>
+</RCC>
+

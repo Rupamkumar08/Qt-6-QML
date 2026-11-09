@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\appAnimationsIntro.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\appAnimationsIntro.dir/objects.a @CMakeFiles\appAnimationsIntro.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\appAnimationsIntro.dir/objects.a -Wl,--no-whole-archive -o appAnimationsIntro.exe -Wl,--out-implib,libappAnimationsIntro.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\appAnimationsIntro.dir\linkLibs.rsp
