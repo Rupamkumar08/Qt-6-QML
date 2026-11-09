@@ -1,0 +1,7 @@
+module Transforms
+typeinfo appTransforms.qmltypes
+prefer :/qt/qml/Transforms/
+Main 254.0 Main.qml
+ClickableRect 254.0 ClickableRect.qml
+depends QtQuick
+

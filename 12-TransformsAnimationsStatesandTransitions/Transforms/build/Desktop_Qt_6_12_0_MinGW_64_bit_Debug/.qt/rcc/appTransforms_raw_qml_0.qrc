@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/Transforms/">
+    <file alias="Main.qml">D:/QML/12-TransformsAnimationsStatesandTransitions/Transforms/Main.qml</file>
+    <file alias="ClickableRect.qml">D:/QML/12-TransformsAnimationsStatesandTransitions/Transforms/ClickableRect.qml</file>
+  </qresource>
+</RCC>
+
