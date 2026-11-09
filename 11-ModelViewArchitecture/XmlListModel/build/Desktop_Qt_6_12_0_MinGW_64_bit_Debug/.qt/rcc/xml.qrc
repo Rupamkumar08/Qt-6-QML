@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="xml/employees.xml">D:/QML/11-ModelViewArchitecture/XmlListModel/xml/employees.xml</file>
+  </qresource>
+</RCC>
+

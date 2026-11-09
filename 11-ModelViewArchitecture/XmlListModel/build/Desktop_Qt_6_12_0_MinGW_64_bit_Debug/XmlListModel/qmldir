@@ -1,0 +1,6 @@
+module XmlListModel
+typeinfo appXmlListModel.qmltypes
+prefer :/qt/qml/XmlListModel/
+Main 254.0 Main.qml
+depends QtQuick
+
