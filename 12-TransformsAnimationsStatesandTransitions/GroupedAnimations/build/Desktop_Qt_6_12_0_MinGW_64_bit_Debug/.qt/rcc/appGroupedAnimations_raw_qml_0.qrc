@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/GroupedAnimations/">
+    <file alias="Main.qml">D:/QML/12-TransformsAnimationsStatesandTransitions/GroupedAnimations/Main.qml</file>
+  </qresource>
+</RCC>
+

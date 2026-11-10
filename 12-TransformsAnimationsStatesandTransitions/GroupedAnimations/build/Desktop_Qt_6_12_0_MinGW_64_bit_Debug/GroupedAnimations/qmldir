@@ -1,0 +1,6 @@
+module GroupedAnimations
+typeinfo appGroupedAnimations.qmltypes
+prefer :/qt/qml/GroupedAnimations/
+Main 254.0 Main.qml
+depends QtQuick
+

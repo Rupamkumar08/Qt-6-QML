@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appGroupedAnimations_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_GroupedAnimations.cpp"
+  ".rcc/qmlcache/appGroupedAnimations_Main_qml.cpp"
+  ".rcc/qmlcache/appGroupedAnimations_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appGroupedAnimations_qmlcache_loader.cpp"
+  "CMakeFiles/appGroupedAnimations.dir/appGroupedAnimations_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appGroupedAnimations.dir/appGroupedAnimations_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appGroupedAnimations.dir/appgroupedanimations_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appGroupedAnimations.dir/appgroupedanimations_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appGroupedAnimations.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appGroupedAnimations_raw_qml_0.cpp.obj"
+  "CMakeFiles/appGroupedAnimations.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appGroupedAnimations_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appGroupedAnimations.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_GroupedAnimations.cpp.obj"
+  "CMakeFiles/appGroupedAnimations.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_GroupedAnimations.cpp.obj.d"
+  "CMakeFiles/appGroupedAnimations.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appGroupedAnimations_Main_qml.cpp.obj"
+  "CMakeFiles/appGroupedAnimations.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appGroupedAnimations_Main_qml.cpp.obj.d"
+  "CMakeFiles/appGroupedAnimations.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appGroupedAnimations_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appGroupedAnimations.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appGroupedAnimations_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appGroupedAnimations.dir/main.cpp.obj"
+  "CMakeFiles/appGroupedAnimations.dir/main.cpp.obj.d"
+  "CMakeFiles/appGroupedAnimations_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appGroupedAnimations_autogen.dir/ParseCache.txt"
+  "appGroupedAnimations_autogen"
+  "GroupedAnimations/appGroupedAnimations.qmltypes"
+  "appGroupedAnimations.exe"
+  "appGroupedAnimations.exe.manifest"
+  "appGroupedAnimations.pdb"
+  "appGroupedAnimations_autogen/mocs_compilation.cpp"
+  "appGroupedAnimations_autogen/timestamp"
+  "appgroupedanimations_qmltyperegistrations.cpp"
+  "libappGroupedAnimations.dll.a"
+  "meta_types/appGroupedAnimations_json_file_list.txt"
+  "meta_types/appGroupedAnimations_json_file_list.txt.timestamp"
+  "meta_types/qt6appgroupedanimations_metatypes.json"
+  "meta_types/qt6appgroupedanimations_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appGroupedAnimations.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
