@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appPathAnimation_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_PathAnimation.cpp"
+  ".rcc/qmlcache/appPathAnimation_Main_qml.cpp"
+  ".rcc/qmlcache/appPathAnimation_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appPathAnimation_qmlcache_loader.cpp"
+  "CMakeFiles/appPathAnimation.dir/appPathAnimation_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appPathAnimation.dir/appPathAnimation_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appPathAnimation.dir/apppathanimation_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appPathAnimation.dir/apppathanimation_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appPathAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appPathAnimation_raw_qml_0.cpp.obj"
+  "CMakeFiles/appPathAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appPathAnimation_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appPathAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_PathAnimation.cpp.obj"
+  "CMakeFiles/appPathAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_PathAnimation.cpp.obj.d"
+  "CMakeFiles/appPathAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appPathAnimation_Main_qml.cpp.obj"
+  "CMakeFiles/appPathAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appPathAnimation_Main_qml.cpp.obj.d"
+  "CMakeFiles/appPathAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appPathAnimation_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appPathAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appPathAnimation_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appPathAnimation.dir/main.cpp.obj"
+  "CMakeFiles/appPathAnimation.dir/main.cpp.obj.d"
+  "CMakeFiles/appPathAnimation_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appPathAnimation_autogen.dir/ParseCache.txt"
+  "appPathAnimation_autogen"
+  "PathAnimation/appPathAnimation.qmltypes"
+  "appPathAnimation.exe"
+  "appPathAnimation.exe.manifest"
+  "appPathAnimation.pdb"
+  "appPathAnimation_autogen/mocs_compilation.cpp"
+  "appPathAnimation_autogen/timestamp"
+  "apppathanimation_qmltyperegistrations.cpp"
+  "libappPathAnimation.dll.a"
+  "meta_types/appPathAnimation_json_file_list.txt"
+  "meta_types/appPathAnimation_json_file_list.txt.timestamp"
+  "meta_types/qt6apppathanimation_metatypes.json"
+  "meta_types/qt6apppathanimation_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appPathAnimation.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,6 @@
+module PathAnimation
+typeinfo appPathAnimation.qmltypes
+prefer :/qt/qml/PathAnimation/
+Main 254.0 Main.qml
+depends QtQuick
+
