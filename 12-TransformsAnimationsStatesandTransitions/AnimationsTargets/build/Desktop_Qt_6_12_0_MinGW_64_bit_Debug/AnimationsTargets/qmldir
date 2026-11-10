@@ -1,0 +1,6 @@
+module AnimationsTargets
+typeinfo appAnimationsTargets.qmltypes
+prefer :/qt/qml/AnimationsTargets/
+Main 254.0 Main.qml
+depends QtQuick
+

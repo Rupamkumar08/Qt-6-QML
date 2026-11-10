@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/AnimationsTargets/">
+    <file alias="Main.qml">D:/QML/12-TransformsAnimationsStatesandTransitions/AnimationsTargets/Main.qml</file>
+  </qresource>
+</RCC>
+

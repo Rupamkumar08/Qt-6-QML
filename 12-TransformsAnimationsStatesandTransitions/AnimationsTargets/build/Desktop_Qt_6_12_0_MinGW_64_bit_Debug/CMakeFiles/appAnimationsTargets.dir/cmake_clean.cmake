@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appAnimationsTargets_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_AnimationsTargets.cpp"
+  ".rcc/qmlcache/appAnimationsTargets_Main_qml.cpp"
+  ".rcc/qmlcache/appAnimationsTargets_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appAnimationsTargets_qmlcache_loader.cpp"
+  "AnimationsTargets/appAnimationsTargets.qmltypes"
+  "CMakeFiles/appAnimationsTargets.dir/appAnimationsTargets_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appAnimationsTargets.dir/appAnimationsTargets_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appAnimationsTargets.dir/appanimationstargets_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appAnimationsTargets.dir/appanimationstargets_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appAnimationsTargets.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appAnimationsTargets_raw_qml_0.cpp.obj"
+  "CMakeFiles/appAnimationsTargets.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appAnimationsTargets_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appAnimationsTargets.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_AnimationsTargets.cpp.obj"
+  "CMakeFiles/appAnimationsTargets.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_AnimationsTargets.cpp.obj.d"
+  "CMakeFiles/appAnimationsTargets.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appAnimationsTargets_Main_qml.cpp.obj"
+  "CMakeFiles/appAnimationsTargets.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appAnimationsTargets_Main_qml.cpp.obj.d"
+  "CMakeFiles/appAnimationsTargets.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appAnimationsTargets_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appAnimationsTargets.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appAnimationsTargets_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appAnimationsTargets.dir/main.cpp.obj"
+  "CMakeFiles/appAnimationsTargets.dir/main.cpp.obj.d"
+  "CMakeFiles/appAnimationsTargets_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appAnimationsTargets_autogen.dir/ParseCache.txt"
+  "appAnimationsTargets_autogen"
+  "appAnimationsTargets.exe"
+  "appAnimationsTargets.exe.manifest"
+  "appAnimationsTargets.pdb"
+  "appAnimationsTargets_autogen/mocs_compilation.cpp"
+  "appAnimationsTargets_autogen/timestamp"
+  "appanimationstargets_qmltyperegistrations.cpp"
+  "libappAnimationsTargets.dll.a"
+  "meta_types/appAnimationsTargets_json_file_list.txt"
+  "meta_types/appAnimationsTargets_json_file_list.txt.timestamp"
+  "meta_types/qt6appanimationstargets_metatypes.json"
+  "meta_types/qt6appanimationstargets_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appAnimationsTargets.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

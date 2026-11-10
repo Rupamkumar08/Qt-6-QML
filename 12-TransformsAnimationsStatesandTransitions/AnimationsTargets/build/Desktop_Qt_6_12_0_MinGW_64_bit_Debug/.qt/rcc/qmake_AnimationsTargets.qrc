@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/AnimationsTargets">
+    <file alias="qmldir">D:/QML/12-TransformsAnimationsStatesandTransitions/AnimationsTargets/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/AnimationsTargets/qmldir</file>
+  </qresource>
+</RCC>
+
