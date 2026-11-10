@@ -1,0 +1,7 @@
+module EasingCurves
+typeinfo appEasingCurves.qmltypes
+prefer :/qt/qml/EasingCurves/
+Main 254.0 Main.qml
+MovingRectangle 254.0 MovingRectangle.qml
+depends QtQuick
+

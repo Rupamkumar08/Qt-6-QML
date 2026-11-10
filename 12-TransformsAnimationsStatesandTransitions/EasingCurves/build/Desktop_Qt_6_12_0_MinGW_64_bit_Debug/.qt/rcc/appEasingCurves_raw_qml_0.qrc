@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/EasingCurves/">
+    <file alias="Main.qml">D:/QML/12-TransformsAnimationsStatesandTransitions/EasingCurves/Main.qml</file>
+    <file alias="MovingRectangle.qml">D:/QML/12-TransformsAnimationsStatesandTransitions/EasingCurves/MovingRectangle.qml</file>
+  </qresource>
+</RCC>
+
