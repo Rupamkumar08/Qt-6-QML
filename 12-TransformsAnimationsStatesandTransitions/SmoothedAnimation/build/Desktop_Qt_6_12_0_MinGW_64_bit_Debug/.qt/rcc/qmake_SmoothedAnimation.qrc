@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/SmoothedAnimation">
+    <file alias="qmldir">D:/QML/12-TransformsAnimationsStatesandTransitions/SmoothedAnimation/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/SmoothedAnimation/qmldir</file>
+  </qresource>
+</RCC>
+

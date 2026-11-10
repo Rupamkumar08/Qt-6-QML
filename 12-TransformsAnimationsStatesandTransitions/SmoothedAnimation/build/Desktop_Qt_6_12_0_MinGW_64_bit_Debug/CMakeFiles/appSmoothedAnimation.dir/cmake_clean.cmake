@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appSmoothedAnimation_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_SmoothedAnimation.cpp"
+  ".rcc/qmlcache/appSmoothedAnimation_Main_qml.cpp"
+  ".rcc/qmlcache/appSmoothedAnimation_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appSmoothedAnimation_qmlcache_loader.cpp"
+  "CMakeFiles/appSmoothedAnimation.dir/appSmoothedAnimation_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appSmoothedAnimation.dir/appSmoothedAnimation_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appSmoothedAnimation.dir/appsmoothedanimation_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appSmoothedAnimation.dir/appsmoothedanimation_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appSmoothedAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appSmoothedAnimation_raw_qml_0.cpp.obj"
+  "CMakeFiles/appSmoothedAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appSmoothedAnimation_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appSmoothedAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_SmoothedAnimation.cpp.obj"
+  "CMakeFiles/appSmoothedAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_SmoothedAnimation.cpp.obj.d"
+  "CMakeFiles/appSmoothedAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appSmoothedAnimation_Main_qml.cpp.obj"
+  "CMakeFiles/appSmoothedAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appSmoothedAnimation_Main_qml.cpp.obj.d"
+  "CMakeFiles/appSmoothedAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appSmoothedAnimation_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appSmoothedAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appSmoothedAnimation_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appSmoothedAnimation.dir/main.cpp.obj"
+  "CMakeFiles/appSmoothedAnimation.dir/main.cpp.obj.d"
+  "CMakeFiles/appSmoothedAnimation_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appSmoothedAnimation_autogen.dir/ParseCache.txt"
+  "appSmoothedAnimation_autogen"
+  "SmoothedAnimation/appSmoothedAnimation.qmltypes"
+  "appSmoothedAnimation.exe"
+  "appSmoothedAnimation.exe.manifest"
+  "appSmoothedAnimation.pdb"
+  "appSmoothedAnimation_autogen/mocs_compilation.cpp"
+  "appSmoothedAnimation_autogen/timestamp"
+  "appsmoothedanimation_qmltyperegistrations.cpp"
+  "libappSmoothedAnimation.dll.a"
+  "meta_types/appSmoothedAnimation_json_file_list.txt"
+  "meta_types/appSmoothedAnimation_json_file_list.txt.timestamp"
+  "meta_types/qt6appsmoothedanimation_metatypes.json"
+  "meta_types/qt6appsmoothedanimation_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appSmoothedAnimation.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

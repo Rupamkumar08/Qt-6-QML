@@ -1,0 +1,241 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-402b2b8b6526753a2868.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SmoothedAnimation",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-ef1c4195e61a74aa57b9.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-e08644c313f1a7a03dcd.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-eb1d5de2008433851adc.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-c79378be7a3d10743dcb.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-7d10ad0387402389bf98.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSmoothedAnimation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSmoothedAnimation-Debug-2be9bf45e7447f7c3c89.json",
+					"name" : "appSmoothedAnimation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSmoothedAnimation_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSmoothedAnimation_autogen-Debug-2b48a6efccb216f23188.json",
+					"name" : "appSmoothedAnimation_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSmoothedAnimation_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSmoothedAnimation_autogen_timestamp_deps-Debug-f38ac65b3985269f9fdd.json",
+					"name" : "appSmoothedAnimation_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSmoothedAnimation_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSmoothedAnimation_copy_qml-Debug-e22eb0201fd576118ef7.json",
+					"name" : "appSmoothedAnimation_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSmoothedAnimation_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSmoothedAnimation_copy_res-Debug-7ae8b07a74c33f5d7942.json",
+					"name" : "appSmoothedAnimation_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSmoothedAnimation_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSmoothedAnimation_qmlimportscan-Debug-fafcae2cde995f9b97be.json",
+					"name" : "appSmoothedAnimation_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSmoothedAnimation_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSmoothedAnimation_qmllint-Debug-ce72ff9fc5ee9df9bd10.json",
+					"name" : "appSmoothedAnimation_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSmoothedAnimation_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSmoothedAnimation_qmllint_json-Debug-bc4626c486135bfb5f51.json",
+					"name" : "appSmoothedAnimation_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSmoothedAnimation_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSmoothedAnimation_qmllint_module-Debug-316cdc5211bd8e3b4b47.json",
+					"name" : "appSmoothedAnimation_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSmoothedAnimation_qmlpreview::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSmoothedAnimation_qmlpreview-Debug-92e810e0c4c7d837bb2d.json",
+					"name" : "appSmoothedAnimation_qmlpreview",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSmoothedAnimation_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSmoothedAnimation_qmltyperegistration-Debug-b53eda5ce04723e0e612.json",
+					"name" : "appSmoothedAnimation_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "clean_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-clean_qml_context_properties-Debug-d9c7218ce05fc6b92dfc.json",
+					"name" : "clean_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dump_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dump_qml_context_properties-Debug-3ee0b644658b3147f499.json",
+					"name" : "dump_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_finalqtconf_appSmoothedAnimation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_finalqtconf_appSmoothedAnimation-Debug-c46fd86fec39027e07a0.json",
+					"name" : "generate_finalqtconf_appSmoothedAnimation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_qmlls_build_ini_file-Debug-480bba932d553502c9eb.json",
+					"name" : "generate_qmlls_build_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appSmoothedAnimation_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appSmoothedAnimation_aotstats_target-Debug-f7c39123c62d3eb4c373.json",
+					"name" : "module_appSmoothedAnimation_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QML/12-TransformsAnimationsStatesandTransitions/SmoothedAnimation/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug",
+		"source" : "D:/QML/12-TransformsAnimationsStatesandTransitions/SmoothedAnimation"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

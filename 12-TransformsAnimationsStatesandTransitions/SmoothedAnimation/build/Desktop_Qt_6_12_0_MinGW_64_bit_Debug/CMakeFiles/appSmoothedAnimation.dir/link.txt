@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\appSmoothedAnimation.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\appSmoothedAnimation.dir/objects.a @CMakeFiles\appSmoothedAnimation.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\appSmoothedAnimation.dir/objects.a -Wl,--no-whole-archive -o appSmoothedAnimation.exe -Wl,--out-implib,libappSmoothedAnimation.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\appSmoothedAnimation.dir\linkLibs.rsp

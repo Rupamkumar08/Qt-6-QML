@@ -1,0 +1,6 @@
+module SmoothedAnimation
+typeinfo appSmoothedAnimation.qmltypes
+prefer :/qt/qml/SmoothedAnimation/
+Main 254.0 Main.qml
+depends QtQuick
+
