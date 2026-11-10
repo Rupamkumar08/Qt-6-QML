@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/ColorAnimation/">
+    <file alias="Main.qml">D:/QML/12-TransformsAnimationsStatesandTransitions/ColorAnimation/Main.qml</file>
+  </qresource>
+</RCC>
+

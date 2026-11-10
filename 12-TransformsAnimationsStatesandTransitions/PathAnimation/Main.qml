@@ -27,7 +27,7 @@ Window {
             {
                 id: pathAnimationId
                 target: containedRectId
-                duration: 10000
+                duration: 1000
                 anchorPoint: Qt.point(50,50)
                 path: Path {
                 //Bottom : Starting Point

@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appColorAnimation_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_ColorAnimation.cpp"
+  ".rcc/qmlcache/appColorAnimation_Main_qml.cpp"
+  ".rcc/qmlcache/appColorAnimation_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appColorAnimation_qmlcache_loader.cpp"
+  "CMakeFiles/appColorAnimation.dir/appColorAnimation_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appColorAnimation.dir/appColorAnimation_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appColorAnimation.dir/appcoloranimation_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appColorAnimation.dir/appcoloranimation_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appColorAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appColorAnimation_raw_qml_0.cpp.obj"
+  "CMakeFiles/appColorAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appColorAnimation_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appColorAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_ColorAnimation.cpp.obj"
+  "CMakeFiles/appColorAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_ColorAnimation.cpp.obj.d"
+  "CMakeFiles/appColorAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appColorAnimation_Main_qml.cpp.obj"
+  "CMakeFiles/appColorAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appColorAnimation_Main_qml.cpp.obj.d"
+  "CMakeFiles/appColorAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appColorAnimation_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appColorAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appColorAnimation_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appColorAnimation.dir/main.cpp.obj"
+  "CMakeFiles/appColorAnimation.dir/main.cpp.obj.d"
+  "ColorAnimation/appColorAnimation.qmltypes"
+  "CMakeFiles/appColorAnimation_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appColorAnimation_autogen.dir/ParseCache.txt"
+  "appColorAnimation_autogen"
+  "appColorAnimation.exe"
+  "appColorAnimation.exe.manifest"
+  "appColorAnimation.pdb"
+  "appColorAnimation_autogen/mocs_compilation.cpp"
+  "appColorAnimation_autogen/timestamp"
+  "appcoloranimation_qmltyperegistrations.cpp"
+  "libappColorAnimation.dll.a"
+  "meta_types/appColorAnimation_json_file_list.txt"
+  "meta_types/appColorAnimation_json_file_list.txt.timestamp"
+  "meta_types/qt6appcoloranimation_metatypes.json"
+  "meta_types/qt6appcoloranimation_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appColorAnimation.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,6 @@
+module ColorAnimation
+typeinfo appColorAnimation.qmltypes
+prefer :/qt/qml/ColorAnimation/
+Main 254.0 Main.qml
+depends QtQuick
+

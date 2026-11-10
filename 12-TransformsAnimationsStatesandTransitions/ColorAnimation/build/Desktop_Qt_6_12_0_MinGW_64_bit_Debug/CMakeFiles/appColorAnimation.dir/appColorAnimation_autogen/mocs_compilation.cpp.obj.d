@@ -1,0 +1,2 @@
+CMakeFiles/appColorAnimation.dir/appColorAnimation_autogen/mocs_compilation.cpp.obj: \
+ D:\QML\12-TransformsAnimationsStatesandTransitions\ColorAnimation\build\Desktop_Qt_6_12_0_MinGW_64_bit_Debug\appColorAnimation_autogen\mocs_compilation.cpp
