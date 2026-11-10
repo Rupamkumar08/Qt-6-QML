@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/SpringAnimation/">
+    <file alias="Main.qml">D:/QML/12-TransformsAnimationsStatesandTransitions/SpringAnimation/Main.qml</file>
+  </qresource>
+</RCC>
+

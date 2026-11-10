@@ -1,0 +1,6 @@
+module SpringAnimation
+typeinfo appSpringAnimation.qmltypes
+prefer :/qt/qml/SpringAnimation/
+Main 254.0 Main.qml
+depends QtQuick
+

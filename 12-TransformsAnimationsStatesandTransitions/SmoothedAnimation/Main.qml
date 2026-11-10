@@ -58,8 +58,8 @@ Window
             x: rect1.x - 5; y: rect1.y - 5
             color: "green"
 
-            Behavior on x { SmoothedAnimation { velocity: 500 } }
-            Behavior on y { SmoothedAnimation { velocity: 500 } }
+            Behavior on x { SmoothedAnimation { velocity: 200 } }
+            Behavior on y { SmoothedAnimation { velocity: 200 } }
         }
 
         Rectangle

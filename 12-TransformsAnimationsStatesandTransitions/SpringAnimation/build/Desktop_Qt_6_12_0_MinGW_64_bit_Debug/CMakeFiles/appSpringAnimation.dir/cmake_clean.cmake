@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appSpringAnimation_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_SpringAnimation.cpp"
+  ".rcc/qmlcache/appSpringAnimation_Main_qml.cpp"
+  ".rcc/qmlcache/appSpringAnimation_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appSpringAnimation_qmlcache_loader.cpp"
+  "CMakeFiles/appSpringAnimation.dir/appSpringAnimation_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appSpringAnimation.dir/appSpringAnimation_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appSpringAnimation.dir/appspringanimation_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appSpringAnimation.dir/appspringanimation_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appSpringAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appSpringAnimation_raw_qml_0.cpp.obj"
+  "CMakeFiles/appSpringAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appSpringAnimation_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appSpringAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_SpringAnimation.cpp.obj"
+  "CMakeFiles/appSpringAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_SpringAnimation.cpp.obj.d"
+  "CMakeFiles/appSpringAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appSpringAnimation_Main_qml.cpp.obj"
+  "CMakeFiles/appSpringAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appSpringAnimation_Main_qml.cpp.obj.d"
+  "CMakeFiles/appSpringAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appSpringAnimation_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appSpringAnimation.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appSpringAnimation_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appSpringAnimation.dir/main.cpp.obj"
+  "CMakeFiles/appSpringAnimation.dir/main.cpp.obj.d"
+  "CMakeFiles/appSpringAnimation_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appSpringAnimation_autogen.dir/ParseCache.txt"
+  "appSpringAnimation_autogen"
+  "SpringAnimation/appSpringAnimation.qmltypes"
+  "appSpringAnimation.exe"
+  "appSpringAnimation.exe.manifest"
+  "appSpringAnimation.pdb"
+  "appSpringAnimation_autogen/mocs_compilation.cpp"
+  "appSpringAnimation_autogen/timestamp"
+  "appspringanimation_qmltyperegistrations.cpp"
+  "libappSpringAnimation.dll.a"
+  "meta_types/appSpringAnimation_json_file_list.txt"
+  "meta_types/appSpringAnimation_json_file_list.txt.timestamp"
+  "meta_types/qt6appspringanimation_metatypes.json"
+  "meta_types/qt6appspringanimation_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appSpringAnimation.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
