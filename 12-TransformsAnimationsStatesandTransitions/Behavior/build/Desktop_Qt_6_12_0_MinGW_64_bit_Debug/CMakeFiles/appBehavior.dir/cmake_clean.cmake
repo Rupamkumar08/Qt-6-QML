@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appBehavior_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_Behavior.cpp"
+  ".rcc/qmlcache/appBehavior_Main_qml.cpp"
+  ".rcc/qmlcache/appBehavior_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appBehavior_qmlcache_loader.cpp"
+  "Behavior/appBehavior.qmltypes"
+  "CMakeFiles/appBehavior.dir/appBehavior_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appBehavior.dir/appBehavior_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appBehavior.dir/appbehavior_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appBehavior.dir/appbehavior_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appBehavior.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appBehavior_raw_qml_0.cpp.obj"
+  "CMakeFiles/appBehavior.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appBehavior_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appBehavior.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_Behavior.cpp.obj"
+  "CMakeFiles/appBehavior.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_Behavior.cpp.obj.d"
+  "CMakeFiles/appBehavior.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appBehavior_Main_qml.cpp.obj"
+  "CMakeFiles/appBehavior.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appBehavior_Main_qml.cpp.obj.d"
+  "CMakeFiles/appBehavior.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appBehavior_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appBehavior.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appBehavior_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appBehavior.dir/main.cpp.obj"
+  "CMakeFiles/appBehavior.dir/main.cpp.obj.d"
+  "CMakeFiles/appBehavior_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appBehavior_autogen.dir/ParseCache.txt"
+  "appBehavior_autogen"
+  "appBehavior.exe"
+  "appBehavior.exe.manifest"
+  "appBehavior.pdb"
+  "appBehavior_autogen/mocs_compilation.cpp"
+  "appBehavior_autogen/timestamp"
+  "appbehavior_qmltyperegistrations.cpp"
+  "libappBehavior.dll.a"
+  "meta_types/appBehavior_json_file_list.txt"
+  "meta_types/appBehavior_json_file_list.txt.timestamp"
+  "meta_types/qt6appbehavior_metatypes.json"
+  "meta_types/qt6appbehavior_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appBehavior.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

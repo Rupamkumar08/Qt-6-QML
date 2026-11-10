@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Behavior/">
+    <file alias="Main.qml">D:/QML/12-TransformsAnimationsStatesandTransitions/Behavior/Main.qml</file>
+  </qresource>
+</RCC>
+

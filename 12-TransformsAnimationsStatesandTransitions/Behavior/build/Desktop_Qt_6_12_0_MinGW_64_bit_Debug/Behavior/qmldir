@@ -1,0 +1,6 @@
+module Behavior
+typeinfo appBehavior.qmltypes
+prefer :/qt/qml/Behavior/
+Main 254.0 Main.qml
+depends QtQuick
+
