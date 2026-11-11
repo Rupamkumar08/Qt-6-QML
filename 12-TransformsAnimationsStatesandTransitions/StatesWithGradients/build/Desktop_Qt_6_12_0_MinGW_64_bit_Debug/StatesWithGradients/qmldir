@@ -1,0 +1,6 @@
+module StatesWithGradients
+typeinfo appStatesWithGradients.qmltypes
+prefer :/qt/qml/StatesWithGradients/
+Main 254.0 Main.qml
+depends QtQuick
+

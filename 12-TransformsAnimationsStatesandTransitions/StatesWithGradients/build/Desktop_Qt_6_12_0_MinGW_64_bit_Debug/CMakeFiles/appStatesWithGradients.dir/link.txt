@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\appStatesWithGradients.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\appStatesWithGradients.dir/objects.a @CMakeFiles\appStatesWithGradients.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\appStatesWithGradients.dir/objects.a -Wl,--no-whole-archive -o appStatesWithGradients.exe -Wl,--out-implib,libappStatesWithGradients.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\appStatesWithGradients.dir\linkLibs.rsp
