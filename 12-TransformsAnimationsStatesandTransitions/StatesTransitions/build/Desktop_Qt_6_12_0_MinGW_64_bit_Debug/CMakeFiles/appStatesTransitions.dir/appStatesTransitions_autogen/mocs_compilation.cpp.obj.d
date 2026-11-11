@@ -1,0 +1,2 @@
+CMakeFiles/appStatesTransitions.dir/appStatesTransitions_autogen/mocs_compilation.cpp.obj: \
+ D:\QML\12-TransformsAnimationsStatesandTransitions\StatesTransitions\build\Desktop_Qt_6_12_0_MinGW_64_bit_Debug\appStatesTransitions_autogen\mocs_compilation.cpp

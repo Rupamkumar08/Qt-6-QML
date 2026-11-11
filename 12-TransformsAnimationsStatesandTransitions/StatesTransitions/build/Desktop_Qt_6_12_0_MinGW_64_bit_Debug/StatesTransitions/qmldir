@@ -1,0 +1,6 @@
+module StatesTransitions
+typeinfo appStatesTransitions.qmltypes
+prefer :/qt/qml/StatesTransitions/
+Main 254.0 Main.qml
+depends QtQuick
+
