@@ -1,0 +1,2 @@
+CMakeFiles/appAutomaticSettings.dir/appAutomaticSettings_autogen/mocs_compilation.cpp.obj: \
+ D:\QML\13-Storage\AutomaticSettings\build\Desktop_Qt_6_12_0_MinGW_64_bit_Debug\appAutomaticSettings_autogen\mocs_compilation.cpp

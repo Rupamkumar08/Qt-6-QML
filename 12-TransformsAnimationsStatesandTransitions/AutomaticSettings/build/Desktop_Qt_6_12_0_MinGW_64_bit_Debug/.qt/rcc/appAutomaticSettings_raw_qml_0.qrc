@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/AutomaticSettings/">
-    <file alias="Main.qml">D:/QML/12-TransformsAnimationsStatesandTransitions/AutomaticSettings/Main.qml</file>
-  </qresource>
-</RCC>
-

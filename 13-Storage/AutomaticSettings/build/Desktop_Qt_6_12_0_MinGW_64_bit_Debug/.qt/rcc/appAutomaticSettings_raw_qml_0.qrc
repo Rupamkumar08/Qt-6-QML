@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/AutomaticSettings/">
+    <file alias="Main.qml">D:/QML/13-Storage/AutomaticSettings/Main.qml</file>
+  </qresource>
+</RCC>
+
