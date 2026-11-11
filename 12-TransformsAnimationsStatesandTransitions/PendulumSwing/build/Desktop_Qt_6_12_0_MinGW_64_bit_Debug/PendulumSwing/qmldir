@@ -1,0 +1,6 @@
+module PendulumSwing
+typeinfo appPendulumSwing.qmltypes
+prefer :/qt/qml/PendulumSwing/
+Main 254.0 Main.qml
+depends QtQuick
+

@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appPendulumSwing_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_PendulumSwing.cpp"
+  ".rcc/qmlcache/appPendulumSwing_Main_qml.cpp"
+  ".rcc/qmlcache/appPendulumSwing_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appPendulumSwing_qmlcache_loader.cpp"
+  "CMakeFiles/appPendulumSwing.dir/appPendulumSwing_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appPendulumSwing.dir/appPendulumSwing_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appPendulumSwing.dir/apppendulumswing_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appPendulumSwing.dir/apppendulumswing_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appPendulumSwing.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appPendulumSwing_raw_qml_0.cpp.obj"
+  "CMakeFiles/appPendulumSwing.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appPendulumSwing_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appPendulumSwing.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_PendulumSwing.cpp.obj"
+  "CMakeFiles/appPendulumSwing.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_PendulumSwing.cpp.obj.d"
+  "CMakeFiles/appPendulumSwing.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appPendulumSwing_Main_qml.cpp.obj"
+  "CMakeFiles/appPendulumSwing.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appPendulumSwing_Main_qml.cpp.obj.d"
+  "CMakeFiles/appPendulumSwing.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appPendulumSwing_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appPendulumSwing.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appPendulumSwing_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appPendulumSwing.dir/main.cpp.obj"
+  "CMakeFiles/appPendulumSwing.dir/main.cpp.obj.d"
+  "CMakeFiles/appPendulumSwing_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appPendulumSwing_autogen.dir/ParseCache.txt"
+  "appPendulumSwing_autogen"
+  "PendulumSwing/appPendulumSwing.qmltypes"
+  "appPendulumSwing.exe"
+  "appPendulumSwing.exe.manifest"
+  "appPendulumSwing.pdb"
+  "appPendulumSwing_autogen/mocs_compilation.cpp"
+  "appPendulumSwing_autogen/timestamp"
+  "apppendulumswing_qmltyperegistrations.cpp"
+  "libappPendulumSwing.dll.a"
+  "meta_types/appPendulumSwing_json_file_list.txt"
+  "meta_types/appPendulumSwing_json_file_list.txt.timestamp"
+  "meta_types/qt6apppendulumswing_metatypes.json"
+  "meta_types/qt6apppendulumswing_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appPendulumSwing.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

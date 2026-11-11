@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/PendulumSwing">
+    <file alias="qmldir">D:/QML/12-TransformsAnimationsStatesandTransitions/PendulumSwing/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/PendulumSwing/qmldir</file>
+  </qresource>
+</RCC>
+

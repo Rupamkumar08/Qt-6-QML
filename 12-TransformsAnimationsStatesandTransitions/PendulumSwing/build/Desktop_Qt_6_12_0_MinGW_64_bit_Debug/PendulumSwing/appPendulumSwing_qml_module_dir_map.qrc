@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/PendulumSwing">D:/QML/12-TransformsAnimationsStatesandTransitions/PendulumSwing/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/PendulumSwing</file>
+
+  </qresource>
+</RCC>
