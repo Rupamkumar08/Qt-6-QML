@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appAutomaticSettings_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_AutomaticSettings.cpp"
+  ".rcc/qmlcache/appAutomaticSettings_Main_qml.cpp"
+  ".rcc/qmlcache/appAutomaticSettings_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appAutomaticSettings_qmlcache_loader.cpp"
+  "AutomaticSettings/appAutomaticSettings.qmltypes"
+  "CMakeFiles/appAutomaticSettings.dir/appAutomaticSettings_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appAutomaticSettings.dir/appAutomaticSettings_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appAutomaticSettings.dir/appautomaticsettings_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appAutomaticSettings.dir/appautomaticsettings_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appAutomaticSettings.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appAutomaticSettings_raw_qml_0.cpp.obj"
+  "CMakeFiles/appAutomaticSettings.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appAutomaticSettings_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appAutomaticSettings.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_AutomaticSettings.cpp.obj"
+  "CMakeFiles/appAutomaticSettings.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_AutomaticSettings.cpp.obj.d"
+  "CMakeFiles/appAutomaticSettings.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appAutomaticSettings_Main_qml.cpp.obj"
+  "CMakeFiles/appAutomaticSettings.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appAutomaticSettings_Main_qml.cpp.obj.d"
+  "CMakeFiles/appAutomaticSettings.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appAutomaticSettings_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appAutomaticSettings.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appAutomaticSettings_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appAutomaticSettings.dir/main.cpp.obj"
+  "CMakeFiles/appAutomaticSettings.dir/main.cpp.obj.d"
+  "CMakeFiles/appAutomaticSettings_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appAutomaticSettings_autogen.dir/ParseCache.txt"
+  "appAutomaticSettings_autogen"
+  "appAutomaticSettings.exe"
+  "appAutomaticSettings.exe.manifest"
+  "appAutomaticSettings.pdb"
+  "appAutomaticSettings_autogen/mocs_compilation.cpp"
+  "appAutomaticSettings_autogen/timestamp"
+  "appautomaticsettings_qmltyperegistrations.cpp"
+  "libappAutomaticSettings.dll.a"
+  "meta_types/appAutomaticSettings_json_file_list.txt"
+  "meta_types/appAutomaticSettings_json_file_list.txt.timestamp"
+  "meta_types/qt6appautomaticsettings_metatypes.json"
+  "meta_types/qt6appautomaticsettings_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appAutomaticSettings.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

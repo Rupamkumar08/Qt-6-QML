@@ -1,0 +1,6 @@
+module AutomaticSettings
+typeinfo appAutomaticSettings.qmltypes
+prefer :/qt/qml/AutomaticSettings/
+Main 254.0 Main.qml
+depends QtQuick
+

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/AutomaticSettings">D:/QML/12-TransformsAnimationsStatesandTransitions/AutomaticSettings/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/AutomaticSettings</file>
+
+  </qresource>
+</RCC>
