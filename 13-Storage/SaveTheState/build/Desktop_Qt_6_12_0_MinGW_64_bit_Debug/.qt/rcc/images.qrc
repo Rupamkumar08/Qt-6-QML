@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="images/treespringsmall.png">D:/QML/13-Storage/SaveTheState/images/treespringsmall.png</file>
+    <file alias="images/treesummersmall.png">D:/QML/13-Storage/SaveTheState/images/treesummersmall.png</file>
+  </qresource>
+</RCC>
+

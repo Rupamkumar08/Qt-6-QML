@@ -1,0 +1,2 @@
+CMakeFiles/appCustomSettings.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_CustomSettings.cpp.obj: \
+ D:\QML\13-Storage\CustomSettings\build\Desktop_Qt_6_12_0_MinGW_64_bit_Debug\.qt\rcc\qrc_qmake_CustomSettings.cpp

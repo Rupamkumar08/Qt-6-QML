@@ -1,0 +1,6 @@
+module SaveTheState
+typeinfo appSaveTheState.qmltypes
+prefer :/qt/qml/SaveTheState/
+Main 254.0 Main.qml
+depends QtQuick
+

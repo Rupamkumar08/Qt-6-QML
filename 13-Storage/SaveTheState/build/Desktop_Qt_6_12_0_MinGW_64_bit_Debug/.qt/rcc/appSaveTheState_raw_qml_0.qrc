@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/SaveTheState/">
+    <file alias="Main.qml">D:/QML/13-Storage/SaveTheState/Main.qml</file>
+  </qresource>
+</RCC>
+
