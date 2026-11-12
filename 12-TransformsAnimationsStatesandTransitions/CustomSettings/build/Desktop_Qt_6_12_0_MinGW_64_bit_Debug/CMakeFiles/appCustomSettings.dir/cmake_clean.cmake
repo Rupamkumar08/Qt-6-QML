@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appCustomSettings_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_CustomSettings.cpp"
+  ".rcc/qmlcache/appCustomSettings_Main_qml.cpp"
+  ".rcc/qmlcache/appCustomSettings_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appCustomSettings_qmlcache_loader.cpp"
+  "CMakeFiles/appCustomSettings.dir/appCustomSettings_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appCustomSettings.dir/appCustomSettings_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appCustomSettings.dir/appcustomsettings_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appCustomSettings.dir/appcustomsettings_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appCustomSettings.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appCustomSettings_raw_qml_0.cpp.obj"
+  "CMakeFiles/appCustomSettings.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appCustomSettings_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appCustomSettings.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_CustomSettings.cpp.obj"
+  "CMakeFiles/appCustomSettings.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_CustomSettings.cpp.obj.d"
+  "CMakeFiles/appCustomSettings.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appCustomSettings_Main_qml.cpp.obj"
+  "CMakeFiles/appCustomSettings.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appCustomSettings_Main_qml.cpp.obj.d"
+  "CMakeFiles/appCustomSettings.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appCustomSettings_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appCustomSettings.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appCustomSettings_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appCustomSettings.dir/main.cpp.obj"
+  "CMakeFiles/appCustomSettings.dir/main.cpp.obj.d"
+  "CustomSettings/appCustomSettings.qmltypes"
+  "CMakeFiles/appCustomSettings_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appCustomSettings_autogen.dir/ParseCache.txt"
+  "appCustomSettings_autogen"
+  "appCustomSettings.exe"
+  "appCustomSettings.exe.manifest"
+  "appCustomSettings.pdb"
+  "appCustomSettings_autogen/mocs_compilation.cpp"
+  "appCustomSettings_autogen/timestamp"
+  "appcustomsettings_qmltyperegistrations.cpp"
+  "libappCustomSettings.dll.a"
+  "meta_types/appCustomSettings_json_file_list.txt"
+  "meta_types/appCustomSettings_json_file_list.txt.timestamp"
+  "meta_types/qt6appcustomsettings_metatypes.json"
+  "meta_types/qt6appcustomsettings_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appCustomSettings.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

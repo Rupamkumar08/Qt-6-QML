@@ -1,0 +1,6 @@
+module CustomSettings
+typeinfo appCustomSettings.qmltypes
+prefer :/qt/qml/CustomSettings/
+Main 254.0 Main.qml
+depends QtQuick
+

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/CustomSettings/">
+    <file alias="Main.qml">D:/QML/12-TransformsAnimationsStatesandTransitions/CustomSettings/Main.qml</file>
+  </qresource>
+</RCC>
+
